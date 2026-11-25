@@ -474,6 +474,12 @@ input, textarea, select {
 .max-w-\[440px\] { max-width: 440px; }
 .w-\[280px\] { width: 280px; }
 .h-\[280px\] { height: 280px; }
+.w-\[330px\] { width: 330px; }
+.h-\[330px\] { height: 330px; }
+@media (min-width: 640px) {
+  .sm\:w-\[350px\] { width: 350px; }
+  .sm\:h-\[350px\] { height: 350px; }
+}
 .w-11 { width: 2.75rem; }
 .h-11 { height: 2.75rem; }
 .min-h-\[42px\] { min-height: 42px; }

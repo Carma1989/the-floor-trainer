@@ -186,7 +186,7 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
           <div className="flex-1 min-h-0 flex items-center justify-center px-2">
             <div
               onClick={handleRevealOrNext}
-              className={`relative w-[280px] h-[280px] sm:w-[310px] sm:h-[310px] shrink-0 p-1.5 transition-all duration-200 rounded-3xl cursor-pointer select-none ${
+              className={`relative w-[330px] h-[330px] sm:w-[350px] sm:h-[350px] shrink-0 p-1.5 transition-all duration-200 rounded-3xl cursor-pointer select-none ${
                 revealed ? 'ring-4 ring-amber-400/80' : ''
               }`}
             >
