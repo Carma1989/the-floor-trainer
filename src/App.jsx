@@ -7,7 +7,8 @@ import { Volume2, VolumeX, GraduationCap, Grid, Swords } from 'lucide-react';
 import { sound } from './utils/audio';
 
 export default function App() {
-  const [tab, setTab] = useState('play'); // 'play' | 'browse'
+  const initialRoom = new URLSearchParams(window.location.search).get('room');
+  const [tab, setTab] = useState(initialRoom ? 'duel' : 'play'); // 'play' | 'duel' | 'browse'
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [isMuted, setIsMuted] = useState(true);
 

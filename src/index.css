@@ -543,9 +543,15 @@ input, textarea, select {
 .hover\:bg-rose-500:hover { background-color: #f43f5e; }
 .disabled\:opacity-40:disabled { opacity: 0.4; }
 .disabled\:opacity-60:disabled { opacity: 0.6; }
+.disabled\:opacity-50:disabled { opacity: 0.5; }
+.opacity-75 { opacity: 0.75; }
+.w-\[225px\] { width: 225px; }
+.h-\[225px\] { height: 225px; }
 .w-\[240px\] { width: 240px; }
 .h-\[240px\] { height: 240px; }
 @media (min-width: 640px) {
+  .sm\:w-\[255px\] { width: 255px; }
+  .sm\:h-\[255px\] { height: 255px; }
   .sm\:w-\[270px\] { width: 270px; }
   .sm\:h-\[270px\] { height: 270px; }
 }
