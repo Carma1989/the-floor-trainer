@@ -4152,7 +4152,8 @@ export const DEFAULT_CATEGORIES = [
           "ducati",
           "dukati"
         ],
-        "imageUrl": "/logos/moto-ducati.png"
+        "imageUrl": "/media/631e270cfb4e.jpg",
+        "revealedImageUrl": "/logos/moto-ducati.png"
       },
       {
         "id": "moto-harley",
@@ -4163,7 +4164,8 @@ export const DEFAULT_CATEGORIES = [
           "hd",
           "harlej"
         ],
-        "imageUrl": "/logos/moto-harley.png"
+        "imageUrl": "/media/b950134f5930.jpg",
+        "revealedImageUrl": "/logos/moto-harley.png"
       },
       {
         "id": "moto-yamaha",
@@ -4172,7 +4174,8 @@ export const DEFAULT_CATEGORIES = [
           "yamaha",
           "jamaha"
         ],
-        "imageUrl": "/logos/moto-yamaha.png"
+        "imageUrl": "/media/053a629a1863.jpg",
+        "revealedImageUrl": "/logos/moto-yamaha.png"
       },
       {
         "id": "moto-kawasaki",
@@ -4180,7 +4183,8 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "kawasaki"
         ],
-        "imageUrl": "/logos/moto-kawasaki.png"
+        "imageUrl": "/media/86a9fcf48fd9.jpg",
+        "revealedImageUrl": "/logos/moto-kawasaki.png"
       },
       {
         "id": "moto-bmw",
@@ -4190,7 +4194,8 @@ export const DEFAULT_CATEGORIES = [
           "bmw motorrad",
           "beemka"
         ],
-        "imageUrl": "/logos/moto-bmw.png"
+        "imageUrl": "/media/89cba3c324d0.png",
+        "revealedImageUrl": "/logos/moto-bmw.png"
       },
       {
         "id": "moto-ktm",
@@ -4199,7 +4204,8 @@ export const DEFAULT_CATEGORIES = [
           "ktm",
           "ka te em"
         ],
-        "imageUrl": "/logos/moto-ktm.png"
+        "imageUrl": "/media/fb691802c7cc.jpg",
+        "revealedImageUrl": "/logos/moto-ktm.png"
       },
       {
         "id": "moto-triumph",
@@ -4208,7 +4214,8 @@ export const DEFAULT_CATEGORIES = [
           "triumph",
           "triumf"
         ],
-        "imageUrl": "/logos/moto-triumph.png"
+        "imageUrl": "/media/36515e08d752.jpg",
+        "revealedImageUrl": "/logos/moto-triumph.png"
       },
       {
         "id": "moto-honda",
@@ -4216,7 +4223,8 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "honda"
         ],
-        "imageUrl": "/logos/moto-honda.png"
+        "imageUrl": "/media/3cb158a3629f.jpg",
+        "revealedImageUrl": "/logos/moto-honda.png"
       },
       {
         "id": "moto-suzuki",
@@ -4224,7 +4232,8 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "suzuki"
         ],
-        "imageUrl": "/logos/moto-suzuki.png"
+        "imageUrl": "/media/948b79bb7e9a.jpg",
+        "revealedImageUrl": "/logos/moto-suzuki.png"
       },
       {
         "id": "moto-aprilia",
@@ -4233,7 +4242,8 @@ export const DEFAULT_CATEGORIES = [
           "aprilia",
           "aprilla"
         ],
-        "imageUrl": "/logos/moto-aprilia.png"
+        "imageUrl": "/media/9e817c5033fd.jpg",
+        "revealedImageUrl": "/logos/moto-aprilia.png"
       },
       {
         "id": "moto-motoguzzi",
@@ -4242,7 +4252,8 @@ export const DEFAULT_CATEGORIES = [
           "moto guzzi",
           "guzzi"
         ],
-        "imageUrl": "/logos/moto-motoguzzi.png"
+        "imageUrl": "/media/8bd1343a7a53.jpg",
+        "revealedImageUrl": "/logos/moto-motoguzzi.png"
       },
       {
         "id": "moto-husqvarna",
@@ -4251,7 +4262,8 @@ export const DEFAULT_CATEGORIES = [
           "husqvarna",
           "huskvarna"
         ],
-        "imageUrl": "/logos/moto-husqvarna.png"
+        "imageUrl": "/media/8a5aa1a21da6.png",
+        "revealedImageUrl": "/logos/moto-husqvarna.png"
       },
       {
         "id": "moto-indian",
@@ -4260,7 +4272,8 @@ export const DEFAULT_CATEGORIES = [
           "indian",
           "indian motorcycle"
         ],
-        "imageUrl": "/logos/moto-indian.png"
+        "imageUrl": "/media/e425d554e6bc.jpg",
+        "revealedImageUrl": "/logos/moto-indian.png"
       },
       {
         "id": "moto-royalenfield",
@@ -4268,7 +4281,8 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "royal enfield"
         ],
-        "imageUrl": "/logos/moto-royalenfield.png"
+        "imageUrl": "/media/1fa23beb46a5.jpg",
+        "revealedImageUrl": "/logos/moto-royalenfield.png"
       },
       {
         "id": "moto-vespa",
@@ -4276,7 +4290,8 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "vespa"
         ],
-        "imageUrl": "/logos/moto-vespa.png"
+        "imageUrl": "/media/62a51accb344.jpg",
+        "revealedImageUrl": "/logos/moto-vespa.png"
       },
       {
         "id": "moto-mvagusta",
@@ -4285,7 +4300,8 @@ export const DEFAULT_CATEGORIES = [
           "mv agusta",
           "agusta"
         ],
-        "imageUrl": "/logos/moto-mvagusta.png"
+        "imageUrl": "/media/853c8babc6ac.png",
+        "revealedImageUrl": "/logos/moto-mvagusta.png"
       },
       {
         "id": "moto-bimota",
@@ -4293,7 +4309,8 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "bimota"
         ],
-        "imageUrl": "/logos/moto-bimota.png"
+        "imageUrl": "/media/a1f0872c505c.jpg",
+        "revealedImageUrl": "/logos/moto-bimota.png"
       },
       {
         "id": "moto-piaggio",
@@ -4302,7 +4319,8 @@ export const DEFAULT_CATEGORIES = [
           "piaggio",
           "piadżio"
         ],
-        "imageUrl": "/logos/moto-piaggio.png"
+        "imageUrl": "/media/c16ff3739ce0.png",
+        "revealedImageUrl": "/logos/moto-piaggio.png"
       },
       {
         "id": "moto-lambretta",
@@ -4310,7 +4328,8 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "lambretta"
         ],
-        "imageUrl": "/logos/moto-lambretta.png"
+        "imageUrl": "/media/22e8bcd95dc3.jpg",
+        "revealedImageUrl": "/logos/moto-lambretta.png"
       },
       {
         "id": "moto-cfmoto",
@@ -4319,7 +4338,8 @@ export const DEFAULT_CATEGORIES = [
           "cfmoto",
           "cf moto"
         ],
-        "imageUrl": "/logos/moto-cfmoto.png"
+        "imageUrl": "/media/4868f094ad10.jpg",
+        "revealedImageUrl": "/logos/moto-cfmoto.png"
       },
       {
         "id": "moto-beta",
@@ -4327,7 +4347,8 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "beta"
         ],
-        "imageUrl": "/logos/moto-beta.png"
+        "imageUrl": "/media/b474ea850ea8.png",
+        "revealedImageUrl": "/logos/moto-beta.png"
       },
       {
         "id": "moto-kymco",
@@ -4336,7 +4357,8 @@ export const DEFAULT_CATEGORIES = [
           "kymco",
           "kimko"
         ],
-        "imageUrl": "/logos/moto-kymco.png"
+        "imageUrl": "/media/f3fdb29e28d1.jpg",
+        "revealedImageUrl": "/logos/moto-kymco.png"
       },
       {
         "id": "moto-wsk",
