@@ -1,26 +1,37 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
+import { resolveAssetUrl } from '../utils/assets';
 
-export function SmartImage({ 
-  src, 
-  alt = '', 
-  className = '', 
+export function SmartImage({
+  src,
+  alt = '',
+  className = '',
   cardBg = 'bg-white',
   onReady
 }) {
-  const isDataSvg = typeof src === 'string' && src.startsWith('data:image/svg+xml');
+  const resolvedSrc = resolveAssetUrl(src);
+  const isDataSvg = typeof resolvedSrc === 'string' && resolvedSrc.startsWith('data:image/svg+xml');
   const [error, setError] = useState(false);
   const [loaded, setLoaded] = useState(isDataSvg);
+  const imgRef = useRef(null);
 
   useEffect(() => {
     setError(false);
-    const svgNow = typeof src === 'string' && src.startsWith('data:image/svg+xml');
-    setLoaded(svgNow);
-    if (onReady) onReady(svgNow);
-  }, [src, onReady]);
+    const svgNow = typeof resolvedSrc === 'string' && resolvedSrc.startsWith('data:image/svg+xml');
+    if (svgNow) {
+      setLoaded(true);
+      if (onReady) onReady(true);
+      return;
+    }
+
+    const imgEl = imgRef.current;
+    const alreadyCached = Boolean(imgEl && imgEl.complete && imgEl.naturalWidth > 0);
+    setLoaded(alreadyCached);
+    if (onReady) onReady(alreadyCached);
+  }, [resolvedSrc, onReady]);
 
   const effectiveBg = isDataSvg ? 'bg-[#0a1128]' : cardBg;
 
-  if (!src || error) {
+  if (!resolvedSrc || error) {
     return (
       <div className={`flex items-center justify-center rounded-3xl select-none ${effectiveBg} ${className}`}>
         <div className="w-16 h-16 rounded-2xl bg-slate-900/10 flex items-center justify-center text-slate-800 font-black text-2xl">
@@ -39,9 +50,11 @@ export function SmartImage({
         </div>
       )}
       <img
-        src={src}
+        ref={imgRef}
+        src={resolvedSrc}
         alt={alt}
         loading="eager"
+        decoding="async"
         referrerPolicy="no-referrer"
         onLoad={() => {
           setLoaded(true);

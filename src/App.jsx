@@ -21,7 +21,7 @@ export default function App() {
   return (
     <div className="w-full min-h-[100dvh] bg-slate-950 text-slate-100 flex items-center justify-center sm:p-4">
       {/* Phone container */}
-      <div className="w-full max-w-[430px] h-[100dvh] sm:h-[880px] sm:max-h-[92vh] sm:rounded-[40px] bg-slate-950 sm:border-4 sm:border-slate-800 shadow-2xl flex flex-col justify-between overflow-hidden relative">
+      <div className="w-full max-w-[440px] h-[100dvh] sm:h-[880px] sm:max-h-[92vh] sm:rounded-[40px] bg-slate-950 sm:border-4 sm:border-slate-800 shadow-2xl flex flex-col justify-between overflow-hidden relative safe-area-shell">
         {/* Top Minimal Bar */}
         <header className="px-4 py-3 border-b border-slate-900 flex items-center justify-between z-10 bg-slate-950/80 backdrop-blur-md">
           <div className="flex items-center gap-2">

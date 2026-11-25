@@ -3,13 +3,13 @@
   "name": "The Wiedza - Baza Wiedzy & Pojedynek 45s",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "./icon.svg",
       "type": "image/svg+xml",
       "sizes": "any",
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/",
+  "start_url": "./",
   "background_color": "#020617",
   "theme_color": "#020617",
   "display": "standalone",

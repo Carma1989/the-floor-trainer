@@ -3,6 +3,7 @@ import { Eye, ArrowRight, ChevronLeft, Keyboard, Shuffle } from 'lucide-react';
 import { SmartImage } from './SmartImage';
 import { checkAnswerMatch } from '../data/categories';
 import { sound } from '../utils/audio';
+import { resolveAssetUrl } from '../utils/assets';
 
 export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
   const [items, setItems] = useState([]);
@@ -35,14 +36,15 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
 
   const currentItem = items[currentIndex] || null;
 
-  // Preload next 5 images in background
+  // Preload next 2 images in background (avoids saturating mobile LTE/5G)
   useEffect(() => {
     if (!items.length) return;
-    for (let offset = 1; offset <= 5; offset++) {
+    for (let offset = 1; offset <= 2; offset++) {
       const nextItem = items[(currentIndex + offset) % items.length];
       if (nextItem?.imageUrl && !nextItem.imageUrl.startsWith('data:')) {
         const img = new Image();
-        img.src = nextItem.imageUrl;
+        img.decoding = 'async';
+        img.src = resolveAssetUrl(nextItem.imageUrl);
       }
     }
   }, [items, currentIndex]);
