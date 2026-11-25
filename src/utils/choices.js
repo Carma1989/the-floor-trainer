@@ -100,6 +100,7 @@ const PEOPLE_CATEGORY_IDS = new Set([
 
 const FEMALE_FIRST_EXCEPTIONS = new Set([
   'kylie', 'miley', 'whitney', 'chappell', 'charli', 'doja', 'sza', 'cardi',
+  'madame',
   'nicki', 'pink', 'cher', 'lorde', 'mø', 'iu', 'scarlett', 'margot', 'rachel',
   'megan', 'ice', 'missy', 'lauryn', 'agnes', 'katniss', 'hermiona', 'eloise',
   'daphne', 'kate', 'penelope', 'violet', 'hyacinth', 'prudence', 'królowa',

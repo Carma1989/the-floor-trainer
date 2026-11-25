@@ -17110,6 +17110,150 @@ export const DEFAULT_CATEGORIES = [
         "name": "Księga / Pamiętnik",
         "aliases": [],
         "imageUrl": "/media/3e086dec6e20.jpg"
+      },
+      {
+        "id": "bridg_ext_1",
+        "name": "Benedict Bridgerton",
+        "image": "/media/b774f7940df0.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_2",
+        "name": "Colin Bridgerton",
+        "image": "/media/8c34f00545ff.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_3",
+        "name": "Gregory Bridgerton",
+        "image": "/media/1dc6f06d3e5f.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_4",
+        "name": "Edwina Sharma",
+        "image": "/media/d7e9a412ce4b.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_5",
+        "name": "Portia Featherington",
+        "image": "/media/126d420d90d3.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_6",
+        "name": "Philippa Featherington",
+        "image": "/media/51477cf76cc7.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_7",
+        "name": "Archibald Featherington",
+        "image": "/media/7d8a5316606f.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_8",
+        "name": "Jack Featherington",
+        "image": "/media/779ce556227d.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_9",
+        "name": "Brimsley",
+        "image": "/media/128b8988a556.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_10",
+        "name": "Will Mondrich",
+        "image": "/media/07df5d30fec0.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_11",
+        "name": "Alice Mondrich",
+        "image": "/media/3d685d899b4f.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_12",
+        "name": "John Stirling (Kilmartin)",
+        "image": "/media/30d319e787a8.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_13",
+        "name": "Theo Sharpe",
+        "image": "/media/c16d458ce46d.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_14",
+        "name": "Młody Król Jerzy III",
+        "image": "/media/cf3175e416be.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_15",
+        "name": "Młoda Lady Agatha Danbury",
+        "image": "/media/bf6ff3465814.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_16",
+        "name": "Księżna Augusta",
+        "image": "/media/d61f96b05f8e.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_17",
+        "name": "Reynolds",
+        "image": "/media/bf6acb8449a8.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_18",
+        "name": "Pióro gęsie (Atrament)",
+        "image": "/media/9e7d473cb0f8.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_19",
+        "name": "Lornetka teatralna",
+        "image": "/media/d71ab10e1671.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_20",
+        "name": "Oranżeria",
+        "image": "/media/48894afc1121.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_21",
+        "name": "Ogród angielski",
+        "image": "/media/d678039200f3.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_22",
+        "name": "Peruka dworska",
+        "image": "/media/35ff8d8b13c3.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_23",
+        "name": "Kieliszek szampana",
+        "image": "/media/b310ad867c6a.jpg",
+        "categoryId": "bridgerton"
+      },
+      {
+        "id": "bridg_ext_24",
+        "name": "Złoty pierścień zaręczynowy",
+        "image": "/media/a2a8f96fb28f.jpg",
+        "categoryId": "bridgerton"
       }
     ]
   },
@@ -20097,6 +20241,337 @@ export const DEFAULT_CATEGORIES = [
         "name": "Jeździectwo",
         "image": "/media/29b7142b5f5e.jpg",
         "categoryId": "sports"
+      }
+    ]
+  },
+  {
+    "id": "flowers_plants",
+    "name": "Kwiaty i Rośliny",
+    "icon": "🌸",
+    "items": [
+      {
+        "id": "flwr_1",
+        "name": "Róża",
+        "image": "/media/aa01f923b3eb.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_2",
+        "name": "Tulipan",
+        "image": "/media/8897d4cdf137.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_3",
+        "name": "Słonecznik",
+        "image": "/media/a3fe23a3cbfd.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_4",
+        "name": "Lawenda",
+        "image": "/media/4a7091307c7e.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_5",
+        "name": "Storczyk (Orchidea)",
+        "image": "/media/a5fa984eefdb.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_6",
+        "name": "Konwalia majowa",
+        "image": "/media/99ddf87a29fd.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_7",
+        "name": "Mak polny",
+        "image": "/media/89eee519b0a8.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_8",
+        "name": "Chaber bławatek",
+        "image": "/media/d486a939b476.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_9",
+        "name": "Stokrotka",
+        "image": "/media/f1b839703ae5.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_10",
+        "name": "Mniszek lekarski (Dmuchawiec)",
+        "image": "/media/277310d8b9ac.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_11",
+        "name": "Bez (Lilak)",
+        "image": "/media/86d6dab4237a.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_12",
+        "name": "Piwonia",
+        "image": "/media/0f33f9040884.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_13",
+        "name": "Hortensja",
+        "image": "/media/13acf8fc7396.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_14",
+        "name": "Magnolia",
+        "image": "/media/e2cfde77f9a7.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_15",
+        "name": "Krokus",
+        "image": "/media/130becbce739.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_16",
+        "name": "Narcyz (Żonkil)",
+        "image": "/media/e283ef0d0244.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_17",
+        "name": "Przebiśnieg",
+        "image": "/media/716a0aefba6f.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_18",
+        "name": "Goździk",
+        "image": "/media/c57cf3d826b2.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_19",
+        "name": "Chryzantema",
+        "image": "/media/041610fee6cd.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_20",
+        "name": "Irys (Kosaciec)",
+        "image": "/media/a9e0ad1db94d.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_21",
+        "name": "Lilia",
+        "image": "/media/2528b9392fc5.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_22",
+        "name": "Lotos",
+        "image": "/media/19d4e5bcbd58.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_23",
+        "name": "Dalia",
+        "image": "/media/23d753d11ad1.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_24",
+        "name": "Fiołek",
+        "image": "/media/6879e9e90b6b.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_25",
+        "name": "Niezapominajka",
+        "image": "/media/3e4b3de9cad8.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_26",
+        "name": "Kaktus",
+        "image": "/media/c78d6ffa15fd.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_27",
+        "name": "Monstera",
+        "image": "/media/da01dcfd139f.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_28",
+        "name": "Paproć",
+        "image": "/media/4cf0c0f3456a.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_29",
+        "name": "Aloes",
+        "image": "/media/19d52ddbbd9e.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_30",
+        "name": "Fikus",
+        "image": "/media/0977f1b5ffb6.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_31",
+        "name": "Palma",
+        "image": "/media/c11cc24e9cc7.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_32",
+        "name": "Bambus",
+        "image": "/media/7e954bbb51d5.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_33",
+        "name": "Bonsai",
+        "image": "/media/8070b4eb3890.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_34",
+        "name": "Bluszcz pospolity",
+        "image": "/media/b0860fd23949.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_35",
+        "name": "Eukaliptus",
+        "image": "/media/14a6f0337b65.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_36",
+        "name": "Muchołówka amerykańska",
+        "image": "/media/cf2d9c6da3ed.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_37",
+        "name": "Rosiczka",
+        "image": "/media/55b7f42f8d8e.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_38",
+        "name": "Dąb",
+        "image": "/media/88663bc2277f.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_39",
+        "name": "Brzoza",
+        "image": "/media/8b4337b0789e.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_40",
+        "name": "Sosna",
+        "image": "/media/0841ab2b49d5.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_41",
+        "name": "Klon",
+        "image": "/media/071465bcf248.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_42",
+        "name": "Wierzba płacząca",
+        "image": "/media/f6c79d682f5e.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_43",
+        "name": "Kasztanowiec",
+        "image": "/media/69878ba9d7c5.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_44",
+        "name": "Lipa",
+        "image": "/media/bbccc2d6546e.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_45",
+        "name": "Jarzębina",
+        "image": "/media/8b016db1486c.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_46",
+        "name": "Wiśnia japońska (Sakura)",
+        "image": "/media/fe4eca91f123.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_47",
+        "name": "Drzewo oliwne",
+        "image": "/media/a2ef01a4a411.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_48",
+        "name": "Winorośl",
+        "image": "/media/c033570f18ad.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_49",
+        "name": "Koniczyna",
+        "image": "/media/8e5f9a0fdc34.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_50",
+        "name": "Pokrzywa",
+        "image": "/media/75d7d582b67c.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_51",
+        "name": "Wrzos",
+        "image": "/media/959c24a455a7.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_52",
+        "name": "Gerbera",
+        "image": "/media/478e8e152e96.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_53",
+        "name": "Begonia",
+        "image": "/media/8db4f506334e.jpg",
+        "categoryId": "flowers_plants"
+      },
+      {
+        "id": "flwr_54",
+        "name": "Pelargonia",
+        "image": "/media/0a674e12c45d.jpg",
+        "categoryId": "flowers_plants"
       }
     ]
   }
