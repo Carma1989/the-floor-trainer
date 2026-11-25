@@ -3,21 +3,23 @@
 import { useState, useEffect, useRef } from 'react';
 import { checkAnswerMatch } from '../data/categories';
 
-export function useSpeechRecognition({ active = false, currentItem = null, onCorrect = null }) {
+export function useSpeechRecognition({ active = false, currentItem = null, onCorrect = null, onPass = null }) {
   const [isSupported, setIsSupported] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [transcript, setTranscript] = useState('');
   const recognitionRef = useRef(null);
   const onCorrectRef = useRef(onCorrect);
+  const onPassRef = useRef(onPass);
   const currentItemRef = useRef(currentItem);
   const activeRef = useRef(active);
   const blockedRef = useRef(false);
 
   useEffect(() => {
     onCorrectRef.current = onCorrect;
+    onPassRef.current = onPass;
     currentItemRef.current = currentItem;
     activeRef.current = active;
-  }, [onCorrect, currentItem, active]);
+  }, [onCorrect, onPass, currentItem, active]);
 
   useEffect(() => {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
@@ -39,10 +41,16 @@ export function useSpeechRecognition({ active = false, currentItem = null, onCor
         const spoken = event.results[i][0].transcript;
         finalTranscript += spoken;
 
-        // Check if spoken word matches current target item
+        // Check if spoken word matches current target item or "pas"
+        const normalized = spoken.trim().toLowerCase();
+        if (onPassRef.current && /\b(pas|pass)\b/.test(normalized)) {
+          onPassRef.current();
+          break;
+        }
         if (currentItemRef.current && checkAnswerMatch(spoken, currentItemRef.current)) {
           if (onCorrectRef.current) {
             onCorrectRef.current();
+            break;
           }
         }
       }

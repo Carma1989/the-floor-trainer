@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import { MobilePlay } from './components/MobilePlay';
 import { MobileBrowse } from './components/MobileBrowse';
+import { MobileDuel2P } from './components/MobileDuel2P';
 import { DEFAULT_CATEGORIES } from './data/categories';
-import { Volume2, VolumeX, GraduationCap, Grid } from 'lucide-react';
+import { Volume2, VolumeX, GraduationCap, Grid, Swords } from 'lucide-react';
 import { sound } from './utils/audio';
 
 export default function App() {
@@ -52,6 +53,14 @@ export default function App() {
             />
           )}
 
+          {tab === 'duel' && (
+            <MobileDuel2P
+              categories={DEFAULT_CATEGORIES}
+              selectedCategory={selectedCategory}
+              onSelectCategory={setSelectedCategory}
+            />
+          )}
+
           {tab === 'browse' && (
             <MobileBrowse
               categories={DEFAULT_CATEGORIES}
@@ -73,6 +82,16 @@ export default function App() {
           >
             <GraduationCap className="w-5 h-5" />
             <span className="text-[10px] font-black uppercase tracking-wider">Ćwicz</span>
+          </button>
+
+          <button
+            onClick={() => setTab('duel')}
+            className={`flex flex-col items-center gap-1 transition-all ${
+              tab === 'duel' ? 'text-rose-400 scale-105' : 'text-slate-500 hover:text-slate-300'
+            }`}
+          >
+            <Swords className="w-5 h-5" />
+            <span className="text-[10px] font-black uppercase tracking-wider">Pojedynek 2P</span>
           </button>
 
           <button
