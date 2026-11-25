@@ -908,6 +908,82 @@ export const DEFAULT_CATEGORIES = [
         "name": "Daddy Yankee",
         "aliases": [],
         "imageUrl": "/media/f5e8aadcb98c.jpg"
+      },
+      {
+        "id": "fore-1f844be4",
+        "name": "Meek Mill",
+        "aliases": [],
+        "imageUrl": "/media/193fa8d64578.jpg"
+      },
+      {
+        "id": "fore-1b5c656e",
+        "name": "Rick Ross",
+        "aliases": [],
+        "imageUrl": "/media/77d490c14dbc.jpg"
+      },
+      {
+        "id": "fore-f2f92f20",
+        "name": "Tyga",
+        "aliases": [],
+        "imageUrl": "/media/317dd3036fa7.jpg"
+      },
+      {
+        "id": "fore-c38e3150",
+        "name": "Kodak Black",
+        "aliases": [],
+        "imageUrl": "/media/895f18a67ad9.png"
+      },
+      {
+        "id": "fore-642b3e20",
+        "name": "Method Man",
+        "aliases": [
+          "wu-tang clan"
+        ],
+        "imageUrl": "/media/3dfaba0c71a6.jpg"
+      },
+      {
+        "id": "fore-23a2193a",
+        "name": "Pharrell Williams",
+        "aliases": [],
+        "imageUrl": "/media/2a801bcb676f.jpg"
+      },
+      {
+        "id": "fore-76661184",
+        "name": "Timbaland",
+        "aliases": [],
+        "imageUrl": "/media/3cea1c12805f.jpg"
+      },
+      {
+        "id": "fore-6d5d8c56",
+        "name": "Nelly",
+        "aliases": [],
+        "imageUrl": "/media/9c49b90a3892.jpg"
+      },
+      {
+        "id": "fore-715754ec",
+        "name": "Ja Rule",
+        "aliases": [],
+        "imageUrl": "/media/8785d882eed1.jpg"
+      },
+      {
+        "id": "fore-c2b3879e",
+        "name": "DMX",
+        "aliases": [],
+        "imageUrl": "/media/d28c766e7ab3.jpg"
+      },
+      {
+        "id": "fore-04a8e5fa",
+        "name": "Skepta",
+        "aliases": [],
+        "imageUrl": "/media/b8f43158f264.jpg"
+      },
+      {
+        "id": "fore-9857b304",
+        "name": "Childish Gambino",
+        "aliases": [
+          "donald glover"
+        ],
+        "imageUrl": "/media/e1b2a62b40ae.jpg"
       }
     ]
   },
@@ -1188,6 +1264,34 @@ export const DEFAULT_CATEGORIES = [
           "sezam"
         ],
         "imageUrl": "/media/af922cfcc4fd.jpg"
+      },
+      {
+        "id": "spic-885b5aa3",
+        "name": "Kminek",
+        "aliases": [],
+        "imageUrl": "/media/5b96918c5363.jpg"
+      },
+      {
+        "id": "spic-4fb8f282",
+        "name": "Koper ogrodowy",
+        "aliases": [
+          "koperek"
+        ],
+        "imageUrl": "/media/c456df5823f1.jpg"
+      },
+      {
+        "id": "spic-81f88c5d",
+        "name": "Pietruszka (natka)",
+        "aliases": [],
+        "imageUrl": "/media/233acd03fe5f.jpg"
+      },
+      {
+        "id": "spic-ae3c5679",
+        "name": "Mięta pieprzowa",
+        "aliases": [
+          "mięta"
+        ],
+        "imageUrl": "/media/e7baba7d58b0.jpg"
       }
     ]
   },
@@ -1552,6 +1656,32 @@ export const DEFAULT_CATEGORIES = [
         "name": "Basenji",
         "aliases": [],
         "imageUrl": "/media/0aa96e265ae9.jpg"
+      },
+      {
+        "id": "dog_-85a1cd87",
+        "name": "Australian Shepherd",
+        "aliases": [
+          "owczarek australijski"
+        ],
+        "imageUrl": "/media/a3f055fd6055.jpg"
+      },
+      {
+        "id": "dog_-f943e844",
+        "name": "Malamut",
+        "aliases": [],
+        "imageUrl": "/media/aa4238e61d03.jpg"
+      },
+      {
+        "id": "dog_-d19b6929",
+        "name": "Leonberger",
+        "aliases": [],
+        "imageUrl": "/media/fda03ceb7361.jpg"
+      },
+      {
+        "id": "dog_-3f2d04d0",
+        "name": "Bordeaux (Dog de Bordeaux)",
+        "aliases": [],
+        "imageUrl": "/media/8f27bddb6ff0.jpg"
       }
     ]
   },
@@ -1844,6 +1974,60 @@ export const DEFAULT_CATEGORIES = [
         "name": "Kot himalajski",
         "aliases": [],
         "imageUrl": "/media/462695ff0d5f.jpg"
+      },
+      {
+        "id": "cat_-edb8c385",
+        "name": "Kot europejski krótkowłosy",
+        "aliases": [],
+        "imageUrl": "/media/63beff0840fe.jpg"
+      },
+      {
+        "id": "cat_-faa0fa9f",
+        "name": "Kot kartuski",
+        "aliases": [],
+        "imageUrl": "/media/7a076bbb70fe.jpg"
+      },
+      {
+        "id": "cat_-fbdb2b37",
+        "name": "Kot bombayski",
+        "aliases": [],
+        "imageUrl": "/media/7c079cb5420f.jpg"
+      },
+      {
+        "id": "cat_-b3b084ce",
+        "name": "Kot selkirk rex",
+        "aliases": [],
+        "imageUrl": "/media/750b18aa951d.jpg"
+      },
+      {
+        "id": "cat_-febaad58",
+        "name": "Kot kornwalijski",
+        "aliases": [],
+        "imageUrl": "/media/cfa81a2f8236.jpg"
+      },
+      {
+        "id": "cat_-ff10e27c",
+        "name": "Kot snowshoe",
+        "aliases": [],
+        "imageUrl": "/media/2e1abedd479c.jpg"
+      },
+      {
+        "id": "cat_-137b78bc",
+        "name": "Kot sokoke",
+        "aliases": [],
+        "imageUrl": "/media/1eba043a28c6.jpg"
+      },
+      {
+        "id": "cat_-8236a4a9",
+        "name": "Kot peterbald",
+        "aliases": [],
+        "imageUrl": "/media/708d1249a423.jpg"
+      },
+      {
+        "id": "cat_-f53eb21a",
+        "name": "Kot lykoi",
+        "aliases": [],
+        "imageUrl": "/media/3dbb23d3cbdd.jpg"
       }
     ]
   },
@@ -2155,6 +2339,44 @@ export const DEFAULT_CATEGORIES = [
         "name": "Theremin",
         "aliases": [],
         "imageUrl": "/media/9138ea7c17e7.jpg"
+      },
+      {
+        "id": "musi-44f4a27f",
+        "name": "Konga",
+        "aliases": [],
+        "imageUrl": "/media/98cac3545230.jpg"
+      },
+      {
+        "id": "musi-6b5b7f37",
+        "name": "Kalimba",
+        "aliases": [
+          "mbira"
+        ],
+        "imageUrl": "/media/fc4b657d945f.jpg"
+      },
+      {
+        "id": "musi-2b353652",
+        "name": "Klawikord",
+        "aliases": [],
+        "imageUrl": "/media/3f2cde1006f8.jpg"
+      },
+      {
+        "id": "musi-e2dc0a1b",
+        "name": "Fletnia Pana",
+        "aliases": [],
+        "imageUrl": "/media/271c36cb4fe1.jpg"
+      },
+      {
+        "id": "musi-eac0aa2c",
+        "name": "Czelesta",
+        "aliases": [],
+        "imageUrl": "/media/2f2a3f755f9b.jpg"
+      },
+      {
+        "id": "musi-b0646144",
+        "name": "Koto",
+        "aliases": [],
+        "imageUrl": "/media/6b0104aeee12.jpg"
       }
     ]
   },
@@ -2481,6 +2703,30 @@ export const DEFAULT_CATEGORIES = [
         "name": "Rudzik",
         "aliases": [],
         "imageUrl": "/media/7d43c46955a8.jpg"
+      },
+      {
+        "id": "bird-52c41227",
+        "name": "Słowik",
+        "aliases": [],
+        "imageUrl": "/media/0095fc7d635f.jpg"
+      },
+      {
+        "id": "bird-edaa7673",
+        "name": "Drozd śpiewak",
+        "aliases": [],
+        "imageUrl": "/media/c84aa2c6f513.jpg"
+      },
+      {
+        "id": "bird-60670143",
+        "name": "Strzyżyk",
+        "aliases": [],
+        "imageUrl": "/media/eeb5e1392159.jpg"
+      },
+      {
+        "id": "bird-3fd23656",
+        "name": "Mysikrólik",
+        "aliases": [],
+        "imageUrl": "/media/126e0bb321f9.jpg"
       }
     ]
   },
@@ -2864,6 +3110,32 @@ export const DEFAULT_CATEGORIES = [
           "armstrong"
         ],
         "imageUrl": "/media/4f4b52b8b48a.jpg"
+      },
+      {
+        "id": "nort-aeee3336",
+        "name": "Ottawa",
+        "aliases": [],
+        "imageUrl": "/media/58424ee7bc17.jpg"
+      },
+      {
+        "id": "nort-abf1f3d5",
+        "name": "Toronto (CN Tower)",
+        "aliases": [
+          "toronto"
+        ],
+        "imageUrl": "/media/093cb1f10bf8.png"
+      },
+      {
+        "id": "nort-38278119",
+        "name": "Vancouver",
+        "aliases": [],
+        "imageUrl": "/media/69e60f8a5c64.jpg"
+      },
+      {
+        "id": "nort-68ed1bf6",
+        "name": "Meksyk (Miasto Meksyk)",
+        "aliases": [],
+        "imageUrl": "/media/b272a01caf1d.jpg"
       }
     ]
   },
@@ -3658,6 +3930,38 @@ export const DEFAULT_CATEGORIES = [
         "name": "Twice",
         "aliases": [],
         "imageUrl": "/media/9cbc2e7f0775.jpg"
+      },
+      {
+        "id": "sout-94919672",
+        "name": "Gochujang",
+        "aliases": [],
+        "imageUrl": "/media/5d7f7e9b5a31.jpg"
+      },
+      {
+        "id": "sout-af1aa01e",
+        "name": "Japchae",
+        "aliases": [],
+        "imageUrl": "/media/2e1478e6085e.jpg"
+      },
+      {
+        "id": "sout-f59de15e",
+        "name": "Kimbap",
+        "aliases": [
+          "gimbap"
+        ],
+        "imageUrl": "/media/c5a5b4a6cd73.jpg"
+      },
+      {
+        "id": "sout-dbcb1e55",
+        "name": "Suwon",
+        "aliases": [],
+        "imageUrl": "/media/e31108bfcaea.jpg"
+      },
+      {
+        "id": "sout-c72fa5f8",
+        "name": "Stray Kids",
+        "aliases": [],
+        "imageUrl": "/media/3db9a501205e.png"
       }
     ]
   },
@@ -7071,6 +7375,38 @@ export const DEFAULT_CATEGORIES = [
           "pzu"
         ],
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EROZWI%C5%83%20SKR%C3%93T%20%2F%20AKRONIM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3EPZU%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20ubezpieczyciel%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "acr-5a61e975",
+        "name": "Międzynarodowy Fundusz Walutowy",
+        "aliases": [
+          "mfw"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EAKRONIMY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3EIMF%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ERozwi%C5%84%20skr%C3%B3t%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "acr-14297990",
+        "name": "Biuro Informacji Kredytowej",
+        "aliases": [
+          "bik"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EAKRONIMY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3EBIK%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ERozwi%C5%84%20skr%C3%B3t%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "acr-523158c3",
+        "name": "Ministerstwo Spraw Wewnętrznych i Administracji",
+        "aliases": [
+          "mswia"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EAKRONIMY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3EMSWiA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ERozwi%C5%84%20skr%C3%B3t%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "acr-cdbc895d",
+        "name": "Personal Identification Number",
+        "aliases": [
+          "kod pin"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EAKRONIMY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3EPIN%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ERozwi%C5%84%20skr%C3%B3t%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -7845,6 +8181,30 @@ export const DEFAULT_CATEGORIES = [
           "slowenia"
         ],
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EDOMENA%20KRAJU%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3E.si%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPodaj%20pa%C5%84stwo%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "dom-2d81e70d",
+        "name": "Luksemburg",
+        "aliases": [
+          "luksemburg"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EDOMENA%20INTERNETOWA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22128%22%3E.lu%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EDomena%20krajowa%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "dom-22ef33a7",
+        "name": "Malta",
+        "aliases": [
+          "malta"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EDOMENA%20INTERNETOWA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22128%22%3E.mt%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EDomena%20krajowa%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "dom-ed0d22a3",
+        "name": "Cypr",
+        "aliases": [
+          "cypr"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EDOMENA%20INTERNETOWA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22128%22%3E.cy%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EDomena%20krajowa%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -8196,6 +8556,62 @@ export const DEFAULT_CATEGORIES = [
           "6"
         ],
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ESZYBKA%20MATMA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2256%22%3ELiczba%20bok%C3%B3w%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3Esze%C5%9Bciok%C4%85ta%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2224%22%3E(heksagonu)%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pow-ffcfaf01",
+        "name": "18",
+        "aliases": [
+          "18"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EMATEMATYKA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22110%22%3E%E2%88%9A324%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPierwiastek%20kwadratowy%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pow-0d6b54b1",
+        "name": "128",
+        "aliases": [
+          "128"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EMATEMATYKA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22110%22%3E2%E2%81%B7%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPot%C4%99ga%20dw%C3%B3jki%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pow-eec09a6f",
+        "name": "81",
+        "aliases": [
+          "81"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EMATEMATYKA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22110%22%3E3%E2%81%B4%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPot%C4%99ga%20tr%C3%B3jki%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pow-8605cebc",
+        "name": "49",
+        "aliases": [
+          "49"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EMATEMATYKA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22110%22%3E7%C2%B2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPot%C4%99ga%20liczby%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pow-f6c95045",
+        "name": "243",
+        "aliases": [
+          "243"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EMATEMATYKA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22110%22%3E3%E2%81%B5%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPot%C4%99ga%20tr%C3%B3jki%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pow-df84fd95",
+        "name": "40",
+        "aliases": [
+          "40"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EMATEMATYKA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22110%22%3E%E2%88%9A1600%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPierwiastek%20kwadratowy%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pow-50a640a7",
+        "name": "50",
+        "aliases": [
+          "50"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EMATEMATYKA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%22110%22%3E%E2%88%9A2500%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPierwiastek%20kwadratowy%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -8724,6 +9140,66 @@ export const DEFAULT_CATEGORIES = [
         "name": "Mount St. Helens",
         "aliases": [],
         "imageUrl": "/media/373ffa3547aa.jpg"
+      },
+      {
+        "id": "usa_-b58a5e43",
+        "name": "Franklin D. Roosevelt",
+        "aliases": [
+          "fdr"
+        ],
+        "imageUrl": "/media/d698069f50c4.jpg"
+      },
+      {
+        "id": "usa_-efa52b69",
+        "name": "Barack Obama",
+        "aliases": [
+          "obama"
+        ],
+        "imageUrl": "/media/256aa86dd28d.jpg"
+      },
+      {
+        "id": "usa_-57b851eb",
+        "name": "Martin Luther King Jr.",
+        "aliases": [
+          "mlk"
+        ],
+        "imageUrl": "/media/20a76bc960b8.jpg"
+      },
+      {
+        "id": "usa_-8a47a117",
+        "name": "Neil Armstrong",
+        "aliases": [
+          "armstrong"
+        ],
+        "imageUrl": "/media/3ca4ec2923fc.jpg"
+      },
+      {
+        "id": "usa_-4dbe78ed",
+        "name": "Park Narodowy Sekwoi",
+        "aliases": [
+          "sekwoje"
+        ],
+        "imageUrl": "/media/ac98d1697cfb.jpg"
+      },
+      {
+        "id": "usa_-f009a05b",
+        "name": "Brama Łukowa (Gateway Arch)",
+        "aliases": [],
+        "imageUrl": "/media/2fe71fa4ea05.jpg"
+      },
+      {
+        "id": "usa_-65bd9b68",
+        "name": "Super Bowl",
+        "aliases": [],
+        "imageUrl": "/media/72ab8c48724e.jpg"
+      },
+      {
+        "id": "usa_-2464cee0",
+        "name": "Hollywood Walk of Fame",
+        "aliases": [
+          "aleja gwiazd"
+        ],
+        "imageUrl": "/media/5b72d7582975.jpg"
       }
     ]
   },
@@ -9015,6 +9491,85 @@ export const DEFAULT_CATEGORIES = [
           "kask"
         ],
         "imageUrl": "/media/4a6605d7f21a.jpg"
+      },
+      {
+        "id": "firs-e64366d5",
+        "name": "Woda utleniona",
+        "aliases": [],
+        "imageUrl": "/media/06eb87196d30.png"
+      },
+      {
+        "id": "firs-be6469ab",
+        "name": "Szyna Kramera / usztywnienie",
+        "aliases": [
+          "szyna"
+        ],
+        "imageUrl": "/media/df16784845c9.jpg"
+      },
+      {
+        "id": "firs-7387c987",
+        "name": "Pulsoksymetr",
+        "aliases": [],
+        "imageUrl": "/media/6daa20386257.jpg"
+      },
+      {
+        "id": "firs-555a3814",
+        "name": "Strzykawka z igłą",
+        "aliases": [
+          "igła"
+        ],
+        "imageUrl": "/media/8720c72edd70.png"
+      },
+      {
+        "id": "firs-e3146e28",
+        "name": "Klucz imbusowy",
+        "aliases": [
+          "imbus"
+        ],
+        "imageUrl": "/media/02b68d197b0d.jpg"
+      },
+      {
+        "id": "firs-adcfe228",
+        "name": "Klucz nasadowy (Grzechotka)",
+        "aliases": [
+          "grzechotka"
+        ],
+        "imageUrl": "/media/e6603f9305ac.jpg"
+      },
+      {
+        "id": "firs-133cd0cf",
+        "name": "Spawarka",
+        "aliases": [],
+        "imageUrl": "/media/88574c30ae6e.jpg"
+      },
+      {
+        "id": "firs-58b9a224",
+        "name": "Nity / Nitownica",
+        "aliases": [],
+        "imageUrl": "/media/24a915496522.jpg"
+      },
+      {
+        "id": "firs-9d3ed10b",
+        "name": "Kątownik stolarski",
+        "aliases": [
+          "kątownik"
+        ],
+        "imageUrl": "/media/a8ad121b38ff.jpg"
+      },
+      {
+        "id": "firs-a91f685e",
+        "name": "Śruba i nakrętka",
+        "aliases": [
+          "śruba",
+          "nakrętka"
+        ],
+        "imageUrl": "/media/af427c45db17.jpg"
+      },
+      {
+        "id": "firs-5735f4ee",
+        "name": "Taczka",
+        "aliases": [],
+        "imageUrl": "/media/86e08f28aafe.jpg"
       }
     ]
   },
@@ -9277,6 +9832,90 @@ export const DEFAULT_CATEGORIES = [
           "soundcloud"
         ],
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20transform%3D%22translate(0%2C%20100)%22%3E%0A%20%20%20%20%0A%20%20%20%20%3Cg%20transform%3D%22translate(230%2C%20130)%20scale(14.16)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M23.999%2014.165c-.052%201.796-1.612%203.169-3.4%203.169h-8.18a.68.68%200%200%201-.675-.683V7.862a.747.747%200%200%201%20.452-.724s.75-.513%202.333-.513a5.364%205.364%200%200%201%202.763.755%205.433%205.433%200%200%201%202.57%203.54c.282-.08.574-.121.868-.12.884%200%201.73.358%202.347.992s.948%201.49.922%202.373ZM10.721%208.421c.247%202.98.427%205.697%200%208.672a.264.264%200%200%201-.53%200c-.395-2.946-.22-5.718%200-8.672a.264.264%200%200%201%20.53%200ZM9.072%209.448c.285%202.659.37%204.986-.006%207.655a.277.277%200%200%201-.55%200c-.331-2.63-.256-5.02%200-7.655a.277.277%200%200%201%20.556%200Zm-1.663-.257c.27%202.726.39%205.171%200%207.904a.266.266%200%200%201-.532%200c-.38-2.69-.257-5.21%200-7.904a.266.266%200%200%201%20.532%200Zm-1.647.77a26.108%2026.108%200%200%201-.008%207.147.272.272%200%200%201-.542%200%2027.955%2027.955%200%200%201%200-7.147.275.275%200%200%201%20.55%200Zm-1.67%201.769c.421%201.865.228%203.5-.029%205.388a.257.257%200%200%201-.514%200c-.21-1.858-.398-3.549%200-5.389a.272.272%200%200%201%20.543%200Zm-1.655-.273c.388%201.897.26%203.508-.01%205.412-.026.28-.514.283-.54%200-.244-1.878-.347-3.54-.01-5.412a.283.283%200%200%201%20.56%200Zm-1.668.911c.4%201.268.257%202.292-.026%203.572a.257.257%200%200%201-.514%200c-.241-1.262-.354-2.312-.023-3.572a.283.283%200%200%201%20.563%200Z%22%20fill%3D%22%23FF5500%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-8b777ebc",
+        "name": "WhatsApp",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M17.472%2014.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94%201.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198%200-.52.074-.792.372-.272.297-1.04%201.016-1.04%202.479%200%201.462%201.065%202.875%201.213%203.074.149.198%202.096%203.2%205.077%204.487.709.306%201.262.489%201.694.625.712.227%201.36.195%201.871.118.571-.085%201.758-.719%202.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421%207.403h-.004a9.87%209.87%200%2001-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86%209.86%200%2001-1.51-5.26c.001-5.45%204.436-9.884%209.888-9.884%202.64%200%205.122%201.03%206.988%202.898a9.825%209.825%200%20012.893%206.994c-.003%205.45-4.437%209.884-9.885%209.884m8.413-18.297A11.815%2011.815%200%200012.05%200C5.495%200%20.16%205.335.157%2011.892c0%202.096.547%204.142%201.588%205.945L.057%2024l6.305-1.654a11.882%2011.882%200%20005.683%201.448h.005c6.554%200%2011.89-5.335%2011.893-11.893a11.821%2011.821%200%2000-3.48-8.413Z%22%20fill%3D%22%2325D366%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-085fea7a",
+        "name": "Signal",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12%200q-.934%200-1.83.139l.17%201.111a11%2011%200%200%201%203.32%200l.172-1.111A12%2012%200%200%200%2012%200M9.152.34A12%2012%200%200%200%205.77%201.742l.584.961a10.8%2010.8%200%200%201%203.066-1.27zm5.696%200-.268%201.094a10.8%2010.8%200%200%201%203.066%201.27l.584-.962A12%2012%200%200%200%2014.848.34M12%202.25a9.75%209.75%200%200%200-8.539%2014.459c.074.134.1.292.064.441l-1.013%204.338%204.338-1.013a.62.62%200%200%201%20.441.064A9.7%209.7%200%200%200%2012%2021.75c5.385%200%209.75-4.365%209.75-9.75S17.385%202.25%2012%202.25m-7.092.068a12%2012%200%200%200-2.59%202.59l.909.664a11%2011%200%200%201%202.345-2.345zm14.184%200-.664.909a11%2011%200%200%201%202.345%202.345l.909-.664a12%2012%200%200%200-2.59-2.59M1.742%205.77A12%2012%200%200%200%20.34%209.152l1.094.268a10.8%2010.8%200%200%201%201.269-3.066zm20.516%200-.961.584a10.8%2010.8%200%200%201%201.27%203.066l1.093-.268a12%2012%200%200%200-1.402-3.383M.138%2010.168A12%2012%200%200%200%200%2012q0%20.934.139%201.83l1.111-.17A11%2011%200%200%201%201.125%2012q0-.848.125-1.66zm23.723.002-1.111.17q.125.812.125%201.66c0%20.848-.042%201.12-.125%201.66l1.111.172a12.1%2012.1%200%200%200%200-3.662M1.434%2014.58l-1.094.268a12%2012%200%200%200%20.96%202.591l-.265%201.14%201.096.255.36-1.539-.188-.365a10.8%2010.8%200%200%201-.87-2.35m21.133%200a10.8%2010.8%200%200%201-1.27%203.067l.962.584a12%2012%200%200%200%201.402-3.383zm-1.793%203.848a11%2011%200%200%201-2.345%202.345l.664.909a12%2012%200%200%200%202.59-2.59zm-19.959%201.1L.357%2021.48a1.8%201.8%200%200%200%202.162%202.161l1.954-.455-.256-1.095-1.953.455a.675.675%200%200%201-.81-.81l.454-1.954zm16.832%201.769a10.8%2010.8%200%200%201-3.066%201.27l.268%201.093a12%2012%200%200%200%203.382-1.402zm-10.94.213-1.54.36.256%201.095%201.139-.266c.814.415%201.683.74%202.591.961l.268-1.094a10.8%2010.8%200%200%201-2.35-.869zm3.634%201.24-.172%201.111a12.1%2012.1%200%200%200%203.662%200l-.17-1.111q-.812.125-1.66.125a11%2011%200%200%201-1.66-.125%22%20fill%3D%22%233B45FD%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-0dfec3de",
+        "name": "Tumblr",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M14.563%2024c-5.093%200-7.031-3.756-7.031-6.411V9.747H5.116V6.648c3.63-1.313%204.512-4.596%204.71-6.469C9.84.051%209.941%200%209.999%200h3.517v6.114h4.801v3.633h-4.82v7.47c.016%201.001.375%202.371%202.207%202.371h.09c.631-.02%201.486-.205%201.936-.419l1.156%203.425c-.436.636-2.4%201.374-4.156%201.404h-.178l.011.002z%22%20fill%3D%22%2336465D%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-15db599e",
+        "name": "Vimeo",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M23.9765%206.4168c-.105%202.338-1.739%205.5429-4.894%209.6088-3.2679%204.247-6.0258%206.3699-8.2898%206.3699-1.409%200-2.578-1.294-3.553-3.881l-1.9179-7.1138c-.719-2.584-1.488-3.878-2.312-3.878-.179%200-.806.378-1.8809%201.132l-1.129-1.457a315.06%20315.06%200%20003.501-3.1279c1.579-1.368%202.765-2.085%203.5539-2.159%201.867-.18%203.016%201.1%203.447%203.838.465%202.953.789%204.789.971%205.5069.5389%202.45%201.1309%203.674%201.7759%203.674.502%200%201.256-.796%202.265-2.385%201.004-1.589%201.54-2.797%201.612-3.628.144-1.371-.395-2.061-1.614-2.061-.574%200-1.167.121-1.777.391%201.186-3.8679%203.434-5.7568%206.7619-5.6368%202.4729.06%203.6279%201.664%203.4929%204.7969z%22%20fill%3D%22%231AB7EA%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-c8a97def",
+        "name": "Bandcamp",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M0%2018.75l7.437-13.5H24l-7.438%2013.5H0z%22%20fill%3D%22%23408294%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-675cd6f3",
+        "name": "Mastodon",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M23.268%205.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242%2015.792%200%2011.813%200h-.03c-3.98%200-4.835.242-5.288.309C3.882.692%201.496%202.518.917%205.127.64%206.412.61%207.837.661%209.143c.074%201.874.088%203.745.26%205.611.118%201.24.325%202.47.62%203.68.55%202.237%202.777%204.098%204.96%204.857%202.336.792%204.849.923%207.256.38.265-.061.527-.132.786-.213.585-.184%201.27-.39%201.774-.753a.057.057%200%200%200%20.023-.043v-1.809a.052.052%200%200%200-.02-.041.053.053%200%200%200-.046-.01%2020.282%2020.282%200%200%201-4.709.545c-2.73%200-3.463-1.284-3.674-1.818a5.593%205.593%200%200%201-.319-1.433.053.053%200%200%201%20.066-.054c1.517.363%203.072.546%204.632.546.376%200%20.75%200%201.125-.01%201.57-.044%203.224-.124%204.768-.422.038-.008.077-.015.11-.024%202.435-.464%204.753-1.92%204.989-5.604.008-.145.03-1.52.03-1.67.002-.512.167-3.63-.024-5.545zm-3.748%209.195h-2.561V8.29c0-1.309-.55-1.976-1.67-1.976-1.23%200-1.846.79-1.846%202.35v3.403h-2.546V8.663c0-1.56-.617-2.35-1.848-2.35-1.112%200-1.668.668-1.67%201.977v6.218H4.822V8.102c0-1.31.337-2.35%201.011-3.12.696-.77%201.608-1.164%202.74-1.164%201.311%200%202.302.5%202.962%201.498l.638%201.06.638-1.06c.66-.999%201.65-1.498%202.96-1.498%201.13%200%202.043.395%202.74%201.164.675.77%201.012%201.81%201.012%203.12z%22%20fill%3D%22%236364FF%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-b86a320e",
+        "name": "Bluesky",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M5.202%202.857C7.954%204.922%2010.913%209.11%2012%2011.358c1.087-2.247%204.046-6.436%206.798-8.501C20.783%201.366%2024%20.213%2024%203.883c0%20.732-.42%206.156-.667%207.037-.856%203.061-3.978%203.842-6.755%203.37%204.854.826%206.089%203.562%203.422%206.299-5.065%205.196-7.28-1.304-7.847-2.97-.104-.305-.152-.448-.153-.327%200-.121-.05.022-.153.327-.568%201.666-2.782%208.166-7.847%202.97-2.667-2.737-1.432-5.473%203.422-6.3-2.777.473-5.899-.308-6.755-3.369C.42%2010.04%200%204.615%200%203.883c0-3.67%203.217-2.517%205.202-1.026%22%20fill%3D%22%231185FE%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-3e07960f",
+        "name": "Kick",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M1.333%200h8v5.333H12V2.667h2.667V0h8v8H20v2.667h-2.667v2.666H20V16h2.667v8h-8v-2.667H12v-2.666H9.333V24h-8Z%22%20fill%3D%22%2353FC19%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-4cbaa1f4",
+        "name": "Rumble",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M14.4528%2013.5458c.8064-.6542.9297-1.8381.2756-2.6445a1.8802%201.8802%200%200%200-.2756-.2756%2021.2127%2021.2127%200%200%200-4.3121-2.776c-1.066-.51-2.256.2-2.4261%201.414a23.5226%2023.5226%200%200%200-.14%205.5021c.116%201.23%201.292%201.964%202.372%201.492a19.6285%2019.6285%200%200%200%204.5062-2.704v-.008zm6.9322-5.4002c2.0335%202.228%202.0396%205.637.014%207.8723A26.1487%2026.1487%200%200%201%208.2946%2023.846c-2.6848.6713-5.4168-.914-6.1662-3.5781-1.524-5.2002-1.3-11.0803.17-16.3045.772-2.744%203.3521-4.4661%206.0102-3.832%204.9242%201.174%209.5443%204.196%2013.0764%208.0121v.002z%22%20fill%3D%22%2385C742%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-8e9da0e1",
+        "name": "Dailymotion",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M21.823%207.327a11.928%2011.928%200%200%200-2.606-3.814%2012.126%2012.126%200%200%200-3.866-2.57A12.246%2012.246%200%200%200%2010.617%200H1.831a.602.602%200%200%200-.609.603v3.764c0%20.162.064.312.179.426l4.164%204.123a.612.612%200%200%200%20.439.177h4.56c.806%200%201.56.313%202.125.88.557.559.856%201.296.843%202.075-.029%201.571-1.343%202.849-2.931%202.849h-6.74a.613.613%200%200%200-.432.176.619.619%200%200%200-.178.427v3.764c0%20.162.063.312.178.427l4.139%204.099a.647.647%200%200%200%20.476.21h2.572a12.276%2012.276%200%200%200%204.733-.945%2012.145%2012.145%200%200%200%203.866-2.571%2011.959%2011.959%200%200%200%202.607-3.813c.633-1.479.956-3.051.956-4.67%200-1.619-.321-3.19-.956-4.669l.001-.005ZM2.441%204.118V1.982l2.945%202.755.001%202.297-2.946-2.916Zm4.975%2017.813-2.945-2.917v-2.137l2.945%202.755v2.299Zm-2.004-5.832h5.19c2.248%200%204.107-1.807%204.147-4.03a4.027%204.027%200%200%200-1.192-2.937%204.203%204.203%200%200%200-2.996-1.239H6.606V5.216h3.996c1.831%200%203.553.706%204.849%201.986a6.724%206.724%200%200%201-.152%209.736%206.875%206.875%200%200%201-4.697%201.84H8.275L5.412%2016.1v-.001Zm15.289.1a10.753%2010.753%200%200%201-2.345%203.431%2010.91%2010.91%200%200%201-3.48%202.314%2011.018%2011.018%200%200%201-4.26.847H8.633v-2.814h1.916c2.145%200%204.161-.802%205.675-2.254a7.88%207.88%200%200%200%202.451-5.728c0-2.177-.87-4.21-2.451-5.728-1.514-1.454-3.528-2.254-5.675-2.254h-4.16L3.383%201.202h7.234c1.479%200%202.911.285%204.259.847a10.957%2010.957%200%200%201%203.48%202.313%2010.769%2010.769%200%200%201%202.345%203.432c.571%201.33.86%202.743.86%204.202%200%201.46-.289%202.873-.86%204.203Z%22%20fill%3D%22%230A0A0A%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-3b0f3a25",
+        "name": "Flickr",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M5.334%206.666C2.3884%206.666%200%209.055%200%2012c0%202.9456%202.3884%205.334%205.334%205.334%202.9456%200%205.332-2.3884%205.332-5.334%200-2.945-2.3864-5.334-5.332-5.334zm13.332%200c-2.9456%200-5.332%202.389-5.332%205.334%200%202.9456%202.3864%205.334%205.332%205.334C21.6116%2017.334%2024%2014.9456%2024%2012c0-2.945-2.3884-5.334-5.334-5.334Z%22%20fill%3D%22%230063DC%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-94f50a5b",
+        "name": "DeviantArt",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M19.207%204.794l.23-.43V0H15.07l-.436.44-2.058%203.925-.646.436H4.58v5.993h4.04l.36.436-4.175%207.98-.24.43V24H8.93l.436-.44%202.07-3.925.644-.436h7.35v-5.993h-4.05l-.36-.438%204.186-7.977z%22%20fill%3D%22%2305CC47%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-4252b72e",
+        "name": "Zoom",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M5.033%2014.649H.743a.74.74%200%200%201-.686-.458.74.74%200%200%201%20.16-.808L3.19%2010.41H1.06A1.06%201.06%200%200%201%200%209.35h3.957c.301%200%20.57.18.686.458a.74.74%200%200%201-.161.808L1.51%2013.59h2.464c.585%200%201.06.475%201.06%201.06zM24%2011.338c0-1.14-.927-2.066-2.066-2.066-.61%200-1.158.265-1.537.686a2.061%202.061%200%200%200-1.536-.686c-1.14%200-2.066.926-2.066%202.066v3.311a1.06%201.06%200%200%200%201.06-1.06v-2.251a1.004%201.004%200%200%201%202.013%200v2.251c0%20.586.474%201.06%201.06%201.06v-3.311a1.004%201.004%200%200%201%202.012%200v2.251c0%20.586.475%201.06%201.06%201.06zM16.265%2012a2.728%202.728%200%201%201-5.457%200%202.728%202.728%200%200%201%205.457%200zm-1.06%200a1.669%201.669%200%201%200-3.338%200%201.669%201.669%200%200%200%203.338%200zm-4.82%200a2.728%202.728%200%201%201-5.458%200%202.728%202.728%200%200%201%205.457%200zm-1.06%200a1.669%201.669%200%201%200-3.338%200%201.669%201.669%200%200%200%203.338%200z%22%20fill%3D%22%230B5CFF%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-8ecf06e6",
+        "name": "Google Meet",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M5.53%202.13%200%207.75h5.53zm.398%200v5.62h7.608v3.65l5.47-4.45c-.014-1.22.031-2.25-.025-3.46-.148-1.09-1.287-1.47-2.236-1.36zM23.1%204.32c-.802.295-1.358.995-2.047%201.49-2.506%202.05-4.982%204.12-7.468%206.19%203.025%202.59%206.04%205.18%209.065%207.76%201.218.671%201.428-.814%201.328-1.64v-13a.828.828%200%200%200-.877-.825zM.038%208.15v7.7h5.53v-7.7zm13.577%208.1H6.008v5.62c3.864-.006%207.737.011%2011.58-.009%201.02-.07%201.618-1.12%201.468-2.07v-2.51l-5.47-4.68v3.65zm-13.577%200c.02%201.44-.041%202.88.033%204.31.162.948%201.158%201.43%202.047%201.31h3.464v-5.62z%22%20fill%3D%22%2300897B%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -10649,6 +11288,60 @@ export const DEFAULT_CATEGORIES = [
           "laos"
         ],
         "imageUrl": "/media/b497e0a76e51.png"
+      },
+      {
+        "id": "flag-d3f5841f",
+        "name": "Brunei",
+        "aliases": [],
+        "imageUrl": "/media/a1d9d3ae33d2.png"
+      },
+      {
+        "id": "flag-e24045e3",
+        "name": "Timor Wschodni",
+        "aliases": [],
+        "imageUrl": "/media/bf7f8831dcb3.png"
+      },
+      {
+        "id": "flag-e65a0ed0",
+        "name": "Bhutan",
+        "aliases": [],
+        "imageUrl": "/media/a61e76e5d0a4.png"
+      },
+      {
+        "id": "flag-6b0e750b",
+        "name": "Malediwy",
+        "aliases": [],
+        "imageUrl": "/media/bf1e15a15a30.png"
+      },
+      {
+        "id": "flag-9ef4558b",
+        "name": "Bahrajn",
+        "aliases": [],
+        "imageUrl": "/media/1a86fcd5f043.png"
+      },
+      {
+        "id": "flag-d5d76eaf",
+        "name": "Jemen",
+        "aliases": [],
+        "imageUrl": "/media/e1a968985c0e.png"
+      },
+      {
+        "id": "flag-f5d993d8",
+        "name": "Turkmenistan",
+        "aliases": [],
+        "imageUrl": "/media/64c5630808b9.png"
+      },
+      {
+        "id": "flag-5b104b29",
+        "name": "Tadżykistan",
+        "aliases": [],
+        "imageUrl": "/media/191d13b9a920.png"
+      },
+      {
+        "id": "flag-536008c0",
+        "name": "Kirgistan",
+        "aliases": [],
+        "imageUrl": "/media/709277b4ef50.png"
       }
     ]
   },
@@ -11179,6 +11872,18 @@ export const DEFAULT_CATEGORIES = [
           "samoa"
         ],
         "imageUrl": "/media/01f1fed1b151.png"
+      },
+      {
+        "id": "flag-0da35e9d",
+        "name": "Nikaragua",
+        "aliases": [],
+        "imageUrl": "/media/d78a4e7d6a95.png"
+      },
+      {
+        "id": "flag-f343b08b",
+        "name": "Salwador",
+        "aliases": [],
+        "imageUrl": "/media/04bfa3c25257.png"
       }
     ]
   },
@@ -13155,6 +13860,125 @@ export const DEFAULT_CATEGORIES = [
           "zacznij od bacha"
         ],
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKA%20PIOSENKA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22331%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E%E2%80%9ET%C4%99%20pszcz%C3%B3%C5%82k%C4%99%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22385%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Ekt%C3%B3r%C4%85%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22479%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3Etu%20widzicie%2C%20zowi%C4%85%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2224%22%3EMaj%C4%85...%E2%80%9D%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-e77af271",
+        "name": "Nie ma róży bez ognia",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2238%22%3E%E2%80%9ENie%20ma%20r%C3%B3%C5%BCy%20bez%20ognia%E2%80%9D%20(1974)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolska%20komedia%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22543%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EStanis%C5%82aw%20Bareja%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-ab1fb18b",
+        "name": "Alternatywy 4",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2252%22%3E%E2%80%9EAlternatywy%204%E2%80%9D%20(Anio%C5%82)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20serial%20PRL%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-1d1d5de5",
+        "name": "Zmiennicy",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2248%22%3E%E2%80%9EZmiennicy%E2%80%9D%20(Kasia%20i%20Jacek)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20serial%20PRL%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-c4920cb3",
+        "name": "Vabank",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2264%22%3E%E2%80%9EVabank%E2%80%9D%20(Kwinto)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20film%20kryminalny%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-871204d5",
+        "name": "Poranek kojota",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2244%22%3E%E2%80%9EPoranek%20kojota%E2%80%9D%20(Brygada)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolska%20komedia%202001%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-b7965212",
+        "name": "Nic śmiesznego",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2240%22%3E%E2%80%9ENic%20%C5%9Bmiesznego%E2%80%9D%20(Ada%C5%9B%20Miauczy%C5%84ski)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EMarek%20Koterski%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-9ef7e28d",
+        "name": "Kariera Nikodema Dyzmy",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2246%22%3E%E2%80%9EKariera%20Nikodema%20Dyzmy%E2%80%9D%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20serial%20klasyczny%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-a491443e",
+        "name": "13 posterunek",
+        "aliases": [
+          "trzynasty posterunek"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2248%22%3E%E2%80%9E13%20posterunek%E2%80%9D%20(Cezary)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20sitcom%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-7c696b47",
+        "name": "Kult – Arahja",
+        "aliases": [
+          "arahja",
+          "kult"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2256%22%3E%E2%80%9EArahja%E2%80%9D%20(1988)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20rock%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-e9412449",
+        "name": "Mr. Zoob – Mój jest ten kawałek podłogi",
+        "aliases": [
+          "mr zoob"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E%E2%80%9EM%C3%B3j%20jest%20ten%20kawa%C5%82ek%20pod%C5%82ogi%E2%80%9D%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20rock%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-002cb070",
+        "name": "Kogel-mogel",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2254%22%3E%E2%80%9EKogel-mogel%E2%80%9D%20(1988)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolska%20komedia%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-10737c7a",
+        "name": "C.K. Dezerterzy",
+        "aliases": [
+          "ck dezerterzy"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2248%22%3E%E2%80%9EC.K.%20Dezerterzy%E2%80%9D%20(1985)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolska%20komedia%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-eb9d6e1e",
+        "name": "W pustyni i w puszczy",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2248%22%3E%E2%80%9EW%20pustyni%20i%20w%20puszczy%E2%80%9D%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ESta%C5%9B%20i%20Nel%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-b9c0853c",
+        "name": "Krzyżacy",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2256%22%3E%E2%80%9EKrzy%C5%BCacy%E2%80%9D%20(1960)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EAleksander%20Ford%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-85b944c8",
+        "name": "Czterej pancerni i pies",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2246%22%3E%E2%80%9ECzterej%20pancerni%20i%20pies%E2%80%9D%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ERudy%20102%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-722baff1",
+        "name": "Janosik",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2246%22%3E%E2%80%9EJanosik%E2%80%9D%20(Marek%20Perepeczko)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20serial%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-f8b07cd3",
+        "name": "Klan",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2254%22%3E%E2%80%9EKlan%E2%80%9D%20(Lubiczowie)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolska%20telenowela%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "pfs-4d517966",
+        "name": "M jak miłość",
+        "aliases": [
+          "m jak milosc"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EPOLSKIE%20HITY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2246%22%3E%E2%80%9EM%20jak%20mi%C5%82o%C5%9B%C4%87%E2%80%9D%20(Mostowiakowie)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPolski%20serial%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -13467,6 +14291,76 @@ export const DEFAULT_CATEGORIES = [
           "tommy"
         ],
         "imageUrl": "/logos/fash-tommy.png"
+      },
+      {
+        "id": "fash-965b11a4",
+        "name": "Nike",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M24%207.8L6.442%2015.276c-1.456.616-2.679.925-3.668.925-1.12%200-1.933-.392-2.437-1.177-.317-.504-.41-1.143-.28-1.918.13-.775.476-1.6%201.036-2.478.467-.71%201.232-1.643%202.297-2.8a6.122%206.122%200%2000-.784%201.848c-.28%201.195-.028%202.072.756%202.632.373.261.886.392%201.54.392.522%200%201.11-.084%201.764-.252L24%207.8z%22%20fill%3D%22%23111111%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-4db6adde",
+        "name": "Adidas",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22m24%2019.535-8.697-15.07-4.659%202.687%207.145%2012.383Zm-8.287%200L9.969%209.59%205.31%2012.277l4.192%207.258ZM4.658%2014.723l2.776%204.812H1.223L0%2017.41Z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-6a2da4c5",
+        "name": "Puma",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M23.845%203.008c-.417-.533-1.146-.106-1.467.08-2.284%201.346-2.621%203.716-3.417%205.077-.626%201.09-1.652%201.89-2.58%201.952-.686.049-1.43-.084-2.168-.405-1.807-.781-2.78-1.792-3.017-1.97-.487-.37-4.23-4.015-7.28-4.164%200%200-.372-.75-.465-.763-.222-.025-.45.451-.616.501-.15.053-.413-.512-.565-.487-.153.02-.302.586-.6.877-.22.213-.486.2-.637.463-.052.096-.034.265-.093.42-.127.32-.551.354-.555.697%200%20.381.357.454.669.72.248.212.265.362.554.461.258.088.632-.187.964-.088.277.081.543.14.602.423.054.256%200%20.658-.34.613-.112-.015-.598-.174-1.198-.11-.725.077-1.553.309-1.634%201.11-.041.447.514.97%201.055.866.371-.071.196-.506.399-.716.267-.27%201.772.944%203.172.944.593%200%201.031-.15%201.467-.605.04-.029.093-.102.155-.11a.632.632%200%2001.195.088c1.131.897%201.984%202.7%206.13%202.721.582.007%201.25.279%201.796.777.48.433.764%201.125%201.037%201.825.418%201.053%201.161%202.069%202.292%203.203.06.068.99.78%201.06.833.012.01.084.167.053.255-.02.69-.123%202.67%201.365%202.753.366.02.275-.231.275-.41-.005-.341-.065-.685.113-1.04.253-.478-.526-.709-.509-1.756.019-.784-.645-.651-.984-1.25-.19-.343-.368-.532-.35-.946.073-2.38-.517-3.948-.805-4.327-.227-.294-.423-.403-.207-.54%201.24-.815%201.525-1.574%201.525-1.574.66-1.541%201.256-2.945%202.075-3.57.166-.12.589-.44.852-.56.763-.362%201.173-.578%201.388-.788.356-.337.635-1.053.294-1.48z%22%20fill%3D%22%23242B2F%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-88b1432e",
+        "name": "Reebok",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M14.991%2011.48C17.744%2010.38%2019.458%209.748%2024%208.64c-2.467.163-7.922.537-11.682%201.271l2.673%201.57m-8.56%203.651h3.6c.713-1.08%201.422-1.606%202.248-2.191a71.382%2071.382%200%2000-1.892-.701c-2.297%201.014-3.575%202.375-3.953%202.892m.709-3.928c-3.21%201.147-4.994%202.393-6.199%203.928h3.975c.387-.539%201.862-2.093%204.633-3.174a57.092%2057.092%200%2000-2.41-.754M8.79%208.788H0c8.862%201.6%2013.133%203.66%2020%206.572-.587-.439-10.051-6.013-11.209-6.572%22%20fill%3D%22%23E41D1B%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-17d35991",
+        "name": "New Balance",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12.169%2010.306l1.111-1.937%203.774-.242.132-.236-3.488-.242.82-1.414h6.47c1.99%200%203.46.715%202.887%202.8-.17.638-.979%202.233-3.356%202.899.507.06%201.76.616%201.54%202.057-.384%202.558-3.69%203.774-5.533%203.774l-7.641.006-.38-1.48%204.005-.28.137-.237-4.346-.264-.467-1.755%206.178-.363.137-.231-11.096-.693.534-.925%2011.948-.775.138-.231-3.504-.231m5%20.385l1.1-.006c.738-.005%201.502-.34%201.783-1.018.259-.632-.088-1.171-.55-1.166h-1.067l-1.266%202.19zm-1.27%202.195l-1.326%202.305h1.265c.589%200%201.64-.292%201.964-1.128.302-.781-.253-1.177-.638-1.177h-1.266zM6.26%2016.445l-.77%201.315L0%2017.77l.534-.923%205.726-.402zm.385-10.216l4.417.006.336%201.248-5.276-.33.523-.924zm5%202.245l.484%201.832-7.542-.495.528-.92%206.53-.417zm-3.84%205.281l-.957%201.661-5.32-.302.534-.924%205.743-.435z%22%20fill%3D%22%23CF0A2C%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-a27802d0",
+        "name": "Under Armour",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M15.954%2012c-.089.066-.195.142-.324.233-.826.585-2.023.985-3.58.985h-.104c-1.556%200-2.755-.4-3.58-.985A36.43%2036.43%200%20018.042%2012c.09-.067.196-.143.324-.234.825-.584%202.024-.985%203.58-.985h.104c1.557%200%202.756.401%203.58.985.129.09.235.167.325.234M24%207.181s-.709-.541-2.95-1.365c-1.968-.721-3.452-.883-3.452-.883l.006%204.243c0%20.598-.162%201.143-.618%201.765-1.672-.61-3.254-.985-4.981-.985-1.728%200-3.308.375-4.98.985-.457-.619-.62-1.168-.62-1.765l.007-4.243s-1.494.16-3.463.883C.709%206.642%200%207.181%200%207.181c.093%201.926%201.78%203.638%204.435%204.82C1.777%2013.18.09%2014.887%200%2016.818c0%200%20.709.54%202.949%201.365%201.968.721%203.453.883%203.453.883l-.007-4.244c0-.597.164-1.143.619-1.764%201.672.61%203.252.983%204.98.983%201.727%200%203.309-.374%204.98-.983.457.62.62%201.167.62%201.764l-.006%204.244s1.484-.16%203.452-.883c2.241-.826%202.95-1.365%202.95-1.365-.093-1.927-1.78-3.64-4.435-4.819%202.657-1.182%204.343-2.888%204.435-4.82%22%20fill%3D%22%231D1D1D%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-6ea1e24d",
+        "name": "Jordan",
+        "aliases": [
+          "air jordan"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M13.55%202.194v-.075c0-.35.113-.663.338-.938.225-.275.512-.412.862-.412s.663.112.938.337.425.525.45.9c.025.375-.088.688-.338.938s-.55.375-.9.375l-.225.075.075.112-.075.413-.15%201.2c.05.05.075.1.075.15l-.15.75c-.05.1-.1.175-.15.225l-.075.3a22.59%2022.59%200%2001-.45%201.575v.15c-.05.25-.087.45-.112.6-.025.15-.113.4-.263.75-.1.2-.1.525%200%20.975l.075.075c0%20.15.063.325.188.525s.187.375.187.525c.05%201-.025%201.85-.225%202.55l.15.45c.6.3.775.625.525.975l.375.15c.6.3%201.025.562%201.275.787.25.225.5.463.75.713.2.05.35.125.45.225l.225.075c1.05.7%202.1%201.55%203.15%202.55l.3.225v.075l-.075.15.225.15h.075c.15.1.25.15.3.15h.075c.05%200%20.1-.025.15-.075l.15-.075c.1-.1.2-.175.3-.225h.3c.05%200%20.05.025%200%20.075l-.3.15-.375.45h.525l.525.075c.15-.05.275-.1.375-.15l.375-.225c.15-.05.3%200%20.45.15h.075c.05.05.025.125-.075.225l-.9.825c-.25.2-.475.325-.675.375l-.975.675c-.05.05-.1.05-.15%200l-.225-.3-.15-.3-.188-.263-.225-.3-.187-.225-.15-.187-.3-.225c-.1%200-.2-.025-.3-.075l-.975-.75c-.15%200-.325-.075-.525-.225-.75-.65-1.25-1.05-1.5-1.2l-.45-.3-.9-.15c-.3-.05-.7-.2-1.2-.45l-.6-.3c-.4-.2-.675-.3-.825-.3l-.3-.15c-.2-.05-.35-.1-.45-.15l-.15-.15c-.1%200-.2.025-.3.075l-1.5.75-1.875.825c-.5.4-.975.725-1.425.975l-.825.375-1.275.9c-.1.1-.2.1-.3%200l-.15.15c-.15.05-.25.075-.3.075l-.3.15v.15H3.2l-.15.225c-.1.2-.2.312-.3.337-.1.025-.162.063-.187.113a.434.434%200%2001-.075.112l-.15.15-.225.15-.338-.037-.45.075-.3.075c-.25.05-.45.012-.6-.113-.15-.125-.275-.312-.375-.562-.1-.15-.05-.275.15-.375l.075-.075c.05-.05.125-.075.225-.075h.45l.6-.225.3-.075c0-.1.025-.175.075-.225.05-.05.125-.075.225-.075v-.075a.666.666%200%2001-.075-.3c-.05-.1-.063-.175-.037-.225.025-.05.05-.075.075-.075h.037l.075.225c.05.25.125.325.225.225l.075-.15c.05-.1.125-.15.225-.15l.15.15.15-.15-.075-.075c0-.05.025-.075.075-.075l.3-.3c.25-.3.55-.575.9-.825.7-.55%201.45-.975%202.25-1.275.25-.25.525-.375.825-.375.2-.35.5-.725.9-1.125.35-.25.6-.425.75-.525.1-.2.225-.3.375-.3h.075l.15-.15c.1-.05.175-.1.225-.15v-.375c0-.25.025-.45.075-.6.05-.15.175-.225.375-.225l.3-.3c-.1-.2-.15-.425-.15-.675h-.075c-.1-.15-.15-.3-.15-.45-.15-.25-.25-.45-.3-.6H9.65c-.05.15-.175.25-.375.3l-.075.15c-.2.35-.375.612-.525.787-.15.175-.425.388-.825.638-.25.25-.425.525-.525.825-.05.15-.05.3%200%20.45l-.075.15h.075c0%20.1.025.15.075.15h.075c.1.05.15.112.15.187s-.075.1-.225.075a.606.606%200%2001-.337-.15c-.075-.075-.138-.112-.188-.112l-.225.225c-.1.15-.2.212-.3.187-.1-.025-.125-.062-.075-.112l.075-.075c.05-.1.05-.15%200-.15l-.6.15c-.05.05-.112.05-.187%200s-.063-.1.037-.15l.375-.15c0-.05-.025-.075-.075-.075-.2.1-.4.125-.6.075l-.375-.075-.075-.075c0-.05.025-.075.075-.075.2.05.45.025.75-.075l.525-.225.6-.675.075-.15c.2-.4.413-.763.638-1.088a3.68%203.68%200%2001.712-.787l.075-.3c.1-.2.2-.375.3-.525.1-.15.225-.35.375-.6l.225-.3c.2-.3.425-.45.675-.45l.225-.225c.05-.05.075-.125.075-.225l.15-.15-.075-.075c-.3-.25-.45-.475-.45-.675-.05-.35.063-.65.338-.9s.55-.363.825-.338c.275.025.487.113.637.263l.15.15c.05%200%20.075.025.075.075l.3.15v.225c.1.1.15.175.15.225.1-.15.25-.325.45-.525l.375-1.2c0-.2.05-.4.15-.6l.15-.225v-.15l.225-.9h.15l.225-.9a.933.933%200%20000-.525l-.3-.75-.15-.6z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-23ecc026",
+        "name": "Fila",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M8.814%208.027c-.614%200-1.113.498-1.113%201.113v5.72a1.113%201.113%200%200%200%202.226%200V9.14c0-.614-.498-1.113-1.113-1.113m-2.849.078H1.113a1.113%201.113%200%200%200%200%202.226h4.852a1.113%201.113%200%200%200%200-2.226m17.411%204.417L21.03%208.705c-.275-.444-.65-.658-1.125-.658-.488%200-.904.229-1.162.658l-2.715%204.5c-.186.308-.4.436-.753.436h-2.019a.275.275%200%200%201-.285-.284V9.102c0-.613-.497-1.075-1.11-1.075-.614%200-1.11.463-1.11%201.076v5.215c0%20.784.774%201.544%201.544%201.544h4.064c.576%200%20.963-.42%201.292-.996l2.114-3.627c.018-.04.053-.091.093-.091.043%200%20.07.051.091.088l1.384%202.22c.058.094.069.141.032.225-.033.077-.108.093-.23.093h-1.943a1.044%201.044%200%201%200%200%202.088h3.17c.77%200%201.638-.734%201.638-1.693%200-.608-.117-.822-.624-1.647M5.431%2010.954H1.113c-.615%200-1.113.498-1.113%201.113v2.715a1.113%201.113%200%201%200%202.226%200v-1.268c0-.185.15-.334.334-.334h2.87a1.113%201.113%200%200%200%200-2.226%22%20fill%3D%22%23002D62%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-f8c24753",
+        "name": "Zara",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M8.562%207l.002.006%202.794%207.621v-7.23h-1.15v-.07h3.96c1.903%200%203.231.976%203.231%202.375%200%201.02-.91%201.868-2.263%202.109l-.249.031.25.026c.821.094%201.473.346%201.935.75l.003.003L19.141%207h.07l.002.006%203.556%209.698H24v.07h-3.918v-.07h1.154l-1.17-3.189h-2.373v.002l.013.037c.094.281.142.576.139.873v1.196c0%20.615.271%201.238.79%201.238.304%200%20.547-.107.837-.372l.041.038c-.314.332-.695.473-1.266.473-.43%200-.8-.104-1.096-.308l-.056-.04c-.39-.296-.644-.778-.753-1.435l-.018-.106-.018-.16-.002-.028-.654%201.78h.928v.07h-1.942v-.07h.938l.718-1.954v-.005a6.35%206.35%200%2001-.013-.346v-.854c0-1.049-.78-1.65-2.14-1.65h-1.337v4.81h1.158v.07H9.433v-.07h1.154l-1.17-3.189H6.172l-1.158%203.154.048-.008c1.521-.262%202.22-1.423%202.23-2.645h.07v2.758H0l5.465-9.377H3.268c-1.822%200-2.646%201.407-2.659%202.81H.54v-2.88h6.634l-.04.07-5.425%209.307h2.854c.071%200%20.141-.003.212-.009l.072-.006.09-.01L8.491%207h.07zm9.883%202.095l-1.313%203.576.007.007.067.066c.193.197.347.43.452.684l.007.017h2.375l-1.595-4.35zm-10.648%200l-1.599%204.35h3.194l-1.595-4.35zm6.026-1.698h-1.02v4.427h1.336c1.353%200%201.767-.493%201.767-2.107%200-1.517-.72-2.32-2.083-2.32z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-26aaf627",
+        "name": "Uniqlo",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M0%20.01v23.98h24V.01ZM4.291%203.29h4.553l.006%205.803h1.511v1.511h-6.82V9.094h3.783v-4.29H4.291zm10.11%200h5.302v1.514H14.4zm-.762%205.807h6.816v1.511H13.64zM4.29%2013.385l6.072.002-1.513%207.322H2.777l.305-1.516h4.553l.892-4.29H5.49l-.457%202.148H3.521Zm9.348%200h6.816v7.324H13.64zm1.517%201.517v4.291h3.787v-4.29z%22%20fill%3D%22%23FF0000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "fash-3b50b033",
+        "name": "The North Face",
+        "aliases": [
+          "north face"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M15.816%206.36v3.36h.228a4.847%204.847%200%200%201%204.764%204.764v3.036H24v-3.132c0-4.428-3.6-8.028-8.028-8.028H15.9Zm-9.06.012v.6h1.008V9.72h.696V6.972h1.008v-.6zm2.964%200V9.72h.696v-1.5h1.308v1.5h.696V6.372h-.696v1.272h-1.308V6.372Zm3%200V9.72h2.4v-.588h-1.752v-.876h1.548v-.588h-1.548V6.96h1.752v-.588ZM4.644%2010.14c-.444%200-1.608.192-1.608%201.752s1.164%201.752%201.608%201.752c.444%200%201.608-.192%201.608-1.752S5.088%2010.14%204.644%2010.14zM0%2010.236v3.336h.648v-2.376H.66l1.368%202.376h.696v-3.336h-.648v2.316h-.012L.732%2010.236Zm6.54%200%20.012%203.336h.684v-1.308h.72c.516%200%20.54.18.54.636%200%20.348.024.516.072.672h.768v-.084c-.144-.048-.144-.168-.144-.66%200-.624-.144-.732-.42-.852.324-.108.516-.42.516-.792%200-.288-.168-.948-1.056-.948zm2.916%200v.588h1.02v2.748h.696v-2.748h1.008v-.588zm2.976%200v3.336h.696v-1.5h1.296v1.5h.696v-3.336h-.696v1.26h-1.296v-1.26zm3.372%200v3.348h.156c1.08%200%201.944.876%201.944%201.944v1.992h2.388v-2.988c-.012-2.316-1.86-4.2-4.152-4.296h-.252Zm-11.16.504c.372%200%20.9.228.9%201.164%200%20.936-.528%201.164-.9%201.164s-.912-.228-.912-1.164c0-.936.54-1.164.912-1.164zm2.58.072h.864c.408%200%20.492.252.492.432%200%20.324-.18.456-.54.456h-.816Zm3.684%203.204c-.876%200-1.572.612-1.572%201.812%200%201.188.648%201.8%201.56%201.8.864%200%201.344-.516%201.488-1.26h-.72c-.084.42-.36.648-.756.648-.612%200-.852-.552-.852-1.164%200-.972.504-1.2.852-1.2.588%200%20.696.384.756.588v-.012h.72c-.036-.504-.456-1.212-1.476-1.212zm-6.696.084v3.432h.708v-1.44h1.512v-.612H4.92v-.768h1.728V14.1Zm3.228%200-1.224%203.432h.756l.228-.708h1.284l.216.708h.78L8.268%2014.1Zm5.232%200v3.432h2.46v-.612h-1.8v-.888h1.596v-.6h-1.596v-.72h1.8V14.1Zm3.144.012v3.432h1.596v-1.992c0-.792-.648-1.44-1.44-1.44zm-7.98.768h.012l.42%201.356h-.876Zm-4.92.912a.927.927%200%200%200-.936.924c0%20.528.432.924.936.924a.917.917%200%200%200%20.924-.924.917.917%200%200%200-.924-.924zm0%20.144c.42%200%20.756.336.756.78%200%20.456-.324.792-.756.792s-.768-.348-.768-.792c0-.444.336-.78.768-.78zm-.36.24v1.092h.168V16.8h.18l.3.468h.18l-.312-.48c.168-.024.288-.108.288-.3%200-.216-.132-.312-.384-.312zm.168.132h.228c.12%200%20.24.024.24.168%200%20.168-.144.18-.288.18h-.18z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -13684,6 +14578,144 @@ export const DEFAULT_CATEGORIES = [
           "fał zero"
         ],
         "imageUrl": "/logos/ai-v0.png"
+      },
+      {
+        "id": "ai-c23e8db4",
+        "name": "Ollama",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M16.361%2010.26a.894.894%200%200%200-.558.47l-.072.148.001.207c0%20.193.004.217.059.353.076.193.152.312.291.448.24.238.51.3.872.205a.86.86%200%200%200%20.517-.436.752.752%200%200%200%20.08-.498c-.064-.453-.33-.782-.724-.897a1.06%201.06%200%200%200-.466%200zm-9.203.005c-.305.096-.533.32-.65.639a1.187%201.187%200%200%200-.06.52c.057.309.31.59.598.667.362.095.632.033.872-.205.14-.136.215-.255.291-.448.055-.136.059-.16.059-.353l.001-.207-.072-.148a.894.894%200%200%200-.565-.472%201.02%201.02%200%200%200-.474.007Zm4.184%202c-.131.071-.223.25-.195.383.031.143.157.288.353.407.105.063.112.072.117.136.004.038-.01.146-.029.243-.02.094-.036.194-.036.222.002.074.07.195.143.253.064.052.076.054.255.059.164.005.198.001.264-.03.169-.082.212-.234.15-.525-.052-.243-.042-.28.087-.355.137-.08.281-.219.324-.314a.365.365%200%200%200-.175-.48.394.394%200%200%200-.181-.033c-.126%200-.207.03-.355.124l-.085.053-.053-.032c-.219-.13-.259-.145-.391-.143a.396.396%200%200%200-.193.032zm.39-2.195c-.373.036-.475.05-.654.086-.291.06-.68.195-.951.328-.94.46-1.589%201.226-1.787%202.114-.04.176-.045.234-.045.53%200%20.294.005.357.043.524.264%201.16%201.332%202.017%202.714%202.173.3.033%201.596.033%201.896%200%201.11-.125%202.064-.727%202.493-1.571.114-.226.169-.372.22-.602.039-.167.044-.23.044-.523%200-.297-.005-.355-.045-.531-.288-1.29-1.539-2.304-3.072-2.497a6.873%206.873%200%200%200-.855-.031zm.645.937a3.283%203.283%200%200%201%201.44.514c.223.148.537.458.671.662.166.251.26.508.303.82.02.143.01.251-.043.482-.08.345-.332.705-.672.957a3.115%203.115%200%200%201-.689.348c-.382.122-.632.144-1.525.138-.582-.006-.686-.01-.853-.042-.57-.107-1.022-.334-1.35-.68-.264-.28-.385-.535-.45-.946-.03-.192.025-.509.137-.776.136-.326.488-.73.836-.963.403-.269.934-.46%201.422-.512.187-.02.586-.02.773-.002zm-5.503-11a1.653%201.653%200%200%200-.683.298C5.617.74%205.173%201.666%204.985%202.819c-.07.436-.119%201.04-.119%201.503%200%20.544.064%201.24.155%201.721.02.107.031.202.023.208a8.12%208.12%200%200%201-.187.152%205.324%205.324%200%200%200-.949%201.02%205.49%205.49%200%200%200-.94%202.339%206.625%206.625%200%200%200-.023%201.357c.091.78.325%201.438.727%202.04l.13.195-.037.064c-.269.452-.498%201.105-.605%201.732-.084.496-.095.629-.095%201.294%200%20.67.009.803.088%201.266.095.555.288%201.143.503%201.534.071.128.243.393.264.407.007.003-.014.067-.046.141a7.405%207.405%200%200%200-.548%201.873c-.062.417-.071.552-.071.991%200%20.56.031.832.148%201.279L3.42%2024h1.478l-.05-.091c-.297-.552-.325-1.575-.068-2.597.117-.472.25-.819.498-1.296l.148-.29v-.177c0-.165-.003-.184-.057-.293a.915.915%200%200%200-.194-.25%201.74%201.74%200%200%201-.385-.543c-.424-.92-.506-2.286-.208-3.451.124-.486.329-.918.544-1.154a.787.787%200%200%200%20.223-.531c0-.195-.07-.355-.224-.522a3.136%203.136%200%200%201-.817-1.729c-.14-.96.114-2.005.69-2.834.563-.814%201.353-1.336%202.237-1.475.199-.033.57-.028.776.01.226.04.367.028.512-.041.179-.085.268-.19.374-.431.093-.215.165-.333.36-.576.234-.29.46-.489.822-.729.413-.27.884-.467%201.352-.561.17-.035.25-.04.569-.04.319%200%20.398.005.569.04a4.07%204.07%200%200%201%201.914.997c.117.109.398.457.488.602.034.057.095.177.132.267.105.241.195.346.374.43.14.068.286.082.503.045.343-.058.607-.053.943.016%201.144.23%202.14%201.173%202.581%202.437.385%201.108.276%202.267-.296%203.153-.097.15-.193.27-.333.419-.301.322-.301.722-.001%201.053.493.539.801%201.866.708%203.036-.062.772-.26%201.463-.533%201.854a2.096%202.096%200%200%201-.224.258.916.916%200%200%200-.194.25c-.054.109-.057.128-.057.293v.178l.148.29c.248.476.38.823.498%201.295.253%201.008.231%202.01-.059%202.581a.845.845%200%200%200-.044.098c0%20.006.329.009.732.009h.73l.02-.074.036-.134c.019-.076.057-.3.088-.516.029-.217.029-1.016%200-1.258-.11-.875-.295-1.57-.597-2.226-.032-.074-.053-.138-.046-.141.008-.005.057-.074.108-.152.376-.569.607-1.284.724-2.228.031-.26.031-1.378%200-1.628-.083-.645-.182-1.082-.348-1.525a6.083%206.083%200%200%200-.329-.7l-.038-.064.131-.194c.402-.604.636-1.262.727-2.04a6.625%206.625%200%200%200-.024-1.358%205.512%205.512%200%200%200-.939-2.339%205.325%205.325%200%200%200-.95-1.02%208.097%208.097%200%200%201-.186-.152.692.692%200%200%201%20.023-.208c.208-1.087.201-2.443-.017-3.503-.19-.924-.535-1.658-.98-2.082-.354-.338-.716-.482-1.15-.455-.996.059-1.8%201.205-2.116%203.01a6.805%206.805%200%200%200-.097.726c0%20.036-.007.066-.015.066a.96.96%200%200%201-.149-.078A4.857%204.857%200%200%200%2012%203.03c-.832%200-1.687.243-2.456.698a.958.958%200%200%201-.148.078c-.008%200-.015-.03-.015-.066a6.71%206.71%200%200%200-.097-.725C8.997%201.392%208.337.319%207.46.048a2.096%202.096%200%200%200-.585-.041Zm.293%201.402c.248.197.523.759.682%201.388.03.113.06.244.069.292.007.047.026.152.041.233.067.365.098.76.102%201.24l.002.475-.12.175-.118.178h-.278c-.324%200-.646.041-.954.124l-.238.06c-.033.007-.038-.003-.057-.144a8.438%208.438%200%200%201%20.016-2.323c.124-.788.413-1.501.696-1.711.067-.05.079-.049.157.013zm9.825-.012c.17.126.358.46.498.888.28.854.36%202.028.212%203.145-.019.14-.024.151-.057.144l-.238-.06a3.693%203.693%200%200%200-.954-.124h-.278l-.119-.178-.119-.175.002-.474c.004-.669.066-1.19.214-1.772.157-.623.434-1.185.68-1.382.078-.062.09-.063.159-.012z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-8de59538",
+        "name": "LangChain",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M13.796%200a6.93%206.93%200%200%200-4.91%202.019L5.451%205.455l3.273%203.27%203.432-3.432a2.284%202.284%200%200%201%203.277%200%202.28%202.28%200%200%201%200%203.275L12%2012.001l3.273%203.273%203.433-3.435c2.692-2.692%202.692-7.127%200-9.82A6.92%206.92%200%200%200%2013.796%200m-5.07%208.728-3.433%203.434c-2.692%202.693-2.692%207.126%200%209.819A6.92%206.92%200%200%200%2010.203%2024a6.93%206.93%200%200%200%204.911-2.02l3.432-3.432-3.271-3.272-3.433%203.433a2.284%202.284%200%200%201-3.277%200%202.28%202.28%200%200%201%200-3.276L12%2012z%22%20fill%3D%22%237FC8FF%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-0f07876a",
+        "name": "Weights & Biases",
+        "aliases": [
+          "wandb"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M2.48%200a1.55%201.55%200%201%200%200%203.1%201.55%201.55%200%200%200%200-3.1zm19.04%200a1.55%201.55%200%201%200%200%203.101%201.55%201.55%200%200%200%200-3.101zM12%202.295a1.55%201.55%200%201%200%200%203.1%201.55%201.55%200%200%200%200-3.1zM2.48%205.272a2.48%202.48%200%201%200%200%204.96%202.48%202.48%200%200%200%200-4.96zm19.04%200a2.48%202.48%200%201%200%200%204.96%202.48%202.48%200%200%200%200-4.96zM12%208.496a1.55%201.55%200%201%200%200%203.1%201.55%201.55%200%200%200%200-3.1zm-9.52%203.907a1.55%201.55%200%201%200%200%203.1%201.55%201.55%200%200%200%200-3.1zm19.04%200a1.55%201.55%200%201%200%200%203.102%201.55%201.55%200%200%200%200-3.102zM12%2013.767a2.48%202.48%200%201%200%200%204.962%202.48%202.48%200%200%200%200-4.962zm-9.52%203.907a2.48%202.48%200%201%200%20.001%204.962%202.48%202.48%200%200%200%200-4.962zm19.04.93a1.55%201.55%200%201%200%200%203.102%201.55%201.55%200%200%200%200-3.101zM12%2020.9a1.55%201.55%200%201%200%200%203.1%201.55%201.55%200%200%200%200-3.1Z%22%20fill%3D%22%23FFBE00%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-a6d8d976",
+        "name": "Replicate",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M24%2010.262v2.712h-9.518V24h-3.034V10.262zm0-5.131v2.717H8.755V24H5.722V5.131zM24%200v2.717H3.034V24H0V0z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-074dd699",
+        "name": "TensorFlow",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M1.292%205.856L11.54%200v24l-4.095-2.378V7.603l-6.168%203.564.015-5.31zm21.43%205.311l-.014-5.31L12.46%200v24l4.095-2.378V14.87l3.092%201.788-.018-4.618-3.074-1.756V7.603l6.168%203.564z%22%20fill%3D%22%23FF6F00%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-95b88f18",
+        "name": "PyTorch",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12.005%200L4.952%207.053a9.865%209.865%200%20000%2014.022%209.866%209.866%200%200014.022%200c3.984-3.9%203.986-10.205.085-14.023l-1.744%201.743c2.904%202.905%202.904%207.634%200%2010.538s-7.634%202.904-10.538%200-2.904-7.634%200-10.538l4.647-4.646.582-.665zm3.568%203.899a1.327%201.327%200%2000-1.327%201.327%201.327%201.327%200%20001.327%201.328A1.327%201.327%200%200016.9%205.226%201.327%201.327%200%200015.573%203.9z%22%20fill%3D%22%23EE4C2C%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-7fee7bb6",
+        "name": "Keras",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M24%200H0v24h24V0zM8.45%205.16l.2.17v6.24l6.46-6.45h1.96l.2.4-5.14%205.1%205.47%207.94-.2.3h-1.94l-4.65-6.88-2.16%202.08v4.6l-.19.2H7l-.2-.2V5.33l.17-.17h1.48z%22%20fill%3D%22%23D00000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-3483ff05",
+        "name": "scikit-learn",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M15.601%205.53c-1.91.035-3.981.91-5.63%202.56-2.93%202.93-2.083%208.53-1.088%209.525.805.804%206.595%201.843%209.526-1.088a9.74%209.74%200%200%200%20.584-.643c.043-.292.205-.66.489-1.106a1.848%201.848%200%200%201-.537.176c-.144.265-.37.55-.676.855-.354.335-.607.554-.76.656a.795.795%200%200%201-.437.152c-.35%200-.514-.308-.494-.924-.22.316-.425.549-.612.7a.914.914%200%200%201-.578.224c-.194%200-.36-.09-.496-.273a1.03%201.03%200%200%201-.193-.507%204.016%204.016%200%200%201-.726.583c-.224.132-.47.197-.74.197-.3%200-.543-.096-.727-.288a.978.978%200%200%201-.257-.524v.004c-.3.276-.564.48-.79.611a1.295%201.295%200%200%201-.649.197.693.693%200%200%201-.571-.275c-.145-.183-.218-.43-.218-.739%200-.464.101-1.02.302-1.67.201-.65.445-1.25.733-1.797l.842-.312a.21.21%200%200%201%20.06-.013c.063%200%20.116.047.157.14.04.095.061.221.061.38%200%20.451-.104.888-.312%201.31-.207.422-.532.873-.974%201.352-.018.23-.027.388-.027.474%200%20.193.036.345.106.458.071.113.165.169.282.169a.71.71%200%200%200%20.382-.13c.132-.084.333-.26.602-.523.028-.418.187-.798.482-1.142.324-.38.685-.569%201.08-.569.206%200%20.37.054.494.16a.524.524%200%200%201%20.186.417c0%20.458-.486.829-1.459%201.114.088.43.32.646.693.646a.807.807%200%200%200%20.417-.117c.129-.076.321-.243.575-.497.032-.252.118-.495.259-.728.182-.3.416-.544.701-.73.285-.185.537-.278.756-.278.276%200%20.47.127.58.381l.677-.374h.186l-.292.971c-.15.488-.226.823-.226%201.004%200%20.19.067.285.202.285.086%200%20.181-.045.285-.137.104-.092.25-.232.437-.42v.001c.143-.155.274-.32.392-.494-.19-.084-.285-.21-.285-.375%200-.17.058-.352.174-.545.116-.194.275-.29.479-.29.172%200%20.258.088.258.265%200%20.139-.05.338-.149.596.367-.04.687-.32.961-.842l.228-.01c1.059-2.438.828-5.075-.83-6.732-1.019-1.02-2.408-1.5-3.895-1.471zm4.725%208.203a8.938%208.938%200%200%201-1.333%202.151%201.09%201.09%200%200%200-.012.147c0%20.168.047.309.14.423.092.113.206.17.34.17.296%200%20.714-.264%201.254-.787-.001.04-.003.08-.003.121%200%20.146.012.368.036.666l.733-.172c0-.2.003-.357.01-.474.01-.157.033-.33.066-.517.02-.11.07-.216.152-.315l.186-.216a5.276%205.276%200%200%201%20.378-.397c.062-.055.116-.099.162-.13a.26.26%200%200%201%20.123-.046c.055%200%20.083.035.083.106%200%20.07-.052.236-.156.497-.194.486-.292.848-.292%201.084%200%20.175.046.314.136.418a.45.45%200%200%200%20.358.155c.365%200%20.803-.269%201.313-.808v-.381c-.361.426-.623.64-.784.64-.109%200-.163-.067-.163-.2%200-.1.065-.316.195-.65.19-.486.285-.836.285-1.048a.464.464%200%200%200-.112-.319.36.36%200%200%200-.282-.127c-.165%200-.354.077-.567.233-.213.156-.5.436-.863.84.053-.262.165-.622.335-1.08l-.809.156a6.54%206.54%200%200%200-.399%201.074c-.04.156-.07.316-.092.48a7.447%207.447%200%200%201-.49.45.38.38%200%200%201-.229.08.208.208%200%200%201-.174-.082.352.352%200%200%201-.064-.222c0-.1.019-.214.056-.343.038-.13.12-.373.249-.731l.308-.849zm-17.21-2.927c-.863-.016-1.67.263-2.261.854-1.352%201.352-1.07%203.827.631%205.527%201.7%201.701%204.95%201.21%205.527.632.467-.466%201.07-3.827-.631-5.527-.957-.957-2.158-1.465-3.267-1.486zm12.285.358h.166v.21H15.4zm.427%200h.166v.865l.46-.455h.195l-.364.362.428.684h-.198l-.357-.575-.164.166v.41h-.166zm1.016%200h.166v.21h-.166zm.481.122h.166v.288h.172v.135h-.172v.717c0%20.037.006.062.02.075.012.013.037.02.074.02a.23.23%200%200%200%20.078-.01v.141a.802.802%200%200%201-.136.014.23.23%200%200%201-.15-.043.15.15%200%200%201-.052-.123v-.79h-.141v-.136h.141zm-3.562.258c.081%200%20.15.012.207.038.057.024.1.061.13.11s.045.106.045.173h-.176c-.006-.111-.075-.167-.208-.167a.285.285%200%200%200-.164.041.134.134%200%200%200-.06.117c0%20.035.015.065.045.088.03.024.08.044.15.06l.16.039a.47.47%200%200%201%20.224.105c.047.046.07.108.07.186a.3.3%200%200%201-.052.175.327.327%200%200%201-.152.116.585.585%200%200%201-.226.041c-.136%200-.24-.03-.309-.088-.069-.059-.105-.149-.109-.269h.176c.004.037.01.065.017.084a.166.166%200%200%200%20.034.054c.044.043.112.065.204.065a.31.31%200%200%200%20.177-.045.139.139%200%200%200%20.067-.119.116.116%200%200%200-.038-.09.287.287%200%200%200-.124-.055l-.156-.038a1.248%201.248%200%200%201-.159-.05.359.359%200%200%201-.098-.061.22.22%200%200%201-.058-.083.32.32%200%200%201-.016-.108c0-.096.036-.174.109-.232a.45.45%200%200%201%20.29-.087zm1.035%200a.46.46%200%200%201%20.202.043.351.351%200%200%201%20.187.212.577.577%200%200%201%20.023.126h-.168a.256.256%200%200%200-.078-.168.242.242%200%200%200-.17-.06.248.248%200%200%200-.155.05.306.306%200%200%200-.1.144.662.662%200%200%200-.034.224.58.58%200%200%200%20.035.214.299.299%200%200%200%20.101.135.261.261%200%200%200%20.157.048c.142%200%20.227-.084.256-.252h.167a.519.519%200%200%201-.065.22.35.35%200%200%201-.146.138.464.464%200%200%201-.216.048.448.448%200%200%201-.246-.066.441.441%200%200%201-.161-.192.703.703%200%200%201-.057-.293c0-.085.01-.163.032-.233a.522.522%200%200%201%20.095-.182.403.403%200%200%201%20.15-.117.453.453%200%200%201%20.191-.04zm.603.03h.166v1.046H15.4zm1.443%200h.166v1.046h-.166zm-5.05.618c-.08%200-.2.204-.356.611-.155.407-.308.977-.459%201.71.281-.312.509-.662.683-1.05.175-.387.262-.72.262-.999a.455.455%200%200%200-.036-.197c-.025-.05-.056-.075-.093-.075zm4.662%201.797c-.221%200-.431.188-.629.563-.197.376-.296.722-.296%201.038%200%20.12.029.216.088.29a.273.273%200%200%200%20.223.111c.221%200%20.43-.188.625-.565.196-.377.294-.725.294-1.043a.457.457%200%200%200-.083-.29.269.269%200%200%200-.222-.104zm-2.848.007c-.146%200-.285.11-.417.333-.133.222-.2.51-.2.866.566-.159.849-.452.849-.881%200-.212-.077-.318-.232-.318Z%22%20fill%3D%22%23F7931E%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-a2fe9051",
+        "name": "NVIDIA",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M8.948%208.798v-1.43a6.7%206.7%200%200%201%20.424-.018c3.922-.124%206.493%203.374%206.493%203.374s-2.774%203.851-5.75%203.851c-.398%200-.787-.062-1.158-.185v-4.346c1.528.185%201.837.857%202.747%202.385l2.04-1.714s-1.492-1.952-4-1.952a6.016%206.016%200%200%200-.796.035m0-4.735v2.138l.424-.027c5.45-.185%209.01%204.47%209.01%204.47s-4.08%204.964-8.33%204.964c-.37%200-.733-.035-1.095-.097v1.325c.3.035.61.062.91.062%203.957%200%206.82-2.023%209.593-4.408.459.371%202.34%201.263%202.73%201.652-2.633%202.208-8.772%203.984-12.253%203.984-.335%200-.653-.018-.971-.053v1.864H24V4.063zm0%2010.326v1.131c-3.657-.654-4.673-4.46-4.673-4.46s1.758-1.944%204.673-2.262v1.237H8.94c-1.528-.186-2.73%201.245-2.73%201.245s.68%202.412%202.739%203.11M2.456%2010.9s2.164-3.197%206.5-3.533V6.201C4.153%206.59%200%2010.653%200%2010.653s2.35%206.802%208.948%207.42v-1.237c-4.84-.6-6.492-5.936-6.492-5.936z%22%20fill%3D%22%2376B900%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-b6755d21",
+        "name": "Meta",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M6.915%204.03c-1.968%200-3.683%201.28-4.871%203.113C.704%209.208%200%2011.883%200%2014.449c0%20.706.07%201.369.21%201.973a6.624%206.624%200%200%200%20.265.86%205.297%205.297%200%200%200%20.371.761c.696%201.159%201.818%201.927%203.593%201.927%201.497%200%202.633-.671%203.965-2.444.76-1.012%201.144-1.626%202.663-4.32l.756-1.339.186-.325c.061.1.121.196.183.3l2.152%203.595c.724%201.21%201.665%202.556%202.47%203.314%201.046.987%201.992%201.22%203.06%201.22%201.075%200%201.876-.355%202.455-.843a3.743%203.743%200%200%200%20.81-.973c.542-.939.861-2.127.861-3.745%200-2.72-.681-5.357-2.084-7.45-1.282-1.912-2.957-2.93-4.716-2.93-1.047%200-2.088.467-3.053%201.308-.652.57-1.257%201.29-1.82%202.05-.69-.875-1.335-1.547-1.958-2.056-1.182-.966-2.315-1.303-3.454-1.303zm10.16%202.053c1.147%200%202.188.758%202.992%201.999%201.132%201.748%201.647%204.195%201.647%206.4%200%201.548-.368%202.9-1.839%202.9-.58%200-1.027-.23-1.664-1.004-.496-.601-1.343-1.878-2.832-4.358l-.617-1.028a44.908%2044.908%200%200%200-1.255-1.98c.07-.109.141-.224.211-.327%201.12-1.667%202.118-2.602%203.358-2.602zm-10.201.553c1.265%200%202.058.791%202.675%201.446.307.327.737.871%201.234%201.579l-1.02%201.566c-.757%201.163-1.882%203.017-2.837%204.338-1.191%201.649-1.81%201.817-2.486%201.817-.524%200-1.038-.237-1.383-.794-.263-.426-.464-1.13-.464-2.046%200-2.221.63-4.535%201.66-6.088.454-.687.964-1.226%201.533-1.533a2.264%202.264%200%200%201%201.088-.285z%22%20fill%3D%22%230467DF%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-222cf5ed",
+        "name": "Google Gemini",
+        "aliases": [
+          "gemini"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M11.04%2019.32Q12%2021.51%2012%2024q0-2.49.93-4.68.96-2.19%202.58-3.81t3.81-2.55Q21.51%2012%2024%2012q-2.49%200-4.68-.93a12.3%2012.3%200%200%201-3.81-2.58%2012.3%2012.3%200%200%201-2.58-3.81Q12%202.49%2012%200q0%202.49-.96%204.68-.93%202.19-2.55%203.81a12.3%2012.3%200%200%201-3.81%202.58Q2.49%2012%200%2012q2.49%200%204.68.96%202.19.93%203.81%202.55t2.55%203.81%22%20fill%3D%22%238E75B2%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-0b38e668",
+        "name": "NotebookLM",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M11.999%203.201C5.372%203.201%200%208.528%200%2015.101V20.8h2.212v-.568c0-2.666%202.178-4.827%204.866-4.827%202.688%200%204.866%202.16%204.866%204.827v.568h2.212v-.568c0-3.877-3.17-7.019-7.078-7.019A7.075%207.075%200%200%200%202.992%2014.5a7.355%207.355%200%200%201%206.568-4.016c4.057%200%207.347%203.264%207.347%207.287V20.8h2.212V17.77c0-5.235-4.28-9.481-9.56-9.481a9.563%209.563%200%200%200-6.217%202.28A9.795%209.795%200%200%201%2012%205.393c5.406%200%209.788%204.346%209.788%209.707V20.8H24V15.1c-.001-6.573-5.373-11.9-12.001-11.9Z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-086b5407",
+        "name": "DeepL",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M20.907%204.93953%2012.68543.18573a1.3577%201.3577%200%200%200-1.3709%200L3.09298%204.9565a1.3766%201.3766%200%200%200-.68639%201.18233v9.52646a1.3766%201.3766%200%200%200%20.68639%201.19363l8.22157%204.75946.06223.03583%204.04856%202.3458-.01131-2.06106.0075-1.1446.0038.01885v-.38467c0-.23006.1188-.43371.29605-.56005l.264-.15086.12633-.06977h-.0075l4.80283-2.7795a1.3803%201.3803%200%200%200%20.68639-1.19551V6.13505a1.3803%201.3803%200%200%200-.68642-1.19552m-9.85269%209.68863a1.4275%201.4275%200%200%201-.39976%201.3841%201.4086%201.4086%200%200%201-1.97054%200%201.4199%201.4199%200%200%201%200-2.06294%201.4086%201.4086%200%200%201%202.0422.07543l3.32822-1.91585.6864.38656zm5.77019-2.41367a1.4086%201.4086%200%200%201-1.97054%200%201.4256%201.4256%200%200%201-.3696-1.47837l-.0132.0075-3.7525-2.1723-.05657.05656a1.4086%201.4086%200%200%201-1.97053%200%201.4199%201.4199%200%200%201%200-2.06293%201.4086%201.4086%200%200%201%201.97242%200c.3941.37713.52422.91832.39033%201.40672l3.7808%202.20059.01886-.01886a1.4086%201.4086%200%200%201%201.97242%200%201.42746%201.42746%200%200%201%200%202.06105z%22%20fill%3D%22%230F2B46%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-946acbc8",
+        "name": "Grammarly",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12%2024H.032V12c0-3.314%201.341-6.314%203.504-8.486C5.703%201.344%208.694%200%2012%200c3.305%200%206.297%201.344%208.463%203.514%202.164%202.172%203.505%205.172%203.505%208.486s-1.338%206.314-3.505%208.486C18.297%2022.656%2015.305%2024%2012%2024m2.889-13.137-1.271%202.205h4.418c-.505%202.882-3.018%205.078-6.036%205.078-3.38%200-6.132-2.757-6.132-6.146S8.618%205.854%2012%205.854c1.821%200%203.458.801%204.584%202.069l1.143-1.988c-1.493-1.418-3.506-2.29-5.725-2.29-4.6%200-8.332%203.74-8.332%208.355s3.73%208.354%208.332%208.354c4.603%200%208.332-3.739%208.332-8.354%200-.387-.029-.765-.079-1.137z%22%20fill%3D%22%23027E6F%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-dc173d57",
+        "name": "Vercel",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22m12%201.608%2012%2020.784H0Z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-a0607683",
+        "name": "OpenRouter",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M16.778%201.844v1.919q-.569-.026-1.138-.032-.708-.008-1.415.037c-1.93.126-4.023.728-6.149%202.237-2.911%202.066-2.731%201.95-4.14%202.75-.396.223-1.342.574-2.185.798-.841.225-1.753.333-1.751.333v4.229s.768.108%201.61.333c.842.224%201.789.575%202.185.799%201.41.798%201.228.683%204.14%202.75%202.126%201.509%204.22%202.11%206.148%202.236.88.058%201.716.041%202.555.005v1.918l7.222-4.168-7.222-4.17v2.176c-.86.038-1.611.065-2.278.021-1.364-.09-2.417-.357-3.979-1.465-2.244-1.593-2.866-2.027-3.68-2.508.889-.518%201.449-.906%203.822-2.59%201.56-1.109%202.614-1.377%203.978-1.466.667-.044%201.418-.017%202.278.02v2.176L24%206.014Z%22%20fill%3D%22%2394A3B8%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-f431db65",
+        "name": "Anthropic",
+        "aliases": [
+          "claude"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M17.3041%203.541h-3.6718l6.696%2016.918H24Zm-10.6082%200L0%2020.459h3.7442l1.3693-3.5527h7.0052l1.3693%203.5528h3.7442L10.5363%203.5409Zm-.3712%2010.2232%202.2914-5.9456%202.2914%205.9456Z%22%20fill%3D%22%23191919%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-d3b7c913",
+        "name": "GitHub",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12%20.297c-6.63%200-12%205.373-12%2012%200%205.303%203.438%209.8%208.205%2011.385.6.113.82-.258.82-.577%200-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422%2018.07%203.633%2017.7%203.633%2017.7c-1.087-.744.084-.729.084-.729%201.205.084%201.838%201.236%201.838%201.236%201.07%201.835%202.809%201.305%203.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93%200-1.31.465-2.38%201.235-3.22-.135-.303-.54-1.523.105-3.176%200%200%201.005-.322%203.3%201.23.96-.267%201.98-.399%203-.405%201.02.006%202.04.138%203%20.405%202.28-1.552%203.285-1.23%203.285-1.23.645%201.653.24%202.873.12%203.176.765.84%201.23%201.91%201.23%203.22%200%204.61-2.805%205.625-5.475%205.92.42.36.81%201.096.81%202.22%200%201.606-.015%202.896-.015%203.286%200%20.315.21.69.825.57C20.565%2022.092%2024%2017.592%2024%2012.297c0-6.627-5.373-12-12-12%22%20fill%3D%22%23181717%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-c5fd214c",
+        "name": "Docker",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M13.983%2011.078h2.119a.186.186%200%2000.186-.185V9.006a.186.186%200%2000-.186-.186h-2.119a.185.185%200%2000-.185.185v1.888c0%20.102.083.185.185.185m-2.954-5.43h2.118a.186.186%200%2000.186-.186V3.574a.186.186%200%2000-.186-.185h-2.118a.185.185%200%2000-.185.185v1.888c0%20.102.082.185.185.185m0%202.716h2.118a.187.187%200%2000.186-.186V6.29a.186.186%200%2000-.186-.185h-2.118a.185.185%200%2000-.185.185v1.887c0%20.102.082.185.185.186m-2.93%200h2.12a.186.186%200%2000.184-.186V6.29a.185.185%200%2000-.185-.185H8.1a.185.185%200%2000-.185.185v1.887c0%20.102.083.185.185.186m-2.964%200h2.119a.186.186%200%2000.185-.186V6.29a.185.185%200%2000-.185-.185H5.136a.186.186%200%2000-.186.185v1.887c0%20.102.084.185.186.186m5.893%202.715h2.118a.186.186%200%2000.186-.185V9.006a.186.186%200%2000-.186-.186h-2.118a.185.185%200%2000-.185.185v1.888c0%20.102.082.185.185.185m-2.93%200h2.12a.185.185%200%2000.184-.185V9.006a.185.185%200%2000-.184-.186h-2.12a.185.185%200%2000-.184.185v1.888c0%20.102.083.185.185.185m-2.964%200h2.119a.185.185%200%2000.185-.185V9.006a.185.185%200%2000-.184-.186h-2.12a.186.186%200%2000-.186.186v1.887c0%20.102.084.185.186.185m-2.92%200h2.12a.185.185%200%2000.184-.185V9.006a.185.185%200%2000-.184-.186h-2.12a.185.185%200%2000-.184.185v1.888c0%20.102.082.185.185.185M23.763%209.89c-.065-.051-.672-.51-1.954-.51-.338.001-.676.03-1.01.087-.248-1.7-1.653-2.53-1.716-2.566l-.344-.199-.226.327c-.284.438-.49.922-.612%201.43-.23.97-.09%201.882.403%202.661-.595.332-1.55.413-1.744.42H.751a.751.751%200%2000-.75.748%2011.376%2011.376%200%2000.692%204.062c.545%201.428%201.355%202.48%202.41%203.124%201.18.723%203.1%201.137%205.275%201.137.983.003%201.963-.086%202.93-.266a12.248%2012.248%200%20003.823-1.389c.98-.567%201.86-1.288%202.61-2.136%201.252-1.418%201.998-2.997%202.553-4.4h.221c1.372%200%202.215-.549%202.68-1.009.309-.293.55-.65.707-1.046l.098-.288Z%22%20fill%3D%22%232496ED%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-af07a053",
+        "name": "Supabase",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M11.9%201.036c-.015-.986-1.26-1.41-1.874-.637L.764%2012.05C-.33%2013.427.65%2015.455%202.409%2015.455h9.579l.113%207.51c.014.985%201.259%201.408%201.873.636l9.262-11.653c1.093-1.375.113-3.403-1.645-3.403h-9.642z%22%20fill%3D%22%233FCF8E%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-3f07179a",
+        "name": "Cloudflare",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M16.5088%2016.8447c.1475-.5068.0908-.9707-.1553-1.3154-.2246-.3164-.6045-.499-1.0615-.5205l-8.6592-.1123a.1559.1559%200%200%201-.1333-.0713c-.0283-.042-.0351-.0986-.021-.1553.0278-.084.1123-.1484.2036-.1562l8.7359-.1123c1.0351-.0489%202.1601-.8868%202.5537-1.9136l.499-1.3013c.0215-.0561.0293-.1128.0147-.168-.5625-2.5463-2.835-4.4453-5.5499-4.4453-2.5039%200-4.6284%201.6177-5.3876%203.8614-.4927-.3658-1.1187-.5625-1.794-.499-1.2026.119-2.1665%201.083-2.2861%202.2856-.0283.31-.0069.6128.0635.894C1.5683%2013.171%200%2014.7754%200%2016.752c0%20.1748.0142.3515.0352.5273.0141.083.0844.1475.1689.1475h15.9814c.0909%200%20.1758-.0645.2032-.1553l.12-.4268zm2.7568-5.5634c-.0771%200-.1611%200-.2383.0112-.0566%200-.1054.0415-.127.0976l-.3378%201.1744c-.1475.5068-.0918.9707.1543%201.3164.2256.3164.6055.498%201.0625.5195l1.8437.1133c.0557%200%20.1055.0263.1329.0703.0283.043.0351.1074.0214.1562-.0283.084-.1132.1485-.204.1553l-1.921.1123c-1.041.0488-2.1582.8867-2.5527%201.914l-.1406.3585c-.0283.0713.0215.1416.0986.1416h6.5977c.0771%200%20.1474-.0489.169-.126.1122-.4082.1757-.837.1757-1.2803%200-2.6025-2.125-4.727-4.7344-4.727%22%20fill%3D%22%23F38020%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ai-f275f2a5",
+        "name": "FastAPI",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12%20.0387C5.3729.0384.0003%205.3931%200%2011.9988c-.001%206.6066%205.372%2011.9628%2012%2011.9625%206.628.0003%2012.001-5.3559%2012-11.9625-.0003-6.6057-5.3729-11.9604-12-11.96m-.829%205.4153h7.55l-7.5805%205.3284h5.1828L5.279%2018.5436q2.9466-6.5444%205.892-13.0896%22%20fill%3D%22%23009688%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -13883,6 +14915,158 @@ export const DEFAULT_CATEGORIES = [
           "loom"
         ],
         "imageUrl": "/logos/cont-loom.png"
+      },
+      {
+        "id": "ct-b6ef6ec1",
+        "name": "GIMP",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M15.496%208.608a2.175%202.385%200%200%200-2.175%202.384%202.175%202.385%200%200%200%202.175%202.385%202.175%202.385%200%200%200%202.175-2.385%202.175%202.385%200%200%200-2.175-2.384zm0%20.15a.934.934%200%200%201%20.933.935.934.934%200%200%201-.933.934.934.934%200%200%201-.934-.934.934.934%200%200%201%20.934-.934zm4.903%209.433a.314.314%200%200%200-.094.014c-.278.08-.642.735-.563%201.013.079.278.356.152.524.245.149.083.196.33.4.329-.033.446.125.903.398%201.231.464.564%201.173.576%201.627.68.453.103.789.38.955.683h-.01c.14.253.413-.965.313-1.81-.199-1.692-1.827-2.294-2.657-1.856-.095-.218-.349-.112-.507-.2-.147-.082-.195-.323-.39-.329zM2.01%208.207a2.938%202.279%2078.561%200%200-.296.036%202.938%202.279%2078.561%200%200-1.637%203.343%202.938%202.279%2078.561%200%200%202.824%202.412%202.938%202.279%2078.561%200%200%201.637-3.343A2.938%202.279%2078.561%200%200%202.01%208.207zm.02.182a1.24%201.24%2089.982%200%201%201.24%201.24%201.24%201.24%2089.982%200%201-1.24%201.241%201.24%201.24%2089.982%200%201-1.24-1.24%201.24%201.24%2089.982%200%201%201.24-1.24zm7.296.619a1.61%201.957%200%200%200-1.61%201.957%201.61%201.957%200%200%200%201.61%201.957%201.61%201.957%200%200%200%201.61-1.957%201.61%201.957%200%200%200-1.61-1.957zm.01.142a.734.734%200%200%201%20.733.733.734.734%200%200%201-.733.734.734.734%200%200%201-.734-.734.734.734%200%200%201%20.734-.733zm13.785-7.57c-.082.01-.178.056-.278.184-2.255%203.385-5.54%204.902-7.936%205.521a3.513%203.586%200%200%201%203.25%203.576%203.513%203.586%200%200%201-3.513%203.586%203.513%203.586%200%200%201-3.375-2.595%202.676%202.998%200%200%201-2.52%202%202.676%202.998%200%200%201-2.676-2.998%202.676%202.998%200%200%201%202.675-2.999%202.676%202.998%200%200%201%202.517%202.037%203.513%203.586%200%200%201%201.878-2.27c-1.887.246-2.89-.025-4.335-.649-1.024-.56-1.722-1.173-2.48-2.359-.036-.055-.11-.086-.16-.025-.18.241-.97%205.723-.98%206.227-.033%201.632-.706%203.593-2.73%203.661%201.864%203.799%205.919%205.465%2010.586%205.397%201.404.01%203.329-.332%205.171-1.243a213.84%20213.84%200%200%201-1.568-.996c-1.347.788-2.935%201.09-4.674%201.019-2.217-.09-1.847-.732-1.36-.667%203.574.506%205.82-.624%207.315-2.547a34.596%2034.596%200%200%201-.556-.377c-.164-.114.032-.291.385-.304h.04c.205-.002.458.056.722.206.757.433.783.965.535%201.081-.08.037-.263-.048-.439-.151-.255.329-.53.622-.818.887h.01c.668.29%201.568.684%202.005.89a9.634%209.634%200%200%200%203.017-3.574c2.18-4.449.652-12.176.614-12.29-.039-.112-.15-.211-.242-.226h-.076z%22%20fill%3D%22%238C8073%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-f94c773e",
+        "name": "Inkscape",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M7.666%2014.871c.237.147%203.818.875%204.693%201.02.303.064.088.376-.33.587-.943.251-5.517-1.607-4.363-1.607zm5.647-13.264l3.505%203.56c.333.34.328.998.142%201.187l-1.74-1.392-.342%202.061-1.455-.767-2.328%201.47-.771-3.1L9.073%206.79H7.16c-.78%200-.871-.99-.163-1.698%201.237-1.335%202.657-2.696%203.429-3.485.776-.793%202.127-.77%202.887%200zM9.786.97l-8.86%209.066c-2.993%203.707%202.038%203.276%204.194%204.343.774.791-2.965%201.375-2.191%202.166.773.791%204.678%201.524%205.453%202.314.773.791-1.584%201.63-.81%202.42.773.792%202.563.042%202.898%201.868.238%201.304%203.224.56%204.684-.508.774-.791-1.48-.717-.706-1.508%201.923-1.967%203.715-.714%204.373-2.686.325-.974-2.832-1.501-2.057-2.292%202.226-1.3%209.919-2.146%206.268-5.796L13.85.97c-1.123-1.078-2.998-1.09-4.063%200zm10.177%2017.475c0%20.45%203.314.745%203.314-.106-.472-1.366-2.922-1.274-3.314.106zm-14.928%202.39c.784.679%201.997-.169%202.36-1.116-.76-1.01-3.607.037-2.36%201.116zm14.512-1.466c-1.011.908.114%201.828%201.111%201.242.222-.225-.006-1.016-1.11-1.242Z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-8a0c8fee",
+        "name": "Krita",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M.652.76a.625.625%200%2000-.5.246c-.352.448-.035.898.362%201.262.206.189%201.77%201.794%203.428%203.527a11.054%2011.054%200%20011.815-1.983C3.667%202.515%201.694%201.266%201.461%201.1%201.201.914.917.762.652.76zm5.105%203.052c1.848%201.148%203.786%202.332%204.693%202.84%201.469.821%203.758%202.684%204.092%204.434.535.466%202.182%201.916%202.596%202.413.698-.211%201.518.133%202.06%201.12.866%201.583.227%203.747-1.968%204.988a5.42%205.42%200%2001-.296.267l.296-.267c1.14-1.468-.714-2.44-1.175-3.864a2.06%202.06%200%2001-.11-.78c-.533-.282-2.11-1.452-2.795-1.965-1.801.16-4.207-1.773-5.35-3.08-.7-.802-2.32-2.517-3.858-4.123a11.052%2011.052%200%2000-2.046%206.393A11.052%2011.052%200%201012.948%201.136c-2.64.004-5.19.954-7.19%202.676zm8.71%207.552c-.515.126-.968.831-1.118%201.306-.038.115-.04.303.066.342.802.592%201.556%201.168%202.4%201.7.162-.393.746-.963%201.096-1.2zm-11.53%201.639c.812%201.898%205.798%207.17%2012.06%202.695a2.07%202.07%200%2000.114.715c.46%201.42%202.36%202.427%201.238%203.89-2.135%201.364-5%201.201-6.989.528-3.558-1.204-5.914-4.332-6.424-7.828zm13.782.7a.771.771%200%2000-.065.049c-.004.003-.008.008-.011.008.003-.003.007-.008.01-.008.024-.015.044-.034.066-.048z%22%20fill%3D%22%233BABFF%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-b1b71398",
+        "name": "Notion",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M4.459%204.208c.746.606%201.026.56%202.428.466l13.215-.793c.28%200%20.047-.28-.046-.326L17.86%201.968c-.42-.326-.981-.7-2.055-.607L3.01%202.295c-.466.046-.56.28-.374.466zm.793%203.08v13.904c0%20.747.373%201.027%201.214.98l14.523-.84c.841-.046.935-.56.935-1.167V6.354c0-.606-.233-.933-.748-.887l-15.177.887c-.56.047-.747.327-.747.933zm14.337.745c.093.42%200%20.84-.42.888l-.7.14v10.264c-.608.327-1.168.514-1.635.514-.748%200-.935-.234-1.495-.933l-4.577-7.186v6.952L12.21%2019s0%20.84-1.168.84l-3.222.186c-.093-.186%200-.653.327-.746l.84-.233V9.854L7.822%209.76c-.094-.42.14-1.026.793-1.073l3.456-.233%204.764%207.279v-6.44l-1.215-.139c-.093-.514.28-.887.747-.933zM1.936%201.035l13.31-.98c1.634-.14%202.055-.047%203.082.7l4.249%202.986c.7.513.934.653.934%201.213v16.378c0%201.026-.373%201.634-1.68%201.726l-15.458.934c-.98.047-1.448-.093-1.962-.747l-3.129-4.06c-.56-.747-.793-1.306-.793-1.96V2.667c0-.839.374-1.54%201.447-1.632z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-9d72bd35",
+        "name": "Trello",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M21.147%200H2.853A2.86%202.86%200%20000%202.853v18.294A2.86%202.86%200%20002.853%2024h18.294A2.86%202.86%200%200024%2021.147V2.853A2.86%202.86%200%200021.147%200zM10.34%2017.287a.953.953%200%2001-.953.953h-4a.954.954%200%2001-.954-.953V5.38a.953.953%200%2001.954-.953h4a.954.954%200%2001.953.953zm9.233-5.467a.944.944%200%2001-.953.947h-4a.947.947%200%2001-.953-.947V5.38a.953.953%200%2001.953-.953h4a.954.954%200%2001.953.953z%22%20fill%3D%22%230052CC%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-902970ad",
+        "name": "Miro",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M17.392%200H13.9L17%204.808%2010.444%200H6.949l3.102%206.3L3.494%200H0l3.05%208.131L0%2024h3.494L10.05%206.985%206.949%2024h3.494L17%205.494%2013.899%2024h3.493L24%203.672%2017.392%200z%22%20fill%3D%22%23050038%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-9bdb2254",
+        "name": "VLC",
+        "aliases": [
+          "vlc"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12.0319%200c-.8823%200-1.0545.136-1.0545.136-.1738.056-.3556.255-.4105.43L9.683%203.3808c.4729.1729%201.3222.4266%202.2337.4266%201.0987%200%202.017-.3494%202.3763-.5075L13.4352.566c-.055-.1755-.237-.3707-.4067-.4374%200%200-.1142-.1286-.9966-.1286zm3.5645%207.455c-.3601.34-1.3276.9373-3.6797.9373-2.2929%200-3.189-.5678-3.5213-.9113l-1.3887%204.4227c.2272.3614%201.2539%201.5594%204.8847%201.5594%203.7569%200%204.8539-1.3467%205.0649-1.6737zm-8.5897%204.4487l-1.0025%203.1922H4.3428c-.2486%200-.5097.1932-.5826.4315l-2.334%207.6317a.3962.3962%200%200%200-.0169.1537c-.0008.0053-.002.0099-.002.016%200%20.0839.0233.226.0233.226.0322.2456.2612.4452.5098.4452h20.1192c.2487%200%20.4768-.1994.5098-.4453%200%200%20.0234-.142.0234-.226a.0245.0245%200%200%200-.0025-.01.3201.3201%200%200%200%20.0024-.0313.4096.4096%200%200%200-.019-.1282l-2.3339-7.6318c-.0729-.2383-.334-.4314-.5826-.4314h-1.6636l.2005.6391c-.2407.4854-1.4886%202.38-6.3027%202.38-4.6003%200-5.8288-1.73-6.1107-2.3072z%22%20fill%3D%22%23FF8800%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-c6822fec",
+        "name": "FFmpeg",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M21.72%2017.91V6.5l-.53-.49L9.05%2018.52l-1.29-.06L24%201.53l-.33-.95-11.93%201-5.75%206.6v-.23l4.7-5.39-1.38-.77-9.11.77v2.85l1.91.46v.01l.19-.01-.56.66v10.6c.609-.126%201.22-.241%201.83-.36L14.12%205.22l.83-.04L0%2021.44l9.67.82%201.35-.77%206.82-6.74v2.15l-5.72%205.57%2011.26.95.35-.94v-3.16l-3.29-.18c.434-.403.858-.816%201.28-1.23z%22%20fill%3D%22%23007808%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-da576437",
+        "name": "Kdenlive",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22m8.727%201.554%202.727%204.334v16.558h1.091V5.889l2.728-4.335zm-6%204.948V9.8h7.091c.003-.83%200-1.672-.006-2.498%200-.383-.356-.732-.718-.8H2.727zm12.303.001c-.402.024-.835.41-.834.837l-.014%2012.619c0%20.57.767%201.065%201.207.727l8.28-6.331c.441-.335.44-1.12%200-1.455l-8.265-6.287a.553.553%200%200%200-.374-.11zM-.001%2012v3.299h9.818V12zm4.363%205.497v3.3h5.455v-3.3z%22%20fill%3D%22%23527EB2%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-0b84eb79",
+        "name": "Streamlabs",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M8.6878%201.3459a1.365%201.365%200%200%200-.2734.0058c-.528.066-1.0133.1616-1.4843.3086A10.0568%2010.0568%200%200%200%20.3208%208.2697c-.147.471-.2445.9583-.3105%201.4863-.091.734.431%201.4041%201.166%201.4961.734.091%201.404-.43%201.496-1.164.05-.406.119-.7316.209-1.0196A7.3736%207.3736%200%200%201%207.727%204.221c.288-.09.6145-.157%201.0195-.207.735-.092%201.255-.7631%201.164-1.4981a1.3394%201.3394%200%200%200-1.2226-1.17Zm4.0488%205.2226c-2.629%200-3.9432.0007-4.9472.5117A4.684%204.684%200%200%200%205.7406%209.131c-.512%201.004-.5117%202.3183-.5117%204.9473v4.289c0%201.502-.001%202.2542.291%202.8282.257.505.6679.9149%201.1719%201.1719.574.292%201.326.291%202.828.291h6.9706c2.628%200%203.9442.0012%204.9472-.5098a4.6883%204.6883%200%200%200%202.0507-2.0508c.512-1.004.5117-2.3182.5117-4.9472v-1.0723c0-2.629.0003-3.9433-.5117-4.9473a4.6883%204.6883%200%200%200-2.0507-2.0508c-1.003-.511-2.3193-.5117-4.9472-.5117zm.537%206.7051c.741%200%201.3399.5998%201.3399%201.3398v2.6836c0%20.74-.5988%201.3399-1.3398%201.3399-.74%200-1.3418-.5999-1.3418-1.3399v-2.6836c0-.74.6018-1.3398%201.3418-1.3398zm5.3632%200c.74%200%201.3399.5998%201.3399%201.3398v2.6836c0%20.74-.5999%201.3399-1.3399%201.3399-.741%200-1.3398-.5999-1.3398-1.3399v-2.6836c0-.74.5989-1.3398%201.3398-1.3398z%22%20fill%3D%22%2380F5D2%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-a99d1d69",
+        "name": "Behance",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M16.969%2016.927a2.561%202.561%200%200%200%201.901.677%202.501%202.501%200%200%200%201.531-.475c.362-.235.636-.584.779-.99h2.585a5.091%205.091%200%200%201-1.9%202.896%205.292%205.292%200%200%201-3.091.88%205.839%205.839%200%200%201-2.284-.433%204.871%204.871%200%200%201-1.723-1.211%205.657%205.657%200%200%201-1.08-1.874%207.057%207.057%200%200%201-.383-2.393c-.005-.8.129-1.595.396-2.349a5.313%205.313%200%200%201%205.088-3.604%204.87%204.87%200%200%201%202.376.563c.661.362%201.231.87%201.668%201.485a6.2%206.2%200%200%201%20.943%202.133c.194.821.263%201.666.205%202.508h-7.699c-.063.79.184%201.574.688%202.187ZM6.947%204.084a8.065%208.065%200%200%201%201.928.198%204.29%204.29%200%200%201%201.49.638c.418.303.748.711.958%201.182.241.579.357%201.203.341%201.83a3.506%203.506%200%200%201-.506%201.961%203.726%203.726%200%200%201-1.503%201.287%203.588%203.588%200%200%201%202.027%201.437c.464.747.697%201.615.67%202.494a4.593%204.593%200%200%201-.423%202.032%203.945%203.945%200%200%201-1.163%201.413%205.114%205.114%200%200%201-1.683.807%207.135%207.135%200%200%201-1.928.259H0V4.084h6.947Zm-.235%2012.9c.308.004.616-.029.916-.099a2.18%202.18%200%200%200%20.766-.332c.228-.158.411-.371.534-.619.142-.317.208-.663.191-1.009a2.08%202.08%200%200%200-.642-1.715%202.618%202.618%200%200%200-1.696-.505h-3.54v4.279h3.471Zm13.635-5.967a2.13%202.13%200%200%200-1.654-.619%202.336%202.336%200%200%200-1.163.259%202.474%202.474%200%200%200-.738.62%202.359%202.359%200%200%200-.396.792c-.074.239-.12.485-.137.734h4.769a3.239%203.239%200%200%200-.679-1.785l-.002-.001Zm-13.813-.648a2.254%202.254%200%200%200%201.423-.433c.399-.355.607-.88.56-1.413a1.916%201.916%200%200%200-.178-.891%201.298%201.298%200%200%200-.495-.533%201.851%201.851%200%200%200-.711-.274%203.966%203.966%200%200%200-.835-.073H3.241v3.631h3.293v-.014ZM21.62%205.122h-5.976v1.527h5.976V5.122Z%22%20fill%3D%22%231769FF%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-ff47f965",
+        "name": "Dribbble",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12%2024C5.385%2024%200%2018.615%200%2012S5.385%200%2012%200s12%205.385%2012%2012-5.385%2012-12%2012zm10.12-10.358c-.35-.11-3.17-.953-6.384-.438%201.34%203.684%201.887%206.684%201.992%207.308%202.3-1.555%203.936-4.02%204.395-6.87zm-6.115%207.808c-.153-.9-.75-4.032-2.19-7.77l-.066.02c-5.79%202.015-7.86%206.025-8.04%206.4%201.73%201.358%203.92%202.166%206.29%202.166%201.42%200%202.77-.29%204-.814zm-11.62-2.58c.232-.4%203.045-5.055%208.332-6.765.135-.045.27-.084.405-.12-.26-.585-.54-1.167-.832-1.74C7.17%2011.775%202.206%2011.71%201.756%2011.7l-.004.312c0%202.633.998%205.037%202.634%206.855zm-2.42-8.955c.46.008%204.683.026%209.477-1.248-1.698-3.018-3.53-5.558-3.8-5.928-2.868%201.35-5.01%203.99-5.676%207.17zM9.6%202.052c.282.38%202.145%202.914%203.822%206%203.645-1.365%205.19-3.44%205.373-3.702-1.81-1.61-4.19-2.586-6.795-2.586-.825%200-1.63.1-2.4.285zm10.335%203.483c-.218.29-1.935%202.493-5.724%204.04.24.49.47.985.68%201.486.08.18.15.36.22.53%203.41-.43%206.8.26%207.14.33-.02-2.42-.88-4.64-2.31-6.38z%22%20fill%3D%22%23EA4C89%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-dff358ae",
+        "name": "Unsplash",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M7.5%206.75V0h9v6.75h-9zm9%203.75H24V24H0V10.5h7.5v6.75h9V10.5z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-3eb2e670",
+        "name": "Pexels",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M1.5%200A1.5%201.5%200%20000%201.5v21A1.5%201.5%200%20001.5%2024h21a1.5%201.5%200%20001.5-1.5v-21A1.5%201.5%200%200022.5%200h-21zm6.75%206.75h5.2715a3.843%203.843%200%2001.627%207.6348V17.25H8.25V6.75zm1.5%201.5v7.5h2.8984v-2.8145h.873a2.343%202.343%200%20100-4.6855H9.75Z%22%20fill%3D%22%2305A081%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-fde31686",
+        "name": "WordPress",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M21.469%206.825c.84%201.537%201.318%203.3%201.318%205.175%200%203.979-2.156%207.456-5.363%209.325l3.295-9.527c.615-1.54.82-2.771.82-3.864%200-.405-.026-.78-.07-1.11m-7.981.105c.647-.03%201.232-.105%201.232-.105.582-.075.514-.93-.067-.899%200%200-1.755.135-2.88.135-1.064%200-2.85-.15-2.85-.15-.585-.03-.661.855-.075.885%200%200%20.54.061%201.125.09l1.68%204.605-2.37%207.08L5.354%206.9c.649-.03%201.234-.1%201.234-.1.585-.075.516-.93-.065-.896%200%200-1.746.138-2.874.138-.2%200-.438-.008-.69-.015C4.911%203.15%208.235%201.215%2012%201.215c2.809%200%205.365%201.072%207.286%202.833-.046-.003-.091-.009-.141-.009-1.06%200-1.812.923-1.812%201.914%200%20.89.513%201.643%201.06%202.531.411.72.89%201.643.89%202.977%200%20.915-.354%201.994-.821%203.479l-1.075%203.585-3.9-11.61.001.014zM12%2022.784c-1.059%200-2.081-.153-3.048-.437l3.237-9.406%203.315%209.087c.024.053.05.101.078.149-1.12.393-2.325.609-3.582.609M1.211%2012c0-1.564.336-3.05.935-4.39L7.29%2021.709C3.694%2019.96%201.212%2016.271%201.211%2012M12%200C5.385%200%200%205.385%200%2012s5.385%2012%2012%2012%2012-5.385%2012-12S18.615%200%2012%200%22%20fill%3D%22%2321759B%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-68578d6f",
+        "name": "Webflow",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22m24%204.515-7.658%2014.97H9.149l3.205-6.204h-.144C9.566%2016.713%205.621%2018.973%200%2019.485v-6.118s3.596-.213%205.71-2.435H0V4.515h6.417v5.278l.144-.001%202.622-5.277h4.854v5.244h.144l2.72-5.244H24Z%22%20fill%3D%22%23146EF5%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-0df10fc1",
+        "name": "Framer",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M4%200h16v8h-8zM4%208h8l8%208H4zM4%2016h8v8z%22%20fill%3D%22%230055FF%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-48b1feaa",
+        "name": "Shopify",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M15.337%2023.979l7.216-1.561s-2.604-17.613-2.625-17.73c-.018-.116-.114-.192-.211-.192s-1.929-.136-1.929-.136-1.275-1.274-1.439-1.411c-.045-.037-.075-.057-.121-.074l-.914%2021.104h.023zM11.71%2011.305s-.81-.424-1.774-.424c-1.447%200-1.504.906-1.504%201.141%200%201.232%203.24%201.715%203.24%204.629%200%202.295-1.44%203.76-3.406%203.76-2.354%200-3.54-1.465-3.54-1.465l.646-2.086s1.245%201.066%202.28%201.066c.675%200%20.975-.545.975-.932%200-1.619-2.654-1.694-2.654-4.359-.034-2.237%201.571-4.416%204.827-4.416%201.257%200%201.875.361%201.875.361l-.945%202.715-.02.01zM11.17.83c.136%200%20.271.038.405.135-.984.465-2.064%201.639-2.508%203.992-.656.213-1.293.405-1.889.578C7.697%203.75%208.951.84%2011.17.84V.83zm1.235%202.949v.135c-.754.232-1.583.484-2.394.736.466-1.777%201.333-2.645%202.085-2.971.193.501.309%201.176.309%202.1zm.539-2.234c.694.074%201.141.867%201.429%201.755-.349.114-.735.231-1.158.366v-.252c0-.752-.096-1.371-.271-1.871v.002zm2.992%201.289c-.02%200-.06.021-.078.021s-.289.075-.714.21c-.423-1.233-1.176-2.37-2.508-2.37h-.115C12.135.209%2011.669%200%2011.265%200%208.159%200%206.675%203.877%206.21%205.846c-1.194.365-2.063.636-2.16.674-.675.213-.694.232-.772.87-.075.462-1.83%2014.063-1.83%2014.063L15.009%2024l.927-21.166z%22%20fill%3D%22%237AB55C%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-de9402e6",
+        "name": "Squarespace",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M22.655%208.719c-1.802-1.801-4.726-1.801-6.564%200l-7.351%207.35c-.45.45-.45%201.2%200%201.65.45.449%201.2.449%201.65%200l7.351-7.351c.899-.899%202.362-.899%203.264%200%20.9.9.9%202.364%200%203.264l-7.239%207.239c.9.899%202.362.899%203.263%200l5.589-5.589c1.836-1.838%201.836-4.763.037-6.563zm-2.475%202.437c-.451-.45-1.201-.45-1.65%200l-7.354%207.389c-.9.899-2.361.899-3.262%200-.45-.45-1.2-.45-1.65%200s-.45%201.2%200%201.649c1.801%201.801%204.726%201.801%206.564%200l7.351-7.35c.449-.487.449-1.239.001-1.688zm-2.439-7.35c-1.801-1.801-4.726-1.801-6.564%200l-7.351%207.351c-.45.449-.45%201.199%200%201.649s1.2.45%201.65%200l7.395-7.351c.9-.899%202.371-.899%203.27%200%20.451.45%201.201.45%201.65%200%20.421-.487.421-1.199-.029-1.649h-.021zm-2.475%202.437c-.45-.45-1.2-.45-1.65%200l-7.351%207.389c-.899.9-2.363.9-3.265%200-.9-.899-.9-2.363%200-3.264l7.239-7.239c-.9-.9-2.362-.9-3.263%200L1.35%208.719c-1.8%201.8-1.8%204.725%200%206.563%201.801%201.801%204.725%201.801%206.564%200l7.35-7.351c.451-.488.451-1.238%200-1.688h.002z%22%20fill%3D%22%23000000%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-fadd07e7",
+        "name": "Wix",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22m0%207.354%202.113%209.292h.801a1.54%201.54%200%200%200%201.506-1.218l1.351-6.34a.171.171%200%200%201%20.167-.137c.08%200%20.15.058.167.137l1.352%206.34a1.54%201.54%200%200%200%201.506%201.218h.805l2.113-9.292h-.565c-.62%200-1.159.43-1.296%201.035l-1.26%205.545-1.106-5.176a1.76%201.76%200%200%200-2.19-1.324c-.639.176-1.113.716-1.251%201.365l-1.094%205.127-1.26-5.537A1.33%201.33%200%200%200%20.563%207.354H0zm13.992%200a.951.951%200%200%200-.951.95v8.342h.635a.952.952%200%200%200%20.951-.95V7.353h-.635zm1.778%200%203.158%204.66-3.14%204.632h1.325c.368%200%20.712-.181.918-.486l1.756-2.59a.12.12%200%200%201%20.197%200l1.754%202.59c.206.305.55.486.918.486h1.326l-3.14-4.632L24%207.354h-1.326c-.368%200-.712.181-.918.486l-1.772%202.617a.12.12%200%200%201-.197%200L18.014%207.84a1.108%201.108%200%200%200-.918-.486H15.77z%22%20fill%3D%22%230C6EFC%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-401357e5",
+        "name": "Ghost",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M12%200C5.373%200%200%205.373%200%2012s5.373%2012%2012%2012%2012-5.373%2012-12S18.627%200%2012%200zm.256%202.313c2.47.005%205.116%202.008%205.898%202.962l.244.3c1.64%201.994%203.569%204.34%203.569%206.966%200%203.719-2.98%205.808-6.158%207.508-1.433.766-2.98%201.508-4.748%201.508-4.543%200-8.366-3.569-8.366-8.112%200-.706.17-1.425.342-2.15.122-.515.244-1.033.307-1.549.548-4.539%202.967-6.795%208.422-7.408a4.29%204.29%200%2001.49-.026Z%22%20fill%3D%22%2315171A%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-3c0c18e6",
+        "name": "Mailchimp",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M11.267%200C6.791-.015-1.82%2010.246%201.397%2012.964l.79.669a3.88%203.88%200%200%200-.22%201.792c.084.84.518%201.644%201.22%202.266.666.59%201.542.964%202.392.964%201.406%203.24%204.62%205.228%208.386%205.34%204.04.12%207.433-1.776%208.854-5.182.093-.24.488-1.316.488-2.267%200-.956-.54-1.352-.885-1.352-.01-.037-.078-.286-.172-.586-.093-.3-.19-.51-.19-.51.375-.563.382-1.065.332-1.35-.053-.353-.2-.653-.496-.964-.296-.311-.902-.63-1.753-.868l-.446-.124c-.002-.019-.024-1.053-.043-1.497-.014-.32-.042-.822-.197-1.315-.186-.668-.508-1.253-.911-1.627%201.112-1.152%201.806-2.422%201.804-3.511-.003-2.095-2.576-2.729-5.746-1.416l-.672.285A678.22%20678.22%200%200%200%2012.7.504C12.304.159%2011.817.002%2011.267%200zm.073.873c.166%200%20.322.019.465.058.297.084%201.28%201.224%201.28%201.224s-1.826%201.013-3.52%202.426c-2.28%201.757-4.005%204.311-5.037%207.082-.811.158-1.526.618-1.963%201.253-.261-.218-.748-.64-.834-.804-.698-1.326.761-3.902%201.781-5.357C5.834%203.44%209.37.867%2011.34.873zm3.286%203.273c.04-.002.06.05.028.074-.143.11-.299.26-.413.414a.04.04%200%200%200%20.031.064c.659.004%201.587.235%202.192.574.041.023.012.103-.034.092-.915-.21-2.414-.369-3.97.01-1.39.34-2.45.863-3.224%201.426-.04.028-.086-.023-.055-.06.896-1.035%201.999-1.935%202.987-2.44.034-.018.07.019.052.052-.079.143-.23.447-.278.678-.007.035.032.063.062.042.615-.42%201.684-.868%202.622-.926zm3.023%203.205l.056.001a.896.896%200%200%201%20.456.146c.534.355.61%201.216.638%201.845.015.36.059%201.229.074%201.478.034.571.184.651.487.751.17.057.33.098.563.164.706.198%201.125.4%201.39.658.157.162.23.333.253.497.083.608-.472%201.36-1.942%202.041-1.607.746-3.557.935-4.904.785l-.471-.053c-1.078-.145-1.693%201.247-1.046%202.201.417.615%201.552%201.015%202.688%201.015%202.604%200%204.605-1.111%205.35-2.072a.987.987%200%200%200%20.06-.085c.036-.055.006-.085-.04-.054-.608.416-3.31%202.069-6.2%201.571%200%200-.351-.057-.672-.182-.255-.1-.788-.344-.853-.891%202.333.72%203.801.039%203.801.039a.072.072%200%200%200%20.042-.072.067.067%200%200%200-.074-.06s-1.911.283-3.718-.378c.197-.64.72-.408%201.51-.345a11.045%2011.045%200%200%200%203.647-.394c.818-.234%201.892-.697%202.727-1.356.281.618.38%201.299.38%201.299s.219-.04.4.073c.173.106.299.326.213.895-.176%201.063-.628%201.926-1.387%202.72a5.714%205.714%200%200%201-1.666%201.244c-.34.18-.704.334-1.087.46-2.863.935-5.794-.093-6.739-2.3a3.545%203.545%200%200%201-.189-.522c-.403-1.455-.06-3.2%201.008-4.299.065-.07.132-.153.132-.256%200-.087-.055-.179-.102-.243-.374-.543-1.669-1.466-1.409-3.254.187-1.284%201.31-2.189%202.357-2.135.089.004.177.01.266.015.453.027.85.085%201.223.1.625.028%201.187-.063%201.853-.618.225-.187.405-.35.71-.401.028-.005.092-.028.215-.028zm.022%202.18a.42.42%200%200%200-.06.005c-.335.054-.347.468-.228%201.04.068.32.187.595.32.765.175-.02.343-.022.498%200%20.089-.205.104-.557.024-.942-.112-.535-.261-.872-.554-.868zm-3.66%201.546a1.724%201.724%200%200%200-1.016.326c-.16.117-.311.28-.29.378.008.032.031.056.088.063.131.015.592-.217%201.122-.25.374-.023.684.094.923.2.239.104.386.173.443.113.037-.038.026-.11-.031-.204-.118-.192-.36-.387-.618-.497a1.601%201.601%200%200%200-.621-.129zm4.082.81c-.171-.003-.313.186-.317.42-.004.236.131.43.303.432.172.003.314-.185.318-.42.004-.236-.132-.429-.304-.432zm-3.58.172c-.05%200-.102.002-.155.008-.311.05-.483.152-.593.247-.094.082-.152.173-.152.237a.075.075%200%200%200%20.075.076c.07%200%20.228-.063.228-.063a1.98%201.98%200%200%201%201.001-.104c.157.018.23.027.265-.026.01-.016.022-.049-.01-.1-.063-.103-.311-.269-.66-.275zm2.26.4c-.127%200-.235.051-.283.148-.075.154.035.363.246.466.21.104.443.063.52-.09.075-.155-.035-.364-.246-.467a.542.542%200%200%200-.237-.058zm-11.635.024c.048%200%20.098%200%20.149.003.73.04%201.806.6%202.052%202.19.217%201.41-.128%202.843-1.449%203.069-.123.02-.248.029-.374.026-1.22-.033-2.539-1.132-2.67-2.435-.145-1.44.591-2.548%201.894-2.811.117-.024.252-.04.398-.042zm-.07.927a1.144%201.144%200%200%200-.847.364c-.38.418-.439.988-.366%201.19.027.073.07.094.1.098.064.008.16-.039.22-.2a1.2%201.2%200%200%200%20.017-.052%201.58%201.58%200%200%201%20.157-.37.689.689%200%200%201%20.955-.199c.266.174.369.5.255.81-.058.161-.154.469-.133.721.043.511.357.717.64.738.274.01.466-.143.515-.256.029-.067.005-.107-.011-.125-.043-.053-.113-.037-.18-.021a.638.638%200%200%201-.16.022.347.347%200%200%201-.294-.148c-.078-.12-.073-.3.013-.504.011-.028.025-.058.04-.092.138-.308.368-.825.11-1.317-.195-.37-.513-.602-.894-.65a1.135%201.135%200%200%200-.138-.01z%22%20fill%3D%22%23FFE01B%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-cd3889ae",
+        "name": "Typeform",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M15.502%2013.035c-.5%200-.756-.411-.756-.917%200-.505.252-.894.756-.894.513%200%20.756.407.756.894-.004.515-.261.917-.756.917Zm-4.888-1.81c.292%200%20.414.17.414.317%200%20.357-.365.514-1.126.536%200-.442.253-.854.712-.854Zm-3.241%201.81c-.473%200-.67-.384-.67-.917%200-.527.202-.894.67-.894.477%200%20.702.38.702.894%200%20.537-.234.917-.702.917Zm-3.997-2.334h-.738l1.224%202.808c-.234.519-.36.648-.522.648-.171%200-.333-.138-.45-.259l-.324.43c.22.232.522.366.832.366.387%200%20.685-.224.856-.626l1.413-3.371h-.725l-.738%202.012-.828-2.008Zm19.553.523c.36%200%20.432.246.432.823v1.516H24v-1.914c0-.689-.473-.988-.91-.988-.386%200-.742.241-.94.688a.901.901%200%200%200-.891-.688c-.365%200-.73.232-.927.666v-.626h-.64v2.857h.64v-1.22c0-.617.324-1.114.765-1.114.36%200%20.427.246.427.823v1.516h.64l-.005-1.225c0-.617.329-1.114.77-1.114Zm-5.1-.523h-.324v2.857h.639v-1.095c0-.693.306-1.163.76-1.163.118%200%20.217.005.325.05l.099-.676c-.081-.009-.153-.018-.225-.018-.45%200-.774.309-.964.707V10.7h-.31Zm-2.327-.045c-.846%200-1.418.644-1.418%201.458%200%20.845.58%201.475%201.418%201.475.85%200%201.431-.648%201.431-1.475-.004-.818-.594-1.458-1.431-1.458Zm-4.852%202.38c-.333%200-.581-.17-.685-.515.847-.036%201.675-.242%201.675-.988%200-.43-.423-.872-1.03-.872-.82%200-1.374.666-1.374%201.457%200%20.828.545%201.476%201.36%201.476.567%200%20.927-.228%201.21-.559l-.31-.42c-.329.335-.531.42-.846.42Zm-3.151-2.38c-.324%200-.648.188-.774.483v-.438h-.64v3.98h.64v-1.422c.135.205.445.34.72.34.85%200%201.3-.631%201.3-1.48-.004-.841-.445-1.463-1.246-1.463Zm-4.483-1.1H0v.622h1.18v3.38h.67v-3.38h1.166v-.622Zm9.502%201.145h-.383v.572h.383v2.285h.639v-2.285h.621v-.572h-.621v-.447c0-.286.117-.385.382-.385.1%200%20.19.027.311.068l.144-.537c-.117-.067-.351-.094-.504-.094-.612%200-.972.367-.972%201.002v.393Z%22%20fill%3D%22%23262627%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-aefdd1b6",
+        "name": "Zapier",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M4.157%200A4.151%204.151%200%200%200%200%204.161v15.678A4.151%204.151%200%200%200%204.157%2024h15.682A4.152%204.152%200%200%200%2024%2019.839V4.161A4.152%204.152%200%200%200%2019.839%200H4.157Zm10.61%208.761h.03a.577.577%200%200%201%20.23.038.585.585%200%200%201%20.201.124.63.63%200%200%201%20.162.431.612.612%200%200%201-.162.435.58.58%200%200%201-.201.128.58.58%200%200%201-.23.042.529.529%200%200%201-.235-.042.585.585%200%200%201-.332-.328.559.559%200%200%201-.038-.235.613.613%200%200%201%20.17-.431.59.59%200%200%201%20.405-.162Zm2.853%201.572c.03.004.061.004.095.004.325-.011.646.064.937.219.238.144.431.355.552.609.128.279.189.582.185.888v.193a2%202%200%200%201%200%20.219h-2.498c.003.227.075.45.204.642a.78.78%200%200%200%20.646.265.714.714%200%200%200%20.484-.136.642.642%200%200%200%20.23-.318l.915.257a1.398%201.398%200%200%201-.28.537c-.14.159-.321.284-.521.355a2.234%202.234%200%200%201-.836.136%201.923%201.923%200%200%201-1.001-.245%201.618%201.618%200%200%201-.665-.703%202.221%202.221%200%200%201-.227-1.036%201.95%201.95%200%200%201%20.48-1.398%201.9%201.9%200%200%201%201.3-.488Zm-9.607.023c.162.004.325.026.48.079.207.065.4.174.563.314.26.302.393.692.366%201.088v2.276H8.53l-.109-.711h-.065c-.064.163-.155.31-.272.439a1.122%201.122%200%200%201-.374.264%201.023%201.023%200%200%201-.453.083%201.334%201.334%200%200%201-.866-.264.965.965%200%200%201-.329-.801.993.993%200%200%201%20.076-.431%201.02%201.02%200%200%201%20.242-.363%201.478%201.478%200%200%201%201.043-.303h.952v-.181a.696.696%200%200%200-.136-.454.553.553%200%200%200-.438-.154.695.695%200%200%200-.378.086.48.48%200%200%200-.193.254l-.99-.144a1.26%201.26%200%200%201%20.257-.563c.14-.174.321-.302.533-.378.261-.091.54-.136.82-.129.053-.003.106-.007.163-.007Zm4.384.007c.174%200%20.347.038.506.114.182.083.34.211.458.374.257.423.377.911.351%201.406a2.53%202.53%200%200%201-.355%201.448%201.148%201.148%200%200%201-1.009.517c-.204%200-.401-.045-.582-.136a1.052%201.052%200%200%201-.48-.457%201.298%201.298%200%200%201-.114-.234h-.045l.004%201.784h-1.059v-4.713h.904l.117.805h.057c.068-.208.177-.401.328-.56a1.129%201.129%200%200%201%20.843-.344h.076v-.004Zm7.559.084h.903l.113.805h.053a1.37%201.37%200%200%201%20.235-.484.813.813%200%200%201%20.313-.242.82.82%200%200%201%20.39-.076h.234v1.051h-.401a.662.662%200%200%200-.313.008.623.623%200%200%200-.272.155.663.663%200%200%200-.174.26.683.683%200%200%200-.027.314v1.875h-1.054v-3.666Zm-17.515.003h3.262v.896L3.73%2013.104l.034.113h1.973l.042.9H2.4v-.9l1.931-1.754-.045-.117H2.441v-.896Zm11.815%200h1.055v3.659h-1.055V10.45Zm3.443.684.019.016a.69.69%200%200%200-.351.045.756.756%200%200%200-.287.204c-.11.155-.174.336-.189.522h1.545c-.034-.526-.257-.787-.74-.787h.003Zm-5.718.163c-.026%200-.057%200-.083.004a.78.78%200%200%200-.31.053.746.746%200%200%200-.257.189%201.016%201.016%200%200%200-.204.695v.064c-.015.257.057.507.204.711a.634.634%200%200%200%20.253.196.638.638%200%200%200%20.314.061.644.644%200%200%200%20.578-.265c.14-.223.204-.48.189-.74a1.216%201.216%200%200%200-.181-.711.677.677%200%200%200-.503-.257Zm-4.509%201.266a.464.464%200%200%200-.268.102.373.373%200%200%200-.114.276c0%20.053.008.106.027.155a.375.375%200%200%200%20.087.132.576.576%200%200%200%20.397.11v.004a.863.863%200%200%200%20.563-.182.573.573%200%200%200%20.211-.457v-.14h-.903Z%22%20fill%3D%22%23FF4F00%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "ct-529a05ca",
+        "name": "Make",
+        "aliases": [],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M13.38%203.498c-.27%200-.511.19-.566.465L9.85%2018.986a.578.578%200%200%200%20.453.678l4.095.826a.58.58%200%200%200%20.682-.455l2.963-15.021a.578.578%200%200%200-.453-.678l-4.096-.826a.589.589%200%200%200-.113-.012zm-5.876.098a.576.576%200%200%200-.516.318L.062%2017.697a.575.575%200%200%200%20.256.774l3.733%201.877a.578.578%200%200%200%20.775-.258l6.926-13.781a.577.577%200%200%200-.256-.776L7.762%203.658a.571.571%200%200%200-.258-.062zm11.74.115a.576.576%200%200%200-.576.576v15.426c0%20.318.258.578.576.578h4.178a.58.58%200%200%200%20.578-.578V4.287a.578.578%200%200%200-.578-.576Z%22%20fill%3D%22%236D00CC%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -14253,6 +15437,30 @@ export const DEFAULT_CATEGORIES = [
           "korea północna"
         ],
         "imageUrl": "/logos/flag-kp.png"
+      },
+      {
+        "id": "flag-dfbafc77",
+        "name": "Portugalia",
+        "aliases": [],
+        "imageUrl": "/media/f8a49b543e8e.png"
+      },
+      {
+        "id": "flag-7848b63a",
+        "name": "Chorwacja",
+        "aliases": [],
+        "imageUrl": "/media/7dc5b74e9bf3.png"
+      },
+      {
+        "id": "flag-ee891bd4",
+        "name": "Maroko",
+        "aliases": [],
+        "imageUrl": "/media/ec3b598d2062.png"
+      },
+      {
+        "id": "flag-c2203d96",
+        "name": "Tajlandia",
+        "aliases": [],
+        "imageUrl": "/media/be3b33cd7e29.png"
       }
     ]
   },
@@ -14663,6 +15871,68 @@ export const DEFAULT_CATEGORIES = [
         "prompt": "Kultowy zakrzywiony nóż z pierścieniem na palec",
         "sub": "Rzadki skin noża",
         "imageUrl": "/media/3774d2825ddc.png"
+      },
+      {
+        "id": "csgo-6efe847d",
+        "name": "Kamizelka kuloodporna",
+        "aliases": [
+          "kevlar"
+        ],
+        "imageUrl": "/media/89f4d2df061e.jpg"
+      },
+      {
+        "id": "csgo-5952d160",
+        "name": "Nóż motylkowy",
+        "aliases": [],
+        "imageUrl": "/media/fffd4792b4da.jpg"
+      },
+      {
+        "id": "csgo-24fc3e0c",
+        "name": "Nóż karambit",
+        "aliases": [
+          "karambit"
+        ],
+        "imageUrl": "/media/de176639874f.png"
+      },
+      {
+        "id": "csgo-c58b7ae6",
+        "name": "Pistolet Desert Eagle",
+        "aliases": [
+          "deagle"
+        ],
+        "imageUrl": "/media/dc05015ba0d2.jpg"
+      },
+      {
+        "id": "csgo-af0df0ad",
+        "name": "Karabin M4A4 / M4",
+        "aliases": [
+          "m4"
+        ],
+        "imageUrl": "/media/6ea992c6aefa.png"
+      },
+      {
+        "id": "csgo-0c4716ec",
+        "name": "Karabin AK-47",
+        "aliases": [
+          "ak47"
+        ],
+        "imageUrl": "/media/0e514d49d91f.png"
+      },
+      {
+        "id": "csgo-2e1827c7",
+        "name": "Pistolet maszynowy P90",
+        "aliases": [
+          "p90"
+        ],
+        "imageUrl": "/media/811cd29eade7.png"
+      },
+      {
+        "id": "csgo-45101503",
+        "name": "Pistolet Glock-18",
+        "aliases": [
+          "glock"
+        ],
+        "imageUrl": "/media/688a19b45ad5.jpg"
       }
     ]
   },
@@ -15283,6 +16553,30 @@ export const DEFAULT_CATEGORIES = [
         "prompt": "Karta oznaczona numerem 0 w Wielkich Arkanach Tarota",
         "sub": "Ezoteryka: Tarot",
         "imageUrl": "/media/a0761aaaa90d.jpg"
+      },
+      {
+        "id": "cast-ade6eadd",
+        "name": "Luke Skywalker",
+        "aliases": [],
+        "imageUrl": "/media/483170f275a6.jpg"
+      },
+      {
+        "id": "cast-6eb2dc22",
+        "name": "Harry Potter",
+        "aliases": [],
+        "imageUrl": "/media/a059e32e2b85.jpg"
+      },
+      {
+        "id": "cast-d0a7c12e",
+        "name": "Myszka Miki",
+        "aliases": [],
+        "imageUrl": "/media/06f74b7d95b5.png"
+      },
+      {
+        "id": "cast-221c7718",
+        "name": "Sherlock Holmes",
+        "aliases": [],
+        "imageUrl": "/media/185a033a0d9f.jpg"
       }
     ]
   },
@@ -16213,6 +17507,72 @@ export const DEFAULT_CATEGORIES = [
         "prompt": "TRY",
         "sub": "Kod waluty ISO",
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3ETRY%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20waluty%20ISO%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "cp-9206c92e",
+        "name": "Frankfurt nad Menem",
+        "aliases": [
+          "frankfurt"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2290%22%3EFRA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20lotniska%20IATA%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "cp-1d9e818e",
+        "name": "Warszawa (Okęcie / Chopin)",
+        "aliases": [
+          "warszawa",
+          "okecie"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2290%22%3EWAW%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20lotniska%20IATA%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "cp-679d965a",
+        "name": "Kraków (Balice)",
+        "aliases": [
+          "krakow",
+          "balice"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2290%22%3EKRK%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20lotniska%20IATA%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "cp-03d94a95",
+        "name": "Gdańsk (Rębiechowo)",
+        "aliases": [
+          "gdansk"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2290%22%3EGDN%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20lotniska%20IATA%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "cp-ddd1b0cf",
+        "name": "Dolar amerykański",
+        "aliases": [
+          "dolar"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2290%22%3EUSD%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20waluty%20ISO%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "cp-3e823fac",
+        "name": "Euro",
+        "aliases": [
+          "euro"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2290%22%3EEUR%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20waluty%20ISO%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "cp-d8078e9a",
+        "name": "Polski złoty",
+        "aliases": [
+          "zloty"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2290%22%3EPLN%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20waluty%20ISO%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "cp-c89197cc",
+        "name": "Korona duńska",
+        "aliases": [
+          "korona dunska"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3EKODY%20I%20TABLICE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2290%22%3EDKK%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKod%20waluty%20ISO%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -16602,6 +17962,70 @@ export const DEFAULT_CATEGORIES = [
           "1050"
         ],
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ERZYMSKA%20MATMA%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2256%22%3EM%20%2B%20L%20%3D%20%3F%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPodaj%20warto%C5%9B%C4%87%20arabsk%C4%85%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "rom-b6e74c9b",
+        "name": "44 (czterdzieści cztery)",
+        "aliases": [
+          "44"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ELICZBY%20RZYMSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3EXLIV%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ELiczba%20rzymska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "rom-6f4c67d3",
+        "name": "440 (czterysta czterdzieści)",
+        "aliases": [
+          "440"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ELICZBY%20RZYMSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3ECDXL%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ELiczba%20rzymska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "rom-79a3c8e6",
+        "name": "990 (dziewięćset dziewięćdziesiąt)",
+        "aliases": [
+          "990"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ELICZBY%20RZYMSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3ECMXC%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ELiczba%20rzymska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "rom-08740c14",
+        "name": "78 (siedemdziesiąt osiem)",
+        "aliases": [
+          "78"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ELICZBY%20RZYMSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3ELXXVIII%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ELiczba%20rzymska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "rom-b9c0dc2f",
+        "name": "160 (sto sześćdziesiąt)",
+        "aliases": [
+          "160"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ELICZBY%20RZYMSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3ECLX%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ELiczba%20rzymska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "rom-60e95d2f",
+        "name": "64 (sześćdziesiąt cztery)",
+        "aliases": [
+          "64"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ELICZBY%20RZYMSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3ELXIV%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ELiczba%20rzymska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "rom-a30bea7c",
+        "name": "39 (trzydzieści dziewięć)",
+        "aliases": [
+          "39"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ELICZBY%20RZYMSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3EXXXIX%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ELiczba%20rzymska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "rom-2dbd2b2a",
+        "name": "2025 (dwa tysiące dwadzieścia pięć)",
+        "aliases": [
+          "2025"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ELICZBY%20RZYMSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22342%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3EMMXXV%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ELiczba%20rzymska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   }
