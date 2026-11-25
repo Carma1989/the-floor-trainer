@@ -87,6 +87,77 @@ function similarityScore(targetName, candidateName) {
   return score;
 }
 
+const PEOPLE_CATEGORY_IDS = new Set([
+  'polish_actors',
+  'polish_politicians',
+  'polish_music_stars',
+  'pop_stars_radio',
+  'foreign_rappers',
+  'bridgerton',
+  'casting_pool',
+  'denmark',
+]);
+
+const FEMALE_FIRST_EXCEPTIONS = new Set([
+  'kylie', 'miley', 'whitney', 'chappell', 'charli', 'doja', 'sza', 'cardi',
+  'nicki', 'pink', 'cher', 'lorde', 'mø', 'iu', 'scarlett', 'margot', 'rachel',
+  'megan', 'ice', 'missy', 'lauryn', 'agnes', 'katniss', 'hermiona', 'eloise',
+  'daphne', 'kate', 'penelope', 'violet', 'hyacinth', 'prudence', 'królowa',
+  'lady', 'siena', 'tate', 'gracie', 'ellie', 'billie', 'taylor', 'halsey',
+  'beyoncé', 'beyonce', 'rihanna', 'adele', 'shakira', 'madonna', 'selena',
+  'ariana', 'dua', 'olivia', 'sabrina', 'lana', 'bebe', 'ava', 'camila',
+  'demi', 'katy', 'britney', 'christina', 'jennifer', 'celine', 'mariah',
+  'janet', 'alicia', 'amy', 'norah', 'florence', 'alanis', 'björk', 'bjork',
+  'sinead', 'annie', 'kate', 'roxette', 'sophie', 'caroline', 'charlotte',
+  'alice', 'chloe', 'zoe', 'zoë', 'emily', 'emma', 'claire', 'hannah',
+  'natalie', 'anne', 'mary', 'sarah', 'karen', 'linda', 'susan', 'jessica',
+  'ashley', 'nicole', 'stephanie', 'heather', 'michelle', 'kim', 'khloe',
+  'kourtney', 'kendall', 'gigi', 'bella', 'hailey', 'zendaya', 'florence',
+  'anya', 'saorsie', 'saoirse', 'jodie', 'helen', 'meryl', 'cate', 'nicole',
+  'penélope', 'salma', 'gal', 'angelina', 'charlize', 'sandra', 'julia',
+  'reese', 'anne', 'emma', 'jennifer', 'kristen', 'dakota', 'lily', 'millie',
+  'sadie', 'maya', 'chloë', 'margaret', 'elizabeth', 'victoria', 'diana',
+  'catherine', 'greta', 'ingrid', 'astrid', 'freja', 'sofie', 'birgitte',
+  'sidse', 'trine', 'ghita', 'connie', 'nina', 'lone', 'helle', 'mette',
+  'pia', 'pernille', 'iben', 'paprika', 'bodil', 'kirsten', 'lisbet',
+]);
+
+const MALE_FIRST_EXCEPTIONS = new Set([
+  'kuba', 'barnaba', 'bonawentura', 'joshua', 'ezra', 'luca', 'sasha',
+  'mustapha', 'nikola', 'busta', 'flo', 'dababy', 'andrea', 'luka', 'mika',
+  'bono', 'sting', 'drake', 'future', 'nas', 'jay-z', 'kanye', 'ye', 'eminem',
+  'kendrick', 'travis', 'post', 'the', 'ed', 'shawn', 'justin', 'bruno',
+  'harry', 'sam', 'charlie', 'lewis', 'elton', 'freddie', 'david', 'michael',
+  'prince', 'elvis', 'john', 'paul', 'george', 'ringo', 'mick', 'keith',
+  'robbie', 'pharell', 'pharrell', 'pitbull', 'usher', 'akon', 'ne-yo',
+  'sean', 'chris', 'tyga', 'wiz', 'snoop', '50', 'ice', 'tupac', '2pac',
+  'notorious', 'biggie', 'lil', 'asap', 'a$ap', 'playboi', 'juice', 'xxxtentacion',
+  'pop', 'offset', 'quavo', 'takeoff', 'metro', '21', 'kodak', 'roddy',
+  'gunna', 'young', 'meek', 'rick', 'pusha', 'kid', 'tyler', 'frank',
+  'childish', 'mac', 'logic', 'nf', 'g-eazy', 'machine', 'jack', 'central',
+  'stormzy', 'skepta', 'dave', 'burna', 'bad', 'j', 'daddy', 'maluma',
+  'anthony', 'colin', 'benedict', 'gregory', 'simon', 'will', 'john',
+  'król', 'książę', 'lord', 'sir', 'mads', 'nikolaj', 'viggo', 'lars',
+  'anders', 'kim', 'ulrich', 'thure', 'pilou', 'jesper', 'ole', 'poul',
+  'henrik', 'søren', 'peter', 'jens', 'kasper', 'mikkel', 'rasmus', 'jonas',
+]);
+
+/**
+ * Heuristically detect gender ('F', 'M', or null) from a person's display name.
+ * Handles Polish -a female names and common international/stage-name exceptions.
+ */
+export function detectPersonGender(name) {
+  if (!name || typeof name !== 'string') return null;
+  const cleaned = name.replace(/\s*\([^)]*\)/g, '').trim();
+  const firstWord = cleaned.split(/[\s,]+/)[0]?.toLowerCase() || '';
+  if (!firstWord) return null;
+  if (FEMALE_FIRST_EXCEPTIONS.has(firstWord)) return 'F';
+  if (MALE_FIRST_EXCEPTIONS.has(firstWord)) return 'M';
+  // Polish/Slavic & Latin feminine -a ending (after checking male -a exceptions)
+  if (firstWord.endsWith('a') && firstWord.length > 2) return 'F';
+  return 'M';
+}
+
 export function buildSmartChoices(currentItem, categoryItems = [], fallbackPool = []) {
   if (!currentItem) return [];
   const target = currentItem.name;
@@ -143,8 +214,24 @@ export function buildSmartChoices(currentItem, categoryItems = [], fallbackPool 
   }
 
   // 5. General smart selection: score candidates by lexical/length similarity, pick 2 from top 6
-  const candidates = basePool
-    .filter(it => it.name.toLowerCase() !== target.toLowerCase())
+  const withoutTarget = basePool.filter(
+    it => it.name.toLowerCase() !== target.toLowerCase()
+  );
+
+  let candidatePool = withoutTarget;
+  if (PEOPLE_CATEGORY_IDS.has(catId)) {
+    const targetGender = detectPersonGender(target);
+    if (targetGender) {
+      const sameGender = withoutTarget.filter(
+        it => detectPersonGender(it.name) === targetGender
+      );
+      if (sameGender.length >= 2) {
+        candidatePool = sameGender;
+      }
+    }
+  }
+
+  const candidates = candidatePool
     .map(it => ({ item: it, score: similarityScore(target, it.name) }))
     .sort((a, b) => b.score - a.score);
 

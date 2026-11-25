@@ -10253,6 +10253,162 @@ export const DEFAULT_CATEGORIES = [
         "name": "Google Meet",
         "aliases": [],
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%20%20%3Cg%20transform%3D%22translate(200%2C%20200)%20scale(16.67)%22%3E%0A%20%20%20%20%20%20%3Cpath%20d%3D%22M5.53%202.13%200%207.75h5.53zm.398%200v5.62h7.608v3.65l5.47-4.45c-.014-1.22.031-2.25-.025-3.46-.148-1.09-1.287-1.47-2.236-1.36zM23.1%204.32c-.802.295-1.358.995-2.047%201.49-2.506%202.05-4.982%204.12-7.468%206.19%203.025%202.59%206.04%205.18%209.065%207.76%201.218.671%201.428-.814%201.328-1.64v-13a.828.828%200%200%200-.877-.825zM.038%208.15v7.7h5.53v-7.7zm13.577%208.1H6.008v5.62c3.864-.006%207.737.011%2011.58-.009%201.02-.07%201.618-1.12%201.468-2.07v-2.51l-5.47-4.68v3.65zm-13.577%200c.02%201.44-.041%202.88.033%204.31.162.948%201.158%201.43%202.047%201.31h3.464v-5.62z%22%20fill%3D%22%2300897B%22%2F%3E%0A%20%20%20%20%3C%2Fg%3E%0A%20%20%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-e9bae98b",
+        "name": "CapCut",
+        "aliases": [
+          "capcut",
+          "cap cut",
+          "kapkat"
+        ],
+        "imageUrl": "/logos/cont-capcut.png"
+      },
+      {
+        "id": "sca-776828ef",
+        "name": "Canva",
+        "aliases": [
+          "canva",
+          "kanwa"
+        ],
+        "imageUrl": "/logos/cont-canva.png"
+      },
+      {
+        "id": "sca-a48d9345",
+        "name": "Premiere Pro",
+        "aliases": [
+          "premiere pro",
+          "premiere",
+          "adobe premiere",
+          "premier"
+        ],
+        "imageUrl": "/logos/cont-premiere.png"
+      },
+      {
+        "id": "sca-b54639d9",
+        "name": "Photoshop",
+        "aliases": [
+          "photoshop",
+          "adobe photoshop",
+          "fotoszop"
+        ],
+        "imageUrl": "/logos/cont-photoshop.png"
+      },
+      {
+        "id": "sca-8227fe6a",
+        "name": "Lightroom",
+        "aliases": [
+          "lightroom",
+          "lajtrium"
+        ],
+        "imageUrl": "/logos/cont-lightroom.png"
+      },
+      {
+        "id": "sca-a86fc343",
+        "name": "Figma",
+        "aliases": [
+          "figma"
+        ],
+        "imageUrl": "/logos/cont-figma.png"
+      },
+      {
+        "id": "sca-0f4324d6",
+        "name": "DaVinci Resolve",
+        "aliases": [
+          "davinci resolve",
+          "davinci",
+          "dawinczi"
+        ],
+        "imageUrl": "/logos/cont-davinci.png"
+      },
+      {
+        "id": "sca-0960dfde",
+        "name": "Final Cut Pro",
+        "aliases": [
+          "final cut",
+          "final cut pro",
+          "fcp"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%23000000%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EApple%3C%2Ftitle%3E%3Cpath%20d%3D%22M12.152%206.896c-.948%200-2.415-1.078-3.96-1.04-2.04.027-3.91%201.183-4.961%203.014-2.117%203.675-.546%209.103%201.519%2012.09%201.013%201.454%202.208%203.09%203.792%203.039%201.52-.065%202.09-.987%203.935-.987%201.831%200%202.35.987%203.96.948%201.637-.026%202.676-1.48%203.676-2.948%201.156-1.688%201.636-3.325%201.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04%202.48-4.494%202.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675%201.09-4.61%201.09zM15.53%203.83c.843-1.012%201.4-2.427%201.245-3.83-1.207.052-2.662.805-3.532%201.818-.78.896-1.454%202.338-1.273%203.714%201.338.104%202.715-.688%203.559-1.701%22%2F%3E%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-569248c2",
+        "name": "After Effects",
+        "aliases": [
+          "after effects",
+          "after",
+          "ae"
+        ],
+        "imageUrl": "/logos/cont-aftereffects.png"
+      },
+      {
+        "id": "sca-edaf2e99",
+        "name": "Procreate",
+        "aliases": [
+          "procreate",
+          "prokrejt"
+        ],
+        "imageUrl": "/logos/cont-procreate.png"
+      },
+      {
+        "id": "sca-bf356cfb",
+        "name": "Audacity",
+        "aliases": [
+          "audacity",
+          "odasiti"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%230055d4%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EAudacity%3C%2Ftitle%3E%3Cpath%20d%3D%22M12%202.145c-2.487%200-4.755.776-6.428%202.08-1.673%201.303-2.76%203.169-2.76%205.244v.75C1.153%2011.06%200%2013.268%200%2015.856c0%203.312%201.884%206%204.312%206V9.468c0-1.554.805-2.984%202.186-4.06C7.879%204.331%209.829%203.643%2012%203.643c2.17%200%204.12.688%205.502%201.764%201.38%201.077%202.186%202.507%202.186%204.06v12.387c2.428%200%204.312-2.687%204.312-6%200-2.587-1.152-4.795-2.813-5.636v-.75c0-2.075-1.086-3.94-2.76-5.244-1.672-1.304-3.94-2.08-6.427-2.08zm0%206.153l-1.125%208.683L9.75%209.105l-.562%206.75-.376-.75-.375-4.5-.187%204.5-.563%201.313-.374-4.5-.376%203.562-.562-.937v2.625l-.563-2.11v-4.64a1.432%201.432%200%200%200-.937-.375v11.812c.375%200%20.75-.187.937-.562v-3.375l.188.187.563%201.875.187-2.25.563%202.813v-3.562l.374.937.563%202.625v-3.562l.375.374.563%203.188.562-4.313%201.24%204.86.072-2.985.375-1.124.376%204.687%201.124-4.687.375%203.937.938-4.125.938%204.5.187-3.375.562-1.125.188%204.313.938-4.125.562%201.875.188-1.688.374.75v3.375c.188.375.563.562.938.562V10.043c-.375%200-.75.188-.938.375v4.813l-.374%201-.188-3.188-.375%202.437-.375-.75-.188-2.625-.937%203.563-.188-.75L15%209.293l-.562%204.875-.376%201.5-.75-5.062-.75%204.312-.375%201.125Z%22%2F%3E%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-8fa57661",
+        "name": "OBS Studio",
+        "aliases": [
+          "obs",
+          "obs studio"
+        ],
+        "imageUrl": "/logos/cont-obs.png"
+      },
+      {
+        "id": "sca-b1779451",
+        "name": "Illustrator",
+        "aliases": [
+          "illustrator",
+          "ai"
+        ],
+        "imageUrl": "/logos/cont-illustrator.png"
+      },
+      {
+        "id": "sca-482982e6",
+        "name": "Blender",
+        "aliases": [
+          "blender"
+        ],
+        "imageUrl": "/logos/cont-blender.png"
+      },
+      {
+        "id": "sca-5990a8ae",
+        "name": "Snapseed",
+        "aliases": [
+          "snapseed"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M400%20150%20C550%20150%20630%20280%20610%20430%20C590%20560%20470%20640%20340%20620%20C220%20600%20170%20460%20220%20330%20C260%20220%20330%20150%20400%20150%20Z%22%20fill%3D%22%2316a34a%22%2F%3E%3Cpath%20d%3D%22M400%20220%20L400%20620%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%2224%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M400%20390%20L520%20300%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%2220%22%20stroke-linecap%3D%22round%22%2F%3E%3Cpath%20d%3D%22M400%20470%20L290%20380%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%2220%22%20stroke-linecap%3D%22round%22%2F%3E%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-a273a566",
+        "name": "InShot",
+        "aliases": [
+          "inshot"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%3Crect%20x%3D%22160%22%20y%3D%22160%22%20width%3D%22480%22%20height%3D%22480%22%20rx%3D%22110%22%20fill%3D%22%23e11d48%22%2F%3E%3Crect%20x%3D%22250%22%20y%3D%22250%22%20width%3D%22300%22%20height%3D%22300%22%20rx%3D%2260%22%20fill%3D%22none%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%2234%22%2F%3E%3Ccircle%20cx%3D%22400%22%20cy%3D%22400%22%20r%3D%2268%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fsvg%3E"
+      },
+      {
+        "id": "sca-1218e9e3",
+        "name": "VN Video Editor",
+        "aliases": [
+          "vn",
+          "vn editor"
+        ],
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%3Crect%20x%3D%22160%22%20y%3D%22160%22%20width%3D%22480%22%20height%3D%22480%22%20rx%3D%22110%22%20fill%3D%22%230f172a%22%2F%3E%3Cpolygon%20points%3D%22335%2C280%20535%2C400%20335%2C520%22%20fill%3D%22%2338bdf8%22%2F%3E%3C%2Fsvg%3E"
       }
     ]
   },
@@ -15187,7 +15343,7 @@ export const DEFAULT_CATEGORIES = [
           "suno",
           "suno ai"
         ],
-        "imageUrl": "/logos/ai-suno.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%23ef4444%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3ESuno%3C%2Ftitle%3E%3Cpath%20d%3D%22M16.5%200C20.642%200%2024%205.373%2024%2012h-9c0%206.627-3.358%2012-7.5%2012C3.358%2024%200%2018.627%200%2012h9c0-6.627%203.358-12%207.5-12Z%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-udio",
@@ -15213,7 +15369,7 @@ export const DEFAULT_CATEGORIES = [
           "hugging face",
           "huggingface"
         ],
-        "imageUrl": "/logos/ai-huggingface.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%23ffd21e%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EHugging%20Face%3C%2Ftitle%3E%3Cpath%20d%3D%22M12.025%201.13c-5.77%200-10.449%204.647-10.449%2010.378%200%201.112.178%202.181.503%203.185.064-.222.203-.444.416-.577a.96.96%200%200%201%20.524-.15c.293%200%20.584.124.84.284.278.173.48.408.71.694.226.282.458.611.684.951v-.014c.017-.324.106-.622.264-.874s.403-.487.762-.543c.3-.047.596.06.787.203s.31.313.4.467c.15.257.212.468.233.542.01.026.653%201.552%201.657%202.54.616.605%201.01%201.223%201.082%201.912.055.537-.096%201.059-.38%201.572.637.121%201.294.187%201.967.187.657%200%201.298-.063%201.921-.178-.287-.517-.44-1.041-.384-1.581.07-.69.465-1.307%201.081-1.913%201.004-.987%201.647-2.513%201.657-2.539.021-.074.083-.285.233-.542.09-.154.208-.323.4-.467a1.08%201.08%200%200%201%20.787-.203c.359.056.604.29.762.543s.247.55.265.874v.015c.225-.34.457-.67.683-.952.23-.286.432-.52.71-.694.257-.16.547-.284.84-.285a.97.97%200%200%201%20.524.151c.228.143.373.388.43.625l.006.04a10.3%2010.3%200%200%200%20.534-3.273c0-5.731-4.678-10.378-10.449-10.378M8.327%206.583a1.5%201.5%200%200%201%20.713.174%201.487%201.487%200%200%201%20.617%202.013c-.183.343-.762-.214-1.102-.094-.38.134-.532.914-.917.71a1.487%201.487%200%200%201%20.69-2.803m7.486%200a1.487%201.487%200%200%201%20.689%202.803c-.385.204-.536-.576-.916-.71-.34-.12-.92.437-1.103.094a1.487%201.487%200%200%201%20.617-2.013%201.5%201.5%200%200%201%20.713-.174m-10.68%201.55a.96.96%200%201%201%200%201.921.96.96%200%200%201%200-1.92m13.838%200a.96.96%200%201%201%200%201.92.96.96%200%200%201%200-1.92M8.489%2011.458c.588.01%201.965%201.157%203.572%201.164%201.607-.007%202.984-1.155%203.572-1.164.196-.003.305.12.305.454%200%20.886-.424%202.328-1.563%203.202-.22-.756-1.396-1.366-1.63-1.32q-.011.001-.02.006l-.044.026-.01.008-.03.024q-.018.017-.035.036l-.032.04a1%201%200%200%200-.058.09l-.014.025q-.049.088-.11.19a1%201%200%200%201-.083.116%201.2%201.2%200%200%201-.173.18q-.035.029-.075.058a1.3%201.3%200%200%201-.251-.243%201%201%200%200%201-.076-.107c-.124-.193-.177-.363-.337-.444-.034-.016-.104-.008-.2.022q-.094.03-.216.087-.06.028-.125.063l-.13.074q-.067.04-.136.086a3%203%200%200%200-.135.096%203%203%200%200%200-.26.219%202%202%200%200%200-.12.121%202%202%200%200%200-.106.128l-.002.002a2%202%200%200%200-.09.132l-.001.001a1.2%201.2%200%200%200-.105.212q-.013.036-.024.073c-1.139-.875-1.563-2.317-1.563-3.203%200-.334.109-.457.305-.454m.836%2010.354c.824-1.19.766-2.082-.365-3.194-1.13-1.112-1.789-2.738-1.789-2.738s-.246-.945-.806-.858-.97%201.499.202%202.362c1.173.864-.233%201.45-.685.64-.45-.812-1.683-2.896-2.322-3.295s-1.089-.175-.938.647%202.822%202.813%202.562%203.244-1.176-.506-1.176-.506-2.866-2.567-3.49-1.898.473%201.23%202.037%202.16c1.564.932%201.686%201.178%201.464%201.53s-3.675-2.511-4-1.297c-.323%201.214%203.524%201.567%203.287%202.405-.238.839-2.71-1.587-3.216-.642-.506.946%203.49%202.056%203.522%202.064%201.29.33%204.568%201.028%205.713-.624m5.349%200c-.824-1.19-.766-2.082.365-3.194%201.13-1.112%201.789-2.738%201.789-2.738s.246-.945.806-.858.97%201.499-.202%202.362c-1.173.864.233%201.45.685.64.451-.812%201.683-2.896%202.322-3.295s1.089-.175.938.647-2.822%202.813-2.562%203.244%201.176-.506%201.176-.506%202.866-2.567%203.49-1.898-.473%201.23-2.037%202.16c-1.564.932-1.686%201.178-1.464%201.53s3.675-2.511%204-1.297c.323%201.214-3.524%201.567-3.287%202.405.238.839%202.71-1.587%203.216-.642.506.946-3.49%202.056-3.522%202.064-1.29.33-4.568%201.028-5.713-.624%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-grok",
@@ -15255,7 +15411,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "replit"
         ],
-        "imageUrl": "/logos/ai-replit.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%23f26207%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EReplit%3C%2Ftitle%3E%3Cpath%20d%3D%22M2%201.5A1.5%201.5%200%200%201%203.5%200h7A1.5%201.5%200%200%201%2012%201.5V8H3.5A1.5%201.5%200%200%201%202%206.5ZM12%208h8.5A1.5%201.5%200%200%201%2022%209.5v5a1.5%201.5%200%200%201-1.5%201.5H12ZM2%2017.5A1.5%201.5%200%200%201%203.5%2016H12v6.5a1.5%201.5%200%200%201-1.5%201.5h-7A1.5%201.5%200%200%201%202%2022.5Z%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-characterai",
@@ -15273,7 +15429,7 @@ export const DEFAULT_CATEGORIES = [
           "cursor",
           "kursor"
         ],
-        "imageUrl": "/logos/ai-cursor.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%236366f1%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3ECursor%3C%2Ftitle%3E%3Cpath%20d%3D%22M11.503.131%201.891%205.678a.84.84%200%200%200-.42.726v11.188c0%20.3.162.575.42.724l9.609%205.55a1%201%200%200%200%20.998%200l9.61-5.55a.84.84%200%200%200%20.42-.724V6.404a.84.84%200%200%200-.42-.726L12.497.131a1.01%201.01%200%200%200-.996%200M2.657%206.338h18.55c.263%200%20.43.287.297.515L12.23%2022.918c-.062.107-.229.064-.229-.06V12.335a.59.59%200%200%200-.295-.51l-9.11-5.257c-.109-.063-.064-.23.061-.23%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-v0",
@@ -15282,7 +15438,7 @@ export const DEFAULT_CATEGORIES = [
           "v0",
           "fał zero"
         ],
-        "imageUrl": "/logos/ai-v0.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%23000000%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3Ev0%3C%2Ftitle%3E%3Cpath%20d%3D%22M14.066%206.028v2.22h5.729q.075-.001.148.005l-5.853%205.752a2%202%200%200%201-.024-.309V8.247h-2.353v5.45c0%202.322%201.935%204.222%204.258%204.222h5.675v-2.22h-5.675q-.03%200-.059-.003l5.729-5.629q.006.082.006.166v5.465H24v-5.465a4.204%204.204%200%200%200-4.205-4.205zM0%208.245l8.28%209.266c.839.94%202.396.346%202.396-.914V8.245H8.19v5.44l-4.86-5.44Z%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-c23e8db4",
@@ -15504,7 +15660,7 @@ export const DEFAULT_CATEGORIES = [
           "final cut pro",
           "fcp"
         ],
-        "imageUrl": "/logos/cont-finalcut.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%23000000%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EApple%3C%2Ftitle%3E%3Cpath%20d%3D%22M12.152%206.896c-.948%200-2.415-1.078-3.96-1.04-2.04.027-3.91%201.183-4.961%203.014-2.117%203.675-.546%209.103%201.519%2012.09%201.013%201.454%202.208%203.09%203.792%203.039%201.52-.065%202.09-.987%203.935-.987%201.831%200%202.35.987%203.96.948%201.637-.026%202.676-1.48%203.676-2.948%201.156-1.688%201.636-3.325%201.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04%202.48-4.494%202.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675%201.09-4.61%201.09zM15.53%203.83c.843-1.012%201.4-2.427%201.245-3.83-1.207.052-2.662.805-3.532%201.818-.78.896-1.454%202.338-1.273%203.714%201.338.104%202.715-.688%203.559-1.701%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "cont-blender",
@@ -15549,7 +15705,7 @@ export const DEFAULT_CATEGORIES = [
           "audacity",
           "odasiti"
         ],
-        "imageUrl": "/logos/cont-audacity.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%230055d4%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EAudacity%3C%2Ftitle%3E%3Cpath%20d%3D%22M12%202.145c-2.487%200-4.755.776-6.428%202.08-1.673%201.303-2.76%203.169-2.76%205.244v.75C1.153%2011.06%200%2013.268%200%2015.856c0%203.312%201.884%206%204.312%206V9.468c0-1.554.805-2.984%202.186-4.06C7.879%204.331%209.829%203.643%2012%203.643c2.17%200%204.12.688%205.502%201.764%201.38%201.077%202.186%202.507%202.186%204.06v12.387c2.428%200%204.312-2.687%204.312-6%200-2.587-1.152-4.795-2.813-5.636v-.75c0-2.075-1.086-3.94-2.76-5.244-1.672-1.304-3.94-2.08-6.427-2.08zm0%206.153l-1.125%208.683L9.75%209.105l-.562%206.75-.376-.75-.375-4.5-.187%204.5-.563%201.313-.374-4.5-.376%203.562-.562-.937v2.625l-.563-2.11v-4.64a1.432%201.432%200%200%200-.937-.375v11.812c.375%200%20.75-.187.937-.562v-3.375l.188.187.563%201.875.187-2.25.563%202.813v-3.562l.374.937.563%202.625v-3.562l.375.374.563%203.188.562-4.313%201.24%204.86.072-2.985.375-1.124.376%204.687%201.124-4.687.375%203.937.938-4.125.938%204.5.187-3.375.562-1.125.188%204.313.938-4.125.562%201.875.188-1.688.374.75v3.375c.188.375.563.562.938.562V10.043c-.375%200-.75.188-.938.375v4.813l-.374%201-.188-3.188-.375%202.437-.375-.75-.188-2.625-.937%203.563-.188-.75L15%209.293l-.562%204.875-.376%201.5-.75-5.062-.75%204.312-.375%201.125Z%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "cont-procreate",
@@ -15567,7 +15723,7 @@ export const DEFAULT_CATEGORIES = [
           "logic pro",
           "logic"
         ],
-        "imageUrl": "/logos/cont-logicpro.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%23000000%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EApple%3C%2Ftitle%3E%3Cpath%20d%3D%22M12.152%206.896c-.948%200-2.415-1.078-3.96-1.04-2.04.027-3.91%201.183-4.961%203.014-2.117%203.675-.546%209.103%201.519%2012.09%201.013%201.454%202.208%203.09%203.792%203.039%201.52-.065%202.09-.987%203.935-.987%201.831%200%202.35.987%203.96.948%201.637-.026%202.676-1.48%203.676-2.948%201.156-1.688%201.636-3.325%201.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04%202.48-4.494%202.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675%201.09-4.61%201.09zM15.53%203.83c.843-1.012%201.4-2.427%201.245-3.83-1.207.052-2.662.805-3.532%201.818-.78.896-1.454%202.338-1.273%203.714%201.338.104%202.715-.688%203.559-1.701%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "cont-ableton",
@@ -15594,7 +15750,7 @@ export const DEFAULT_CATEGORIES = [
           "cinema 4d",
           "c4d"
         ],
-        "imageUrl": "/logos/cont-cinema4d.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%230284c7%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3ECinema%204D%3C%2Ftitle%3E%3Cpath%20d%3D%22M12.052%200C5.394-.007-.003%205.412%200%2011.976.003%2018.654%205.475%2023.981%2011.978%2024c6.535.02%2012.057-5.306%2012.022-11.998-.009-1.665-.53-5.371-1.84-5.276-1.98.145-2.159%204.12-2.377%205.407-.417%202.46-1.346%205.08-2.953%206.99-1.88%202.359-4.697%203.634-7.662%203.158-3.55-.564-5.893-3.278-6.68-5.201-.753-1.723-1.035-4.162-.07-6.324%201.16-2.766%203.734-4.632%206.28-5.584%202.006-.827%204.103-1.151%205.357-1.375%202.516-.5%202.855-1.463%202.814-2.149-.015-.252-.256-.724-.785-.943C15.03.269%2013.268.001%2012.052%200zm5.098%201.342c.139.398.088.85-.148%201.256-.325.56-.972%201.05-1.897%201.29-1.636.428-2.976.554-4.34.96-1.312.39-3.397%201.018-5.316%202.552-.268.842-.341%201.892-.369%202.662.15%205.014%204.557%208.884%209.17%208.682.853-.037%201.921-.261%202.912-.68a13.56%2013.56%200%200%200%201.387-2.683l.002-.002v-.002c.424-1.03.606-1.836.8-2.793.32-1.565.202-2.88%201.012-4.758.251-.582.71-1.113%201.258-1.346.25-.105.522-.133.79-.072-.89-2.471-3.115-4.326-5.26-5.066z%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "cont-unreal",
@@ -15619,7 +15775,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "loom"
         ],
-        "imageUrl": "/logos/cont-loom.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20fill%3D%22%23625df5%22%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3ELoom%3C%2Ftitle%3E%3Cpath%20d%3D%22M24%2010.665h-7.018l6.078-3.509-1.335-2.312-6.078%203.509%203.508-6.077L16.843.94l-3.508%206.077V0h-2.67v7.018L7.156.94%204.844%202.275l3.509%206.077-6.078-3.508L.94%207.156l6.078%203.509H0v2.67h7.017L.94%2016.844l1.335%202.313%206.077-3.508-3.509%206.077%202.312%201.335%203.509-6.078V24h2.67v-7.017l3.508%206.077%202.312-1.335-3.509-6.078%206.078%203.509%201.335-2.313-6.077-3.508h7.017v-2.67H24zm-12%204.966a3.645%203.645%200%201%201%200-7.29%203.645%203.645%200%200%201%200%207.29z%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ct-b6ef6ec1",
@@ -19305,7 +19461,646 @@ export const DEFAULT_CATEGORIES = [
         "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22104%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EGWARY%20POLSKIE%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22375%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2296%22%3ESztama%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22515%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2244%22%3EGwara%20warszawska%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
+  },
+  {
+    "id": "anatomy",
+    "name": "Anatomia człowieka",
+    "icon": "🦴",
+    "items": [
+      {
+        "id": "anat_1",
+        "name": "Serce",
+        "image": "/media/d5f0a7eeeb72.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_2",
+        "name": "Płuca",
+        "image": "/media/64d689f106c3.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_3",
+        "name": "Mózg",
+        "image": "/media/349b8fe3faf4.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_4",
+        "name": "Wątroba",
+        "image": "/media/9c56bd020048.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_5",
+        "name": "Żołądek",
+        "image": "/media/903153421616.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_6",
+        "name": "Nerki",
+        "image": "/media/5b0af28d1ffe.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_7",
+        "name": "Jelito grube",
+        "image": "/media/89bc4c2b8c9d.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_8",
+        "name": "Jelito cienkie",
+        "image": "/media/254a64e8a5ce.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_9",
+        "name": "Trzustka",
+        "image": "/media/3abde97f5083.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_10",
+        "name": "Śledziona",
+        "image": "/media/0dad614583c4.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_11",
+        "name": "Pęcherzyk żółciowy",
+        "image": "/media/7de7f8f54f60.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_12",
+        "name": "Tarczyca",
+        "image": "/media/e60eaf01f727.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_13",
+        "name": "Przełyk",
+        "image": "/media/dc80429506d6.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_14",
+        "name": "Tchawica",
+        "image": "/media/95186cc41057.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_15",
+        "name": "Przepona",
+        "image": "/media/d75fc53e4331.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_16",
+        "name": "Pęcherz moczowy",
+        "image": "/media/236329d9d21f.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_17",
+        "name": "Rdzeń kręgowy",
+        "image": "/media/1038f629f674.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_18",
+        "name": "Móżdżek",
+        "image": "/media/bfdc7596928e.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_19",
+        "name": "Czaszka",
+        "image": "/media/a86b517bb9a8.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_20",
+        "name": "Żuchwa",
+        "image": "/media/83b91c81338e.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_21",
+        "name": "Kręgosłup",
+        "image": "/media/d6996275863e.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_22",
+        "name": "Obojczyk",
+        "image": "/media/a6b5f0d869dc.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_23",
+        "name": "Łopatka",
+        "image": "/media/8718c1de0794.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_24",
+        "name": "Mostek",
+        "image": "/media/5980b9b8dff4.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_25",
+        "name": "Żebra (Klatka piersiowa)",
+        "image": "/media/ea32d6629d7d.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_26",
+        "name": "Kość ramienna",
+        "image": "/media/42213b3adbd0.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_27",
+        "name": "Kość promieniowa",
+        "image": "/media/8ab23a751959.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_28",
+        "name": "Kość łokciowa",
+        "image": "/media/e6a3a263acf8.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_29",
+        "name": "Miednica",
+        "image": "/media/a572ee993b43.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_30",
+        "name": "Kość udowa",
+        "image": "/media/70efc0b9ab0a.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_31",
+        "name": "Rzepka",
+        "image": "/media/7a5f3a0bd680.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_32",
+        "name": "Kość piszczelowa",
+        "image": "/media/0822f17ab7d3.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_33",
+        "name": "Kość strzałkowa",
+        "image": "/media/d69cb51dcbb6.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_34",
+        "name": "Kość krzyżowa",
+        "image": "/media/d5d34a521073.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_35",
+        "name": "Kości śródręcza",
+        "image": "/media/78ac375bff89.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_36",
+        "name": "Kość piętowa",
+        "image": "/media/1ad3be81c36b.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_37",
+        "name": "Biceps (Mięsień dwugłowy ramienia)",
+        "image": "/media/c758ee713674.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_38",
+        "name": "Triceps (Mięsień trójgłowy ramienia)",
+        "image": "/media/a7fa6dd4a184.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_39",
+        "name": "Mięsień naramienny",
+        "image": "/media/7a901aabdde8.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_40",
+        "name": "Mięsień piersiowy większy",
+        "image": "/media/800ea813a7ca.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_41",
+        "name": "Mięsień najszerszy grzbietu",
+        "image": "/media/b8a31a03a8fd.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_42",
+        "name": "Mięsień czworoboczny (Kaptur)",
+        "image": "/media/3c4bb42257b3.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_43",
+        "name": "Mięsień prosty brzucha",
+        "image": "/media/21e86b95fafc.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_44",
+        "name": "Mięśnie skośne brzucha",
+        "image": "/media/4bab749d149e.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_45",
+        "name": "Mięsień pośladkowy wielki",
+        "image": "/media/96622802338d.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_46",
+        "name": "Mięsień czworogłowy uda",
+        "image": "/media/767a76fc05b5.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_47",
+        "name": "Mięsień dwugłowy uda",
+        "image": "/media/ec0ad69db417.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_48",
+        "name": "Mięsień brzuchaty łydki",
+        "image": "/media/2ce01a34a8c3.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_49",
+        "name": "Ścięgno Achillesa",
+        "image": "/media/da1768981847.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_50",
+        "name": "Mięsień krawiecki",
+        "image": "/media/0d9467e2aa4d.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_51",
+        "name": "Mięsień mostkowo-obojczykowo-sutkowy",
+        "image": "/media/801de379a0f9.jpg",
+        "categoryId": "anatomy"
+      },
+      {
+        "id": "anat_52",
+        "name": "Oko",
+        "image": "/media/2dd978cf994f.jpg",
+        "categoryId": "anatomy"
+      }
+    ]
+  },
+  {
+    "id": "sports",
+    "name": "Sport i Dyscypliny",
+    "icon": "⚽",
+    "items": [
+      {
+        "id": "sport_1",
+        "name": "Piłka nożna",
+        "image": "/media/8900085f69c5.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_2",
+        "name": "Koszykówka",
+        "image": "/media/ddb82ee683c7.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_3",
+        "name": "Siatkówka",
+        "image": "/media/85810063aa64.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_4",
+        "name": "Tenis ziemny",
+        "image": "/media/1f9ee4e423ba.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_5",
+        "name": "Tenis stołowy (Ping-pong)",
+        "image": "/media/76aa54f66525.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_6",
+        "name": "Piłka ręczna",
+        "image": "/media/5b55836c9308.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_7",
+        "name": "Hokej na lodzie",
+        "image": "/media/3629349f77ba.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_8",
+        "name": "Hokej na trawie",
+        "image": "/media/bfeb2a020a40.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_9",
+        "name": "Rugby",
+        "image": "/media/1368ca13d45c.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_10",
+        "name": "Futbol amerykański",
+        "image": "/media/e150db65a18e.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_11",
+        "name": "Baseball",
+        "image": "/media/76197916288a.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_12",
+        "name": "Krykiet",
+        "image": "/media/c5c42a2a3845.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_13",
+        "name": "Golf",
+        "image": "/media/3161c1bc47c7.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_14",
+        "name": "Badminton",
+        "image": "/media/ec3223f1b937.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_15",
+        "name": "Squash",
+        "image": "/media/bca2696d31e1.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_16",
+        "name": "Lekkoatletyka (Biegi)",
+        "image": "/media/4dee7ac9193d.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_17",
+        "name": "Skok o tyczce",
+        "image": "/media/4a848ceeac25.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_18",
+        "name": "Skok wzwyż",
+        "image": "/media/2653f201920c.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_19",
+        "name": "Skok w dal",
+        "image": "/media/54c83e45e116.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_20",
+        "name": "Rzut oszczepem",
+        "image": "/media/459bd5be71f2.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_21",
+        "name": "Pchnięcie kulą",
+        "image": "/media/bdab17930566.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_22",
+        "name": "Pływanie",
+        "image": "/media/9459d631dfbc.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_23",
+        "name": "Piłka wodna",
+        "image": "/media/388724a57aa9.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_24",
+        "name": "Skoki do wody",
+        "image": "/media/f1cca4bbfc4d.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_25",
+        "name": "Wioślarstwo",
+        "image": "/media/96fd18035f06.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_26",
+        "name": "Kajakarstwo",
+        "image": "/media/74495698f6ba.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_27",
+        "name": "Żeglarstwo",
+        "image": "/media/880ff5bd9e4a.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_28",
+        "name": "Surfing",
+        "image": "/media/d48156417a7d.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_29",
+        "name": "Kolarstwo szosowe",
+        "image": "/media/2bb73c01ec81.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_30",
+        "name": "Kolarstwo górskie (MTB)",
+        "image": "/media/ae612030f6a8.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_31",
+        "name": "BMX",
+        "image": "/media/7e3323180ecd.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_32",
+        "name": "Boks",
+        "image": "/media/ac088f513646.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_33",
+        "name": "Zapasy",
+        "image": "/media/bbf26a75bacc.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_34",
+        "name": "Judo",
+        "image": "/media/cf21d1cbb622.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_35",
+        "name": "Karate",
+        "image": "/media/b0441a3683f1.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_36",
+        "name": "Taekwondo",
+        "image": "/media/9b9cdcf4f5eb.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_37",
+        "name": "Szermierka",
+        "image": "/media/45bd1eb3fe20.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_38",
+        "name": "Łucznictwo",
+        "image": "/media/27d0b86d37bf.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_39",
+        "name": "Strzelectwo sportowe",
+        "image": "/media/ba8977672bad.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_40",
+        "name": "Podnoszenie ciężarów",
+        "image": "/media/8ca715c4280c.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_41",
+        "name": "Gimnastyka sportowa",
+        "image": "/media/22dbeb695545.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_42",
+        "name": "Łyżwiarstwo figurowe",
+        "image": "/media/6cb823d7178b.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_43",
+        "name": "Łyżwiarstwo szybkie",
+        "image": "/media/6a1381cb1556.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_44",
+        "name": "Narciarstwo alpejskie",
+        "image": "/media/ebae17971c93.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_45",
+        "name": "Skoki narciarskie",
+        "image": "/media/7e5f7a048348.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_46",
+        "name": "Biegi narciarskie",
+        "image": "/media/6fbda2645116.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_47",
+        "name": "Biathlon",
+        "image": "/media/1b916939a0cc.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_48",
+        "name": "Snowboarding",
+        "image": "/media/86ec79f46e74.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_49",
+        "name": "Curling",
+        "image": "/media/2263edce8eb6.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_50",
+        "name": "Bobsleje",
+        "image": "/media/c1b091664412.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_51",
+        "name": "Saneczkarstwo",
+        "image": "/media/55d30abeb1d5.jpg",
+        "categoryId": "sports"
+      },
+      {
+        "id": "sport_52",
+        "name": "Jeździectwo",
+        "image": "/media/29b7142b5f5e.jpg",
+        "categoryId": "sports"
+      }
+    ]
   }
+
 ];
 
 export function normalizeAnswer(str) {
