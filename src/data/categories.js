@@ -16676,7 +16676,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Najstarsza córka („Diament pierwszego sezonu”)",
         "sub": "Żona księcia Simona Basseta",
-        "imageUrl": "/media/14df33b30102.jpg"
+        "imageUrl": "/media/9a3a6a7d7482.png"
       },
       {
         "id": "br-simon",
@@ -16689,7 +16689,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Książę Hastings, ukochany Daphne z 1. sezonu",
         "sub": "Grany przez Regé-Jeana Page’a",
-        "imageUrl": "/media/b1bc0452166b.jpg"
+        "imageUrl": "/media/757693cb2e86.png"
       },
       {
         "id": "br-anthony",
@@ -16701,7 +16701,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Najstarszy brat, głowa rodu, Wicehrabia Bridgerton",
         "sub": "Bohater 2. sezonu",
-        "imageUrl": "/media/8eb6b95baf14.jpg"
+        "imageUrl": "/media/8d9d10ee44c6.png"
       },
       {
         "id": "br-kate",
@@ -16713,7 +16713,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Przybyła z Indii starsza siostra Edwiny, żona Anthony’ego",
         "sub": "Bohaterka 2. sezonu",
-        "imageUrl": "/media/a40bd0dd3d41.jpg"
+        "imageUrl": "/media/56257ff0eb0b.jpg"
       },
       {
         "id": "br-penelope",
@@ -16721,22 +16721,13 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "penelope",
           "penelope featherington",
-          "lady whistledown"
+          "lady whistledown",
+          "Lady Whistledown",
+          "Penelope"
         ],
         "prompt": "Najmłodsza córka Featheringtonów, autorka kroniki towarzyskiej",
         "sub": "Ukrywa się jako Lady Whistledown",
-        "imageUrl": "/media/eca8d621611d.png"
-      },
-      {
-        "id": "br-whistledown",
-        "name": "Lady Whistledown",
-        "aliases": [
-          "lady whistledown",
-          "whistledown"
-        ],
-        "prompt": "Anonimowa autorka skandalizujących pamfletów w Londynie",
-        "sub": "Głos w oryginale: Julie Andrews",
-        "imageUrl": "/media/4371c18d98a0.jpg"
+        "imageUrl": "/media/2d48f4434b10.jpg"
       },
       {
         "id": "br-eloise",
@@ -16747,7 +16738,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Druga córka, buntowniczka i przyjaciółka Penelope",
         "sub": "Nie chce wychodzić za mąż",
-        "imageUrl": "/media/dee9117a9681.png"
+        "imageUrl": "/media/f529b26e5abb.jpg"
       },
       {
         "id": "br-francesca",
@@ -16757,7 +16748,7 @@ export const DEFAULT_CATEGORIES = [
           "francesca bridgerton",
           "hannah dodd"
         ],
-        "imageUrl": "/media/fdca188e3c2a.jpg"
+        "imageUrl": "/media/3b3df47cdb54.jpg"
       },
       {
         "id": "br-hyacinth",
@@ -16767,7 +16758,7 @@ export const DEFAULT_CATEGORIES = [
           "hyacinth bridgerton",
           "florence hunt"
         ],
-        "imageUrl": "/media/64d1e1e631e9.jpg"
+        "imageUrl": "/media/bda7073f8973.jpg"
       },
       {
         "id": "br-violet",
@@ -16779,7 +16770,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Matka ośmiorga rodzeństwa Bridgertonów",
         "sub": "Wdowa po Edmundzie",
-        "imageUrl": "/media/566f8a8cab44.jpg"
+        "imageUrl": "/media/f788b2766597.jpg"
       },
       {
         "id": "br-edmund",
@@ -16791,7 +16782,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Zmarły ojciec rodziny — zmarł od użądlenia pszczoły",
         "sub": "Symbol rodu: pszczoła",
-        "imageUrl": "/media/4fb2f0b41573.jpg"
+        "imageUrl": "/media/2d1542d6938e.png"
       },
       {
         "id": "br-charlotte",
@@ -16803,7 +16794,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Monarchini wybierająca co sezon „Diament sezonu”",
         "sub": "Miłośniczka szpiców miniaturowych (pomeranianów)",
-        "imageUrl": "/media/cae17089f454.png"
+        "imageUrl": "/media/87e4b2d8d137.jpg"
       },
       {
         "id": "br-george",
@@ -16815,7 +16806,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Mąż Królowej Charlotty cierpiący na chorobę psychiczną",
         "sub": " „Farmer George” ",
-        "imageUrl": "/media/088b2e84f5f7.jpg"
+        "imageUrl": "/media/e2fc29080f79.jpg"
       },
       {
         "id": "br-danbury",
@@ -16827,7 +16818,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Wpływowa mentorka Simona i przyjaciółka Królowej",
         "sub": "Zawsze chodzi z laską",
-        "imageUrl": "/media/4e1b47b1c43d.jpg"
+        "imageUrl": "/media/325dcb0bb0f1.jpg"
       },
       {
         "id": "br-newton",
@@ -16838,7 +16829,7 @@ export const DEFAULT_CATEGORIES = [
         ],
         "prompt": "Ukochany pies rasy corgi należący do Kate Sharmy",
         "sub": "Zwierzę z 2. sezonu",
-        "imageUrl": "/media/a9f51feec54f.jpg"
+        "imageUrl": "/media/872c2d89916a.jpg"
       },
       {
         "id": "br-pallmall",
@@ -16880,7 +16871,7 @@ export const DEFAULT_CATEGORIES = [
           "prudence",
           "bessie carter"
         ],
-        "imageUrl": "/media/f26d0a2189fd.jpg"
+        "imageUrl": "/media/14d9be0ebe8d.jpg"
       },
       {
         "id": "br-marina",
@@ -16890,7 +16881,7 @@ export const DEFAULT_CATEGORIES = [
           "marina thompson",
           "ruby barker"
         ],
-        "imageUrl": "/media/f0da7908ae0d.jpg"
+        "imageUrl": "/media/8371cc7ffa04.png"
       },
       {
         "id": "br-youngcharlotte",
@@ -16909,7 +16900,7 @@ export const DEFAULT_CATEGORIES = [
           "siena",
           "sabrina bartlett"
         ],
-        "imageUrl": "/media/40c1e48c2064.jpg"
+        "imageUrl": "/media/e82bc90d38f4.jpg"
       },
       {
         "id": "brid-e10b413f",
