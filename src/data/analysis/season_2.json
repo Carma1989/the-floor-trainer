@@ -1,0 +1,128 @@
+{
+  "season": 2,
+  "total_categories": 100,
+  "grid_10x10": {
+    "row_1": [
+      "Latanie",
+      "Miasta w Polsce",
+      "Gwiazdy Hollywood",
+      "Ortografia",
+      "Nakrycia głowy",
+      "Dzieła sztuki",
+      "Szkoła",
+      "Słowa",
+      "Kolekcjonowanie",
+      "Gadżety"
+    ],
+    "row_2": [
+      "Państwa po angielsku",
+      "Liczby",
+      "W kieszeniach",
+      "Cztery litery",
+      "Bohaterowie literaccy",
+      "Kody państw",
+      "Historia świata",
+      "Napoje",
+      "Siłownia i fitness",
+      "Nad jeziorem"
+    ],
+    "row_3": [
+      "Ostro zakończone",
+      "Zabytki świata",
+      "Dzień Dobry TVN",
+      "Wieś",
+      "[ZASŁONIĘTE: P...DY]",
+      "Dni świąteczne",
+      "Przysłowia (warunkowo - widać PRZY...)",
+      "Biuro",
+      "Kwiaty",
+      "Kuchnia polska"
+    ],
+    "row_4": [
+      "Etykiety napojów",
+      "Ikony kina",
+      "W drogerii",
+      "Na plaży",
+      "[ZASŁONIĘTE: M...NY]",
+      "Ślub i wesele",
+      "Gwiazdy rocka",
+      "Europa na Mundialu 2026",
+      "Rebusy",
+      "RTV i AGD"
+    ],
+    "row_5": [
+      "[ZASŁONIĘTE: R5C1 (zasłonięte w rzucie bocznym)]",
+      "Sławni Polacy",
+      "[ZASŁONIĘTE: ...TY]",
+      "Śniadania świata",
+      "[ZASŁONIĘTE: WY...ZENIE ...]",
+      "Egzotyczne owoce",
+      "Znaki drogowe",
+      "Na budowie",
+      "Z wąsem",
+      "Rzeki świata"
+    ],
+    "row_6": [
+      "[ZASŁONIĘTE: R6C1 (zasłonięte w rzucie bocznym)]",
+      "Zwierzęta domowe",
+      "Sprzęt sportowy",
+      "[ZASŁONIĘTE: ...AT ...]",
+      "[ZASŁONIĘTE: ...K]",
+      "Ikony mody",
+      "Festiwal w Sopocie",
+      "Ogień",
+      "Znane rodzeństwa",
+      "Historyczne miejsca"
+    ],
+    "row_7": [
+      "[ZASŁONIĘTE: R7C1]",
+      "BHP",
+      "Kości i kostki",
+      "[ZASŁONIĘTE: ...LASKU]",
+      "Kultowe filmy",
+      "Język angielski",
+      "Owady",
+      "Made in China",
+      "Lampki kontrolne",
+      "Polskie aktorki"
+    ],
+    "row_8": [
+      "[ZASŁONIĘTE: R8C1]",
+      "[ZASŁONIĘTE: R8C2]",
+      "Autorzy kryminałów",
+      "[ZASŁONIĘTE: R8C4]",
+      "[ZASŁONIĘTE: ...SCY]",
+      "Znaki i symbole",
+      "Polscy politycy",
+      "Piosenki dla dzieci",
+      "Fizyka",
+      "Kolory"
+    ],
+    "row_9": [
+      "[ZASŁONIĘTE: R9C1]",
+      "[ZASŁONIĘTE: R9C2]",
+      "Na drodze",
+      "[ZASŁONIĘTE: R9C4]",
+      "[ZASŁONIĘTE: ...IA]",
+      "Gwiazdy popu",
+      "Emotikony",
+      "Palcem po mapie",
+      "Mistrzowie sportu",
+      "Lata 90."
+    ],
+    "row_10": [
+      "[ZASŁONIĘTE: R10C1]",
+      "[ZASŁONIĘTE: R10C2]",
+      "U fryzjera",
+      "[ZASŁONIĘTE: ...SCY]",
+      "Krzyżówka",
+      "[ZASŁONIĘTE: BR...A]",
+      "Polscy wokaliści",
+      "Matematyka",
+      "Modele samochodów",
+      "Znani kucharze"
+    ]
+  },
+  "verified_100_percent_count": 77,
+  "partially_obscured_count": 23
+}

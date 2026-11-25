@@ -1,0 +1,172 @@
+{
+  "season": 4,
+  "total_categories": 100,
+  "grid_10x10": [
+    [
+      "Drużyny NBA",
+      "Sporty letnie",
+      "Puzzle",
+      "Domowe pupile",
+      "Literatura polska",
+      "Stolice świata",
+      "W operze",
+      "W lodówce",
+      "Star Wars",
+      "Prezenty"
+    ],
+    [
+      "Poliglota",
+      "Gady, płazy i owady",
+      "Żłobek",
+      "Materiały i surowce",
+      "Środki czystości",
+      "Atrakcje turystyczne",
+      "Kody lotnisk",
+      "Na zamku i podzamczu",
+      "Z plastiku",
+      "W jakim to województwie?"
+    ],
+    [
+      "W wojsku",
+      "Kolędy i piosenki świąteczne",
+      "Zagraniczni wokaliści i wokalistki",
+      "Prawo i porządek",
+      "W salonie piękności",
+      "Zima",
+      "Słodycze",
+      "Tablica Mendelejewa",
+      "Listy do M.",
+      "Czy jesteś robotem?"
+    ],
+    [
+      "Skandynawia",
+      "Historia świata",
+      "Poezja śpiewana",
+      "Na ściance",
+      "Lekcja informatyki",
+      "Na stadionie sportowym",
+      "Gwara poznańska",
+      "Poranki",
+      "Znane Kaśki",
+      "Skoki narciarskie"
+    ],
+    [
+      "Sztuka papieru",
+      "Państwa Afryki",
+      "Na metry",
+      "Cytaty z filmów",
+      "Hodowane przez człowieka",
+      "F1",
+      "Muzy",
+      "Piosenki z imieniem",
+      "Na świątecznym stole",
+      "Brzechwa i Tuwim"
+    ],
+    [
+      "Na stacji benzynowej",
+      "Dzikie rośliny jadalne",
+      "Słowa na S",
+      "Rap",
+      "Róż",
+      "Biuro rzeczy znalezionych",
+      "Przetwory",
+      "Przydasie",
+      "Obywatelki świata",
+      "Brodacze"
+    ],
+    [
+      "Włochy",
+      "W damskiej kosmetyczce",
+      "Trójmiasto",
+      "Rzymska matma",
+      "W pomieszczeniu",
+      "Źródła światła",
+      "Boże Narodzenie",
+      "Ikony jazzu",
+      "Polski folklor",
+      "W lesie"
+    ],
+    [
+      "All inclusive",
+      "Filmowi przystojniacy",
+      "Warzywniak",
+      "Polskie piosenki",
+      "Wspak",
+      "Remont",
+      "Kawa i herbata",
+      "Cukier i sól",
+      "Po angielsku",
+      "Legendy piłkarskie"
+    ],
+    [
+      "Mięsożercy",
+      "W piachu",
+      "Filmy wojenne",
+      "Sąsiedzi na mapie",
+      "W pieluchach",
+      "Znani Polacy",
+      "Drewno",
+      "Hobby",
+      "Skandale",
+      "Postaci historyczne"
+    ],
+    [
+      "Ciało człowieka",
+      "Nasiona i orzechy",
+      "Od dinozaurów do człowieka",
+      "W hipermarkecie",
+      "Blondynki",
+      "Zimowe aktywności",
+      "Domowe SPA",
+      "Uchwycone w kadrze",
+      "Streetfood",
+      "Rebusy"
+    ]
+  ],
+  "partially_obscured_tiles": [
+    {
+      "pos": "R5C7",
+      "visible_text": "MUZY...",
+      "assumed": "Muzy / Muzyka ...",
+      "reason": "Prawa część kafelka całkowicie zasłonięta czerwoną bluzą uczestnika"
+    },
+    {
+      "pos": "R8C10",
+      "visible_text": "...ARSKIE",
+      "assumed": "Legendy piłkarskie (niepewne)",
+      "reason": "Widoczna tylko końcówka -ARSKIE"
+    },
+    {
+      "pos": "R9C2",
+      "visible_text": "...RACHU",
+      "assumed": "W piachu / Ze strachu (niepewne)",
+      "reason": "Początek całkowicie zasłonięty czerwoną sukienką"
+    },
+    {
+      "pos": "R9C5",
+      "visible_text": "W PI...ACH",
+      "assumed": "W pieluchach / W górach (niepewne)",
+      "reason": "Środek zasłonięty czarną sylwetką"
+    },
+    {
+      "pos": "R9C6",
+      "visible_text": "ZNANI ...YCY",
+      "assumed": "Znani Polacy / politycy / muzycy (niepewne)",
+      "reason": "Środek zasłonięty żółtą sylwetką"
+    },
+    {
+      "pos": "R9C7",
+      "visible_text": "D...",
+      "assumed": "Drewno (niepewne)",
+      "reason": "Cały napis poza pierwszą literą zasłonięty czarną sylwetką"
+    },
+    {
+      "pos": "R10C8",
+      "visible_text": "UCHWYCONE ...CIE",
+      "assumed": "Uchwycone w kadrze / na zdjęciu (niepewne)",
+      "reason": "Końcówka zasłonięta"
+    }
+  ],
+  "verified_100_percent_count": 93,
+  "partially_obscured_count": 7
+}

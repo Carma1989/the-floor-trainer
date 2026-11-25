@@ -1,0 +1,146 @@
+{
+  "source": "Kwestionariusz castingowy The Floor (Google Forms, 12 screenów IMG_7318-7329)",
+  "user_checked_categories": [
+    "Angielski",
+    "Ortografia i gramatyka",
+    "Marki ekskluzywne",
+    "Bridgertonowie",
+    "Stany Zjednoczone Ameryki Północnej",
+    "CS Go"
+  ],
+  "sections": {
+    "GEOGRAFIA (ogólna)": [
+      "Flagi",
+      "Kulturoznawstwo",
+      "Mapy, regiony, miasta, stolice",
+      "Teoria geografii",
+      "Zabytki polskie",
+      "Zabytki świata",
+      "Turystyka i podróże"
+    ],
+    "JĘZYKI": [
+      "Angielski",
+      "Czeski",
+      "Francuski",
+      "Hiszpański",
+      "Łacina",
+      "Niemiecki",
+      "Ortografia i gramatyka",
+      "Przysłowia i powiedzenia",
+      "Związki frazeologiczne"
+    ],
+    "KULINARIA": [
+      "Kuchnie świata",
+      "Loga i marki",
+      "Naczynia / akcesoria",
+      "Napoje",
+      "Przepisy",
+      "Przyprawy i zioła",
+      "Szefowie kuchni"
+    ],
+    "LITERATURA": [
+      "Bohaterowie literaccy",
+      "Lektury szkolne",
+      "Literatura dziecięca",
+      "Literatura obca",
+      "Literatura polska",
+      "Poezja"
+    ],
+    "SZTUKA": [
+      "Architektura",
+      "Artyści",
+      "Historia sztuki",
+      "Style w sztuce",
+      "Tytuły dzieł sztuki"
+    ],
+    "MODA I URODA": [
+      "Akcesoria kosmetyczne",
+      "Elementy ubioru",
+      "Fryzury i włosy",
+      "Makijaż",
+      "Marki codzienne",
+      "Marki ekskluzywne",
+      "Projektanci i modelki"
+    ],
+    "FLORA": [
+      "Drzewa",
+      "Grzyby",
+      "Kwiaty",
+      "Rośliny doniczkowe",
+      "Rośliny ogrodowe",
+      "Rośliny świata",
+      "Ziołolecznictwo"
+    ],
+    "FAUNA": [
+      "Ciekawostki",
+      "Gady i płazy",
+      "Owady",
+      "Ptaki",
+      "Ryby",
+      "Ssaki",
+      "Zwierzęta kopalne"
+    ],
+    "FILMY I SERIALE (ogólne)": [
+      "Aktorzy polscy",
+      "Aktorzy zagraniczni"
+    ],
+    "MUZYKA / WYKONAWCY (konkretni)": [
+      "Backstreet Boys",
+      "Bajm",
+      "Dawid Podsiadło",
+      "Elektryczne Gitary",
+      "Elton John",
+      "Maryla Rodowicz",
+      "Prince",
+      "Taco Hemingway",
+      "The Beatles"
+    ],
+    "SERIALE / FRANCZYZY (konkretne)": [
+      "Chyłka",
+      "Na Wspólnej",
+      "Bridgertonowie",
+      "Harry Potter",
+      "Igrzyska śmierci",
+      "Friends",
+      "Big Bang Theory",
+      "Stranger Things"
+    ],
+    "ŚWIAT KOMIKSÓW": [
+      "Superbohaterowie",
+      "Marvel",
+      "DC",
+      "Komiksy polskie i europejskie",
+      "Manga i anime"
+    ],
+    "GEOGRAFIA (konkretne kraje i regiony)": [
+      "Stany Zjednoczone Ameryki Północnej",
+      "Warmia i Mazury",
+      "Szkocja",
+      "Indonezja",
+      "Chiny",
+      "Arktyka"
+    ],
+    "NAUKA I TECHNOLOGIA": [
+      "Architektura",
+      "Budownictwo",
+      "Elektryczność",
+      "Informatyka",
+      "Lotnictwo",
+      "Numizmatyka",
+      "Programowanie",
+      "Wojsko / siły zbrojne"
+    ],
+    "GRY KOMPUTEROWE (konkretne)": [
+      "Brawl stars",
+      "CS Go",
+      "Fortnite",
+      "GTA",
+      "Minecraft",
+      "Valorant"
+    ],
+    "EZOTERYKA": [
+      "Tarot",
+      "Numerologia"
+    ]
+  }
+}

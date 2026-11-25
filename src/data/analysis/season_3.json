@@ -1,0 +1,146 @@
+{
+  "season": 3,
+  "total_categories": 100,
+  "rows": [
+    [
+      "Słodycze i desery",
+      "Gwiazdy muzyki lat 80.",
+      "Ryby",
+      "Legendy piłkarskie",
+      "Kawa i herbata",
+      "Instrumenty muzyczne",
+      "Części samochodowe",
+      "Zrób to sam",
+      "Zamki i pałace",
+      "Piosenki i pieśni"
+    ],
+    [
+      "Makijaż",
+      "Szczeniaki",
+      "Literatura światowa",
+      "Polskie aktorki",
+      "Akronimy",
+      "Harry Potter",
+      "Angielskie czasowniki",
+      "Zabawki",
+      "Cuda natury",
+      "Muzyczne hity"
+    ],
+    [
+      "Szpital",
+      "Historia Polski",
+      "Jesień",
+      "Rymowanki",
+      "Na Wspólnej",
+      "Znane duety",
+      "W pracowni artysty",
+      "Sportowcy",
+      "Liczebniki",
+      "Skarby lasu"
+    ],
+    [
+      "Dziki Zachód",
+      "W podróży",
+      "Malarstwo polskie",
+      "Krzyżówka",
+      "Przyjemności",
+      "Streetwear",
+      "Z metalu",
+      "Zapomniane słowa",
+      "Zupy",
+      "Konie i jeździectwo"
+    ],
+    [
+      "Made in UK",
+      "Algebra",
+      "Kuchnia i wyposażenie",
+      "Wokół wody",
+      "Polskie drużyny sportowe",
+      "Słynne wynalazki",
+      "Hiszpania",
+      "Czego to część?",
+      "Liczby rzymskie",
+      "Klimat"
+    ],
+    [
+      "Herby miast",
+      "Aromaty",
+      "P jak podłoga",
+      "Filmowe hity",
+      "Aplikacje mobilne",
+      "Polskie modelki",
+      "Męskie gadżety",
+      "Afryka i Azja Express",
+      "Chemia",
+      "Paszporty świata"
+    ],
+    [
+      "Wyspy",
+      "Survival",
+      "Ezoteryka",
+      "Reżyseria",
+      "W kolorze czerwonym",
+      "Dodatki do stylizacji",
+      "Zespoły muzyczne",
+      "Kobiety w polityce",
+      "Świat wokół nas",
+      "Tenis"
+    ],
+    [
+      "Klasyki motoryzacji",
+      "Polskie piosenki",
+      "Siatkarze",
+      "[ZASŁONIĘTE: ...NIA]",
+      "Domy mody",
+      "Programy TV",
+      "W górach",
+      "Stand-up i kabaret",
+      "Historia świata",
+      "Smoki"
+    ],
+    [
+      "Brytyjska arystokracja",
+      "Wśród zwierząt",
+      "Miłość w językach",
+      "Klawiatura",
+      "Piosenki Beatlesów",
+      "Rzemieślnicy",
+      "W damskiej torebce",
+      "Muzyka lat 90.",
+      "W ogrodzie",
+      "Miasta Europy"
+    ],
+    [
+      "Rolnictwo",
+      "Z mąki i z mąką",
+      "Rośliny strączkowe",
+      "Ptaki",
+      "[ZASŁONIĘTE: W ...YCIU]",
+      "Polscy dziennikarze",
+      "[ZASŁONIĘTE: PO...Y]",
+      "Kultowe filmy",
+      "[ZASŁONIĘTE: IMPREZOWE ...]",
+      "Osoby, które zmieniły świat"
+    ]
+  ],
+  "partially_obscured_tiles": [
+    {
+      "pos": "R8C4",
+      "visible_text": "...NIA"
+    },
+    {
+      "pos": "R10C5",
+      "visible_text": "W ...YCIU"
+    },
+    {
+      "pos": "R10C7",
+      "visible_text": "PO...Y"
+    },
+    {
+      "pos": "R10C9",
+      "visible_text": "IMPREZOWE ..."
+    }
+  ],
+  "verified_100_percent_count": 96,
+  "partially_obscured_count": 4
+}

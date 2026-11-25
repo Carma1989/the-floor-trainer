@@ -1,0 +1,166 @@
+{
+  "season": 5,
+  "total_categories": 100,
+  "grid_10x10": [
+    [
+      "W transporcie",
+      "Lekcja biologii",
+      "Nakrycie stołu",
+      "Lata 60.",
+      "Budujemy dom",
+      "Puzzle",
+      "Angielski w podróży",
+      "Najbogatsi sportowcy",
+      "Polskie piosenki",
+      "Filmowi gangsterzy"
+    ],
+    [
+      "Żeglarstwo",
+      "Znajdź różnice",
+      "Władca Pierścieni",
+      "Imiona świata",
+      "James Bond",
+      "Niemcy",
+      "Zielona dieta",
+      "Rodzicielstwo",
+      "Złomowisko",
+      "Wyścig"
+    ],
+    [
+      "Robótki ręczne",
+      "Świat finansów",
+      "II wojna światowa",
+      "Wellness",
+      "Trzy litery",
+      "Akcesoria dla zwierząt",
+      "Domowi pomocnicy",
+      "Znane Anny",
+      "Naj na mapie",
+      "Krzyżówka"
+    ],
+    [
+      "Magnesy z podróży",
+      "Pokój nastolatka",
+      "Oscary XXI wieku",
+      "Małe wielkie rzeczy",
+      "Działania matematyczne",
+      "Harcerstwo",
+      "Kraków",
+      "Wzory sumaryczne",
+      "Zwierzęta w tytułach",
+      "Butelki perfum"
+    ],
+    [
+      "Religie świata",
+      "Mundial",
+      "Przebieranki",
+      "Mięśnie",
+      "Ćwiczenia",
+      "Kolory w tytułach",
+      "Czułe słówka",
+      "Na obiad",
+      "Disco nuta",
+      "Polscy kompozytorzy"
+    ],
+    [
+      "Symbole",
+      "Warstwy",
+      "Plaża",
+      "Jaki to instrument?",
+      "Żółte",
+      "Znane rodziny",
+      "Daty polskich bitew",
+      "Spiżarnia",
+      "Szczypiorniści",
+      "Egzotyczne kwiaty"
+    ],
+    [
+      "Starożytny Egipt",
+      "Mówią, co myślą",
+      "Kobiety z obrazów",
+      "Zwierzęta Afryki",
+      "U dentysty",
+      "Szczypta smaku",
+      "Na niebie",
+      "Znane marki",
+      "Produkty spożywcze",
+      "Powieści dla dzieci"
+    ],
+    [
+      "Angielskie skróty",
+      "Ortografia",
+      "Osobliwe zwierzęta",
+      "Walentynki",
+      "Zespoły rockowe",
+      "Żużel i motocross",
+      "Państwa Azji",
+      "Skrzydlate słowa",
+      "Śląskie",
+      "Rakiety i kije"
+    ],
+    [
+      "W męskiej jaskini",
+      "Straszne filmy",
+      "Wspinaczka",
+      "Influencerzy",
+      "Lekcja fizyki",
+      "Pod pseudonimem",
+      "Szyk",
+      "F.R.I.E.N.D.S",
+      "Sneakersy",
+      "Literatura światowa"
+    ],
+    [
+      "Sąd",
+      "Ikony telewizji",
+      "Taste of America",
+      "Rebusy",
+      "Met Gala",
+      "W lombardzie",
+      "Przysłowia",
+      "Opakowania",
+      "Samochody elektryczne",
+      "Taylor Swift"
+    ]
+  ],
+  "partially_obscured_tiles": [
+    {
+      "pos": "R1C9",
+      "visible_text": "...KIE PIOSE...",
+      "assumed": "Polskie piosenki / Włoskie piosenki",
+      "reason": "Początek i koniec zasłonięte"
+    },
+    {
+      "pos": "R2C10",
+      "visible_text": "WY...",
+      "assumed": "Wyścig / Wynalazki (niepewne)",
+      "reason": "Prawie cały napis zasłonięty niebieską sylwetką"
+    },
+    {
+      "pos": "R5C6",
+      "visible_text": "KOLORY W ...CH",
+      "assumed": "Kolory w tytułach (niepewne)",
+      "reason": "Drugi wyraz zasłonięty niebieską sylwetką"
+    },
+    {
+      "pos": "R6C3",
+      "visible_text": "...ŻA / ...CJA",
+      "assumed": "Plaża / Francja (niepewne)",
+      "reason": "Środek zasłonięty pomarańczową sylwetką"
+    },
+    {
+      "pos": "R9C2",
+      "visible_text": "...SZNE FILMY",
+      "assumed": "Straszne filmy / Śmieszne filmy (niepewne)",
+      "reason": "Początek zasłonięty pomarańczową sylwetką"
+    },
+    {
+      "pos": "R10C2",
+      "visible_text": "... TELEWIZJI",
+      "assumed": "Ikony telewizji / Gwiazdy telewizji (niepewne)",
+      "reason": "Pierwszy wyraz zasłonięty"
+    }
+  ],
+  "verified_100_percent_count": 94,
+  "partially_obscured_count": 6
+}
