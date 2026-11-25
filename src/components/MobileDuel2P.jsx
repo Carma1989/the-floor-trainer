@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
-import { Play, RotateCcw, Check, SkipForward, Mic, MicOff, Eye, EyeOff, Trophy, Swords } from 'lucide-react';
+import { Play, RotateCcw, Check, SkipForward, Mic, Keyboard, Hand, Eye, EyeOff, Trophy, Swords } from 'lucide-react';
 import { SmartImage } from './SmartImage';
+import { checkAnswerMatch } from '../data/categories';
 import { sound } from '../utils/audio';
 import { resolveAssetUrl } from '../utils/assets';
 import { useSpeechRecognition } from '../utils/speech';
@@ -12,8 +13,11 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
   const [phase, setPhase] = useState('setup'); // 'setup' | 'playing' | 'finished'
   const [p1Name, setP1Name] = useState('Gracz 1');
   const [p2Name, setP2Name] = useState('Gracz 2');
-  const [voiceEnabled, setVoiceEnabled] = useState(false);
+  const [answerMode, setAnswerMode] = useState('buttons'); // 'buttons' | 'voice' | 'keyboard'
+  const [textInput, setTextInput] = useState('');
   const [judgePeek, setJudgePeek] = useState(false);
+
+  const inputRef = useRef(null);
 
   const [items, setItems] = useState([]);
   const [cardIndex, setCardIndex] = useState(0);
@@ -68,9 +72,13 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
     setP1Passes(0);
     setP2Passes(0);
     setWinner(null);
+    setTextInput('');
     lastTickRef.current = Date.now();
     setPhase('playing');
-  }, [buildDeck]);
+    if (answerMode === 'keyboard') {
+      setTimeout(() => inputRef.current?.focus(), 80);
+    }
+  }, [buildDeck, answerMode]);
 
   const currentItem = items[cardIndex] || null;
 
@@ -88,8 +96,12 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
   }, [phase, items, cardIndex]);
 
   const advanceCard = useCallback(() => {
+    setTextInput('');
     setCardIndex(prev => (prev + 1 >= items.length ? 0 : prev + 1));
-  }, [items.length]);
+    if (answerMode === 'keyboard') {
+      setTimeout(() => inputRef.current?.focus(), 40);
+    }
+  }, [items.length, answerMode]);
 
   const handleCorrect = useCallback(() => {
     if (phase !== 'playing' || passRemaining > 0) return;
@@ -166,7 +178,7 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
   }, [phase, activePlayer, advanceCard]);
 
   const { isSupported: speechSupported, isListening, transcript } = useSpeechRecognition({
-    active: phase === 'playing' && voiceEnabled && passRemaining === 0,
+    active: phase === 'playing' && answerMode === 'voice' && passRemaining === 0,
     currentItem,
     onCorrect: handleCorrect,
     onPass: handlePass,
@@ -233,31 +245,57 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
           </div>
         </div>
 
-        {/* Answer mode toggle */}
-        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-3 flex items-center justify-between gap-3">
-          <div className="min-w-0">
-            <div className="text-xs font-black text-white flex items-center gap-1.5">
-              {voiceEnabled ? <Mic className="w-4 h-4 text-emerald-400" /> : <MicOff className="w-4 h-4 text-slate-500" />}
-              <span>Rozpoznawanie głosu (pl-PL)</span>
-            </div>
-            <p className="text-[11px] text-slate-400 mt-0.5">
-              {speechSupported
-                ? 'Opcjonalne: zalicza po głosie lub „pas”, przyciski działają zawsze.'
-                : 'Przeglądarka nie wspiera mikrofonu — użyj przycisków ZALICZ / PAS.'}
-            </p>
+        {/* 3 Answer Modes */}
+        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-3 flex flex-col gap-2">
+          <span className="text-[11px] font-black uppercase tracking-wider text-slate-400">
+            Sposób podawania odpowiedzi (3 opcje)
+          </span>
+          <div className="grid grid-cols-3 gap-2">
+            <button
+              type="button"
+              onClick={() => setAnswerMode('buttons')}
+              className={`p-2.5 rounded-xl border flex flex-col items-center justify-center gap-1 text-center transition-all cursor-pointer ${
+                answerMode === 'buttons'
+                  ? 'bg-amber-400/15 border-amber-400 text-amber-300'
+                  : 'bg-slate-950 border-slate-800 text-slate-400'
+              }`}
+            >
+              <Hand className="w-4 h-4" />
+              <span className="text-[11px] font-black">Przyciski</span>
+            </button>
+
+            <button
+              type="button"
+              disabled={!speechSupported}
+              onClick={() => setAnswerMode('voice')}
+              className={`p-2.5 rounded-xl border flex flex-col items-center justify-center gap-1 text-center transition-all cursor-pointer disabled:opacity-40 ${
+                answerMode === 'voice'
+                  ? 'bg-emerald-500/20 border-emerald-500 text-emerald-300'
+                  : 'bg-slate-950 border-slate-800 text-slate-400'
+              }`}
+            >
+              <Mic className="w-4 h-4" />
+              <span className="text-[11px] font-black">Głosowo</span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setAnswerMode('keyboard')}
+              className={`p-2.5 rounded-xl border flex flex-col items-center justify-center gap-1 text-center transition-all cursor-pointer ${
+                answerMode === 'keyboard'
+                  ? 'bg-indigo-600/25 border-indigo-400 text-indigo-300'
+                  : 'bg-slate-950 border-slate-800 text-slate-400'
+              }`}
+            >
+              <Keyboard className="w-4 h-4" />
+              <span className="text-[11px] font-black">Pisanie</span>
+            </button>
           </div>
-          <button
-            type="button"
-            disabled={!speechSupported}
-            onClick={() => setVoiceEnabled(v => !v)}
-            className={`px-3 py-1.5 rounded-xl text-xs font-black shrink-0 border transition-all ${
-              voiceEnabled
-                ? 'bg-emerald-500/20 border-emerald-500 text-emerald-300'
-                : 'bg-slate-950 border-slate-800 text-slate-400'
-            }`}
-          >
-            {voiceEnabled ? 'WŁ.' : 'WYŁ.'}
-          </button>
+          <p className="text-[11px] text-slate-400">
+            {answerMode === 'buttons' && 'Gracze mówią na głos, a przyciski ZALICZ / PAS sterują zegarem.'}
+            {answerMode === 'voice' && (speechSupported ? 'Mikrofon (pl-PL) rozpoznaje hasło lub „pas”; przyciski nadal działają.' : 'Przeglądarka nie wspiera mikrofonu.')}
+            {answerMode === 'keyboard' && 'Aktywny gracz wpisuje hasło na klawiaturze; poprawne zalicza się automatycznie.'}
+          </p>
         </div>
 
         <button
@@ -367,7 +405,7 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
         ) : <span />}
 
         <div className="flex items-center gap-1.5 shrink-0">
-          {voiceEnabled && (
+          {answerMode === 'voice' && (
             <span className={`px-2 py-1 rounded-lg text-[10px] font-black border ${
               isListening ? 'bg-emerald-500/20 border-emerald-500 text-emerald-300' : 'bg-slate-900 border-slate-800 text-slate-400'
             }`}>
@@ -425,7 +463,7 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
           <span className="text-xs font-bold text-indigo-300 truncate max-w-full">
             Sędzia: {currentItem.name}
           </span>
-        ) : voiceEnabled && transcript ? (
+        ) : answerMode === 'voice' && transcript ? (
           <span className="text-[11px] text-slate-400 truncate max-w-full">
             Słyszę: „{transcript}”
           </span>
@@ -435,6 +473,33 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
           </span>
         )}
       </div>
+
+      {/* Keyboard input when answerMode === 'keyboard' */}
+      {answerMode === 'keyboard' && (
+        <div className="px-2 shrink-0">
+          <input
+            ref={inputRef}
+            type="text"
+            disabled={isPassing}
+            value={textInput}
+            onChange={(e) => {
+              const val = e.target.value;
+              setTextInput(val);
+              if (currentItem && checkAnswerMatch(val, currentItem)) {
+                handleCorrect();
+              }
+            }}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' && textInput.trim().toLowerCase() === 'pas') {
+                e.preventDefault();
+                handlePass();
+              }
+            }}
+            placeholder="Wpisz odpowiedź..."
+            className="w-full px-4 py-2.5 rounded-xl bg-slate-900 border-2 border-indigo-500 text-white text-center font-bold outline-none disabled:opacity-40"
+          />
+        </div>
+      )}
 
       {/* Action Buttons: ZALICZ / PAS */}
       <div className="grid grid-cols-2 gap-2.5 px-2 shrink-0">
