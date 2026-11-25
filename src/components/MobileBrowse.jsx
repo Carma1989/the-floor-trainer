@@ -11,14 +11,16 @@ export function MobileBrowse({ categories, onSelectAndGo }) {
     [categories, openedCatId]
   );
 
-  // Filter categories when at root view
+  // Filter and sort categories A-Z (Polish locale) when at root view
   const filteredCategories = useMemo(() => {
     const q = query.trim().toLowerCase();
-    if (!q) return categories;
-    return categories.filter(c =>
-      c.name.toLowerCase().includes(q) ||
-      (c.items || []).some(it => it.name.toLowerCase().includes(q))
-    );
+    const list = !q
+      ? [...categories]
+      : categories.filter(c =>
+          c.name.toLowerCase().includes(q) ||
+          (c.items || []).some(it => it.name.toLowerCase().includes(q))
+        );
+    return list.sort((a, b) => a.name.localeCompare(b.name, 'pl', { sensitivity: 'base' }));
   }, [categories, query]);
 
   // Filter items when inside a category
