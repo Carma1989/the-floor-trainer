@@ -5,7 +5,7 @@ export function SmartImage({
   src,
   alt = '',
   className = '',
-  cardBg = 'bg-white',
+  cardBg = 'bg-slate-900',
   onReady
 }) {
   const resolvedSrc = resolveAssetUrl(src);
@@ -64,7 +64,7 @@ export function SmartImage({
           setError(true);
           if (onReady) onReady(true);
         }}
-        className={`w-full h-full object-contain ${isDataSvg ? 'p-0' : 'p-3'} transition-all duration-200 ${
+        className={`w-full h-full object-contain ${isDataSvg ? 'p-0' : 'p-1'} transition-all duration-200 ${
           loaded ? 'opacity-100 scale-100' : 'opacity-0 scale-95'
         }`}
       />

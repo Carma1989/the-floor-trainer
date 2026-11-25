@@ -9,6 +9,7 @@ import { connectOnlineRoom, generateRoomCode } from '../utils/onlineRoom';
 const INITIAL_TIME = 45.0;
 const PASS_PENALTY_SECONDS = 3.0;
 const OPTION_LABELS = ['A', 'B', 'C'];
+const LOGO_CATS = new Set(['fashion', 'ai_tools', 'content_tools', 'polish_food_logos']);
 
 export function MobileDuel2P({ categories, selectedCategory, onSelectCategory }) {
   const urlRoom = useMemo(() => new URLSearchParams(window.location.search).get('room') || '', []);
@@ -851,7 +852,7 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
             <SmartImage
               src={isPassing && currentItem.revealedImageUrl ? currentItem.revealedImageUrl : currentItem.imageUrl}
               alt="Karta pojedynku"
-              cardBg="bg-white"
+              cardBg={LOGO_CATS.has(currentItem.categoryId) ? 'bg-white' : 'bg-slate-900'}
               className="w-full h-full shadow-2xl border border-slate-800/80"
             />
           </div>

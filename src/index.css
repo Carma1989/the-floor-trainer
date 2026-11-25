@@ -476,9 +476,14 @@ input, textarea, select {
 .h-\[280px\] { height: 280px; }
 .w-\[330px\] { width: 330px; }
 .h-\[330px\] { height: 330px; }
+.w-\[350px\] { width: 350px; }
+.h-\[350px\] { height: 350px; }
+.min-h-\[84px\] { min-height: 84px; }
 @media (min-width: 640px) {
   .sm\:w-\[350px\] { width: 350px; }
   .sm\:h-\[350px\] { height: 350px; }
+  .sm\:w-\[370px\] { width: 370px; }
+  .sm\:h-\[370px\] { height: 370px; }
 }
 .w-11 { width: 2.75rem; }
 .h-11 { height: 2.75rem; }

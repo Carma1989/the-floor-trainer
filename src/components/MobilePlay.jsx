@@ -5,6 +5,8 @@ import { checkAnswerMatch } from '../data/categories';
 import { sound } from '../utils/audio';
 import { resolveAssetUrl } from '../utils/assets';
 
+const LOGO_CATS = new Set(['fashion', 'ai_tools', 'content_tools', 'polish_food_logos']);
+
 export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
   const [items, setItems] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -20,7 +22,7 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
     if (selectedCategory === 'all') {
       categories.forEach(c => {
         (c.items || []).forEach(it => {
-          pool.push({ ...it, categoryName: c.name, categoryEmoji: c.emoji });
+          pool.push({ ...it, categoryId: c.id, categoryName: c.name, categoryEmoji: c.emoji });
         });
       });
     } else {
@@ -28,6 +30,7 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
       if (match) {
         pool = (match.items || []).map(it => ({
           ...it,
+          categoryId: match.id,
           categoryName: match.name,
           categoryEmoji: match.emoji,
         }));
@@ -186,27 +189,27 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
           <div className="flex-1 min-h-0 flex items-center justify-center px-2">
             <div
               onClick={handleRevealOrNext}
-              className={`relative w-[330px] h-[330px] sm:w-[350px] sm:h-[350px] shrink-0 p-1.5 transition-all duration-200 rounded-3xl cursor-pointer select-none ${
+              className={`relative w-[350px] h-[350px] sm:w-[370px] sm:h-[370px] shrink-0 p-1 transition-all duration-200 rounded-3xl cursor-pointer select-none ${
                 revealed ? 'ring-4 ring-amber-400/80' : ''
               }`}
             >
               <SmartImage
                 src={revealed && currentItem.revealedImageUrl ? currentItem.revealedImageUrl : currentItem.imageUrl}
                 alt="Karta do odgadnięcia"
-                cardBg="bg-white"
+                cardBg={LOGO_CATS.has(currentItem.categoryId) ? 'bg-white' : 'bg-slate-900'}
                 className="w-full h-full shadow-2xl border border-slate-800/80"
               />
             </div>
           </div>
 
           {/* Answer Box BELOW the image frame */}
-          <div className="mx-2 min-h-[68px] shrink-0 bg-slate-900 border border-slate-800 rounded-2xl px-4 py-2 flex flex-col items-center justify-center text-center shadow-lg">
+          <div className="mx-2 min-h-[84px] shrink-0 bg-slate-900 border border-slate-800 rounded-2xl px-5 py-3 flex flex-col items-center justify-center text-center shadow-lg">
             {revealed && (
               <>
-                <span className="text-[10px] font-black uppercase tracking-widest text-amber-400 block mb-0.5">
+                <span className="text-[10px] font-black uppercase tracking-widest text-amber-400 block mb-1">
                   Prawidłowa odpowiedź
                 </span>
-                <p className="text-base font-bold text-white leading-tight">
+                <p className="text-xl font-black text-white leading-tight">
                   {currentItem.name}
                 </p>
               </>
