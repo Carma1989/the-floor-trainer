@@ -206,7 +206,7 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
                 <span className="text-[10px] font-black uppercase tracking-widest text-amber-400 block mb-0.5">
                   Prawidłowa odpowiedź
                 </span>
-                <p className="text-lg font-black text-white leading-tight">
+                <p className="text-base font-bold text-white leading-tight">
                   {currentItem.name}
                 </p>
               </>
