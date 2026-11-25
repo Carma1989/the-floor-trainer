@@ -14049,7 +14049,8 @@ export const DEFAULT_CATEGORIES = [
           "dior",
           "christian dior"
         ],
-        "imageUrl": "/logos/fash-dior.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%3Ctext%20x%3D%22400%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20fill%3D%22%23111111%22%20font-family%3D%22Georgia%2C%20Times%20New%20Roman%2C%20serif%22%20font-weight%3D%22400%22%20font-size%3D%22270%22%20letter-spacing%3D%228%22%3ECD%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+        "revealedImageUrl": "/logos/fash-dior.png"
       },
       {
         "id": "fash-versace",
@@ -14155,7 +14156,8 @@ export const DEFAULT_CATEGORIES = [
           "maison margiela",
           "margiela"
         ],
-        "imageUrl": "/logos/fash-margiela.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%3Crect%20x%3D%22140%22%20y%3D%22210%22%20width%3D%22520%22%20height%3D%22380%22%20fill%3D%22%23f8fafc%22%20stroke%3D%22%23cbd5e1%22%20stroke-width%3D%226%22%2F%3E%0A%20%20%3Cline%20x1%3D%22120%22%20y1%3D%22230%22%20x2%3D%22160%22%20y2%3D%22230%22%20stroke%3D%22%230f172a%22%20stroke-width%3D%228%22%2F%3E%0A%20%20%3Cline%20x1%3D%22640%22%20y1%3D%22230%22%20x2%3D%22680%22%20y2%3D%22230%22%20stroke%3D%22%230f172a%22%20stroke-width%3D%228%22%2F%3E%0A%20%20%3Cline%20x1%3D%22120%22%20y1%3D%22570%22%20x2%3D%22160%22%20y2%3D%22570%22%20stroke%3D%22%230f172a%22%20stroke-width%3D%228%22%2F%3E%0A%20%20%3Cline%20x1%3D%22640%22%20y1%3D%22570%22%20x2%3D%22680%22%20y2%3D%22570%22%20stroke%3D%22%230f172a%22%20stroke-width%3D%228%22%2F%3E%0A%20%20%3Ctext%20x%3D%22400%22%20y%3D%22330%22%20text-anchor%3D%22middle%22%20fill%3D%22%230f172a%22%20font-family%3D%22monospace%22%20font-weight%3D%22700%22%20font-size%3D%2238%22%20letter-spacing%3D%2210%22%3E0%201%202%203%204%205%206%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22400%22%20y%3D%22410%22%20text-anchor%3D%22middle%22%20fill%3D%22%230f172a%22%20font-family%3D%22monospace%22%20font-weight%3D%22700%22%20font-size%3D%2238%22%20letter-spacing%3D%2210%22%3E7%208%209%20%E2%91%A9%2011%2012%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22400%22%20y%3D%22490%22%20text-anchor%3D%22middle%22%20fill%3D%22%230f172a%22%20font-family%3D%22monospace%22%20font-weight%3D%22700%22%20font-size%3D%2238%22%20letter-spacing%3D%228%22%3E13%2014%2015%2016%2017%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%22400%22%20y%3D%22560%22%20text-anchor%3D%22middle%22%20fill%3D%22%230f172a%22%20font-family%3D%22monospace%22%20font-weight%3D%22700%22%20font-size%3D%2238%22%20letter-spacing%3D%228%22%3E18%2019%2020%2021%2022%2023%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+        "revealedImageUrl": "/logos/fash-margiela.png"
       },
       {
         "id": "fash-dolce",
@@ -14165,7 +14167,8 @@ export const DEFAULT_CATEGORIES = [
           "d&g",
           "dolce i gabbana"
         ],
-        "imageUrl": "/logos/fash-dolce.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%3Ctext%20x%3D%22400%22%20y%3D%22485%22%20text-anchor%3D%22middle%22%20fill%3D%22%23111111%22%20font-family%3D%22Georgia%2C%20Times%20New%20Roman%2C%20serif%22%20font-weight%3D%22700%22%20font-size%3D%22250%22%20letter-spacing%3D%22-10%22%3ED%26amp%3BG%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+        "revealedImageUrl": "/logos/fash-dolce.png"
       },
       {
         "id": "fash-mcqueen",
@@ -14281,7 +14284,8 @@ export const DEFAULT_CATEGORIES = [
           "calvin klein",
           "ck"
         ],
-        "imageUrl": "/logos/fash-calvinklein.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%3Ctext%20x%3D%22400%22%20y%3D%22495%22%20text-anchor%3D%22middle%22%20fill%3D%22%23111111%22%20font-family%3D%22Helvetica%20Neue%2C%20Arial%2C%20sans-serif%22%20font-weight%3D%22300%22%20font-size%3D%22340%22%20letter-spacing%3D%22-22%22%3EcK%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+        "revealedImageUrl": "/logos/fash-calvinklein.png"
       },
       {
         "id": "fash-tommy",
@@ -14290,7 +14294,8 @@ export const DEFAULT_CATEGORIES = [
           "tommy hilfiger",
           "tommy"
         ],
-        "imageUrl": "/logos/fash-tommy.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%3Crect%20x%3D%22140%22%20y%3D%22240%22%20width%3D%22520%22%20height%3D%22320%22%20fill%3D%22%2300174f%22%2F%3E%0A%20%20%3Crect%20x%3D%22140%22%20y%3D%22295%22%20width%3D%22260%22%20height%3D%22210%22%20fill%3D%22%23ffffff%22%2F%3E%0A%20%20%3Crect%20x%3D%22400%22%20y%3D%22295%22%20width%3D%22260%22%20height%3D%22210%22%20fill%3D%22%23cc0c2f%22%2F%3E%0A%3C%2Fsvg%3E",
+        "revealedImageUrl": "/logos/fash-tommy.png"
       },
       {
         "id": "fash-965b11a4",
