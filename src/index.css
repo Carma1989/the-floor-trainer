@@ -542,5 +542,13 @@ input, textarea, select {
 .hover\:bg-emerald-400:hover { background-color: #34d399; }
 .hover\:bg-rose-500:hover { background-color: #f43f5e; }
 .disabled\:opacity-40:disabled { opacity: 0.4; }
+.disabled\:opacity-60:disabled { opacity: 0.6; }
+.w-\[240px\] { width: 240px; }
+.h-\[240px\] { height: 240px; }
+@media (min-width: 640px) {
+  .sm\:w-\[270px\] { width: 270px; }
+  .sm\:h-\[270px\] { height: 270px; }
+}
+.hover\:bg-slate-800:hover { background-color: #1e293b; }
 .stroke-\[3\] { stroke-width: 3; }
 .opacity-60 { opacity: 0.6; }

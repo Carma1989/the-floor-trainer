@@ -1,30 +1,25 @@
 import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
-import { Play, RotateCcw, Check, SkipForward, Mic, Keyboard, Hand, Eye, EyeOff, Trophy, Swords } from 'lucide-react';
+import { Play, RotateCcw, SkipForward, Trophy, Swords } from 'lucide-react';
 import { SmartImage } from './SmartImage';
-import { checkAnswerMatch } from '../data/categories';
 import { sound } from '../utils/audio';
 import { resolveAssetUrl } from '../utils/assets';
-import { useSpeechRecognition } from '../utils/speech';
 
 const INITIAL_TIME = 45.0;
 const PASS_PENALTY_SECONDS = 3.0;
+const OPTION_LABELS = ['A', 'B', 'C'];
 
 export function MobileDuel2P({ categories, selectedCategory, onSelectCategory }) {
   const [phase, setPhase] = useState('setup'); // 'setup' | 'playing' | 'finished'
   const [p1Name, setP1Name] = useState('Gracz 1');
   const [p2Name, setP2Name] = useState('Gracz 2');
-  const [answerMode, setAnswerMode] = useState('buttons'); // 'buttons' | 'voice' | 'keyboard'
-  const [textInput, setTextInput] = useState('');
-  const [judgePeek, setJudgePeek] = useState(false);
-
-  const inputRef = useRef(null);
 
   const [items, setItems] = useState([]);
   const [cardIndex, setCardIndex] = useState(0);
   const [activePlayer, setActivePlayer] = useState(1); // 1 | 2
   const [p1Time, setP1Time] = useState(INITIAL_TIME);
   const [p2Time, setP2Time] = useState(INITIAL_TIME);
-  const [passRemaining, setPassRemaining] = useState(0); // >0 during 3s pass penalty
+  const [passRemaining, setPassRemaining] = useState(0);
+  const [pickedWrongId, setPickedWrongId] = useState(null);
   const [p1Score, setP1Score] = useState(0);
   const [p2Score, setP2Score] = useState(0);
   const [p1Passes, setP1Passes] = useState(0);
@@ -42,7 +37,7 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
     if (selectedCategory === 'all') {
       categories.forEach(c => {
         (c.items || []).forEach(it => {
-          pool.push({ ...it, categoryName: c.name, categoryEmoji: c.emoji });
+          pool.push({ ...it, categoryId: c.id, categoryName: c.name, categoryEmoji: c.emoji });
         });
       });
     } else {
@@ -50,6 +45,7 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
       if (match) {
         pool = (match.items || []).map(it => ({
           ...it,
+          categoryId: match.id,
           categoryName: match.name,
           categoryEmoji: match.emoji,
         }));
@@ -67,20 +63,30 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
     setP1Time(INITIAL_TIME);
     setP2Time(INITIAL_TIME);
     setPassRemaining(0);
+    setPickedWrongId(null);
     setP1Score(0);
     setP2Score(0);
     setP1Passes(0);
     setP2Passes(0);
     setWinner(null);
-    setTextInput('');
     lastTickRef.current = Date.now();
     setPhase('playing');
-    if (answerMode === 'keyboard') {
-      setTimeout(() => inputRef.current?.focus(), 80);
-    }
-  }, [buildDeck, answerMode]);
+  }, [buildDeck]);
 
   const currentItem = items[cardIndex] || null;
+
+  // Build 3 choices (A, B, C) from the same category as currentItem
+  const choices = useMemo(() => {
+    if (!currentItem) return [];
+    const sameCat = categories.find(c => c.id === currentItem.categoryId)?.items || [];
+    const pool = sameCat.length >= 3 ? sameCat : items;
+    const distractors = pool
+      .filter(it => it.name.toLowerCase() !== currentItem.name.toLowerCase())
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 2);
+
+    return [currentItem, ...distractors].sort(() => Math.random() - 0.5);
+  }, [currentItem, categories, items]);
 
   // Preload next 2 cards
   useEffect(() => {
@@ -96,30 +102,14 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
   }, [phase, items, cardIndex]);
 
   const advanceCard = useCallback(() => {
-    setTextInput('');
+    setPickedWrongId(null);
     setCardIndex(prev => (prev + 1 >= items.length ? 0 : prev + 1));
-    if (answerMode === 'keyboard') {
-      setTimeout(() => inputRef.current?.focus(), 40);
-    }
-  }, [items.length, answerMode]);
+  }, [items.length]);
 
-  const handleCorrect = useCallback(() => {
-    if (phase !== 'playing' || passRemaining > 0) return;
-    sound.playCorrect();
-    if (activePlayer === 1) {
-      setP1Score(s => s + 1);
-      setActivePlayer(2);
-    } else {
-      setP2Score(s => s + 1);
-      setActivePlayer(1);
-    }
-    lastTickRef.current = Date.now();
-    advanceCard();
-  }, [phase, passRemaining, activePlayer, advanceCard]);
-
-  const handlePass = useCallback(() => {
+  const triggerPenaltyPass = useCallback((wrongId = null) => {
     if (phase !== 'playing' || passRemaining > 0) return;
     sound.playPass();
+    setPickedWrongId(wrongId);
     if (activePlayer === 1) {
       setP1Passes(p => p + 1);
     } else {
@@ -127,6 +117,25 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
     }
     setPassRemaining(PASS_PENALTY_SECONDS);
   }, [phase, passRemaining, activePlayer]);
+
+  const handleSelectOption = useCallback((option) => {
+    if (phase !== 'playing' || passRemaining > 0 || !currentItem) return;
+    const isCorrect = option.name.toLowerCase() === currentItem.name.toLowerCase();
+    if (isCorrect) {
+      sound.playCorrect();
+      if (activePlayer === 1) {
+        setP1Score(s => s + 1);
+        setActivePlayer(2);
+      } else {
+        setP2Score(s => s + 1);
+        setActivePlayer(1);
+      }
+      lastTickRef.current = Date.now();
+      advanceCard();
+    } else {
+      triggerPenaltyPass(option.id || option.name);
+    }
+  }, [phase, passRemaining, currentItem, activePlayer, advanceCard, triggerPenaltyPass]);
 
   // High-accuracy delta timer (50ms intervals using Date.now)
   useEffect(() => {
@@ -177,13 +186,6 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
     return () => clearInterval(interval);
   }, [phase, activePlayer, advanceCard]);
 
-  const { isSupported: speechSupported, isListening, transcript } = useSpeechRecognition({
-    active: phase === 'playing' && answerMode === 'voice' && passRemaining === 0,
-    currentItem,
-    onCorrect: handleCorrect,
-    onPass: handlePass,
-  });
-
   if (phase === 'setup') {
     const selectedObj = selectedCategory === 'all' ? null : categories.find(c => c.id === selectedCategory);
     const totalCards = selectedCategory === 'all'
@@ -192,13 +194,13 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
 
     return (
       <div className="flex flex-col h-full min-h-0 justify-between gap-3 overflow-y-auto px-1 pb-2 scrollbar-none">
-        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 flex flex-col gap-3">
+        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-4 flex flex-col gap-2">
           <div className="flex items-center gap-2">
             <Swords className="w-5 h-5 text-amber-400" />
-            <h2 className="text-base font-black uppercase tracking-wider text-white">Pojedynek 1 vs 1 (TV)</h2>
+            <h2 className="text-base font-black uppercase tracking-wider text-white">Pojedynek 1 vs 1 (A / B / C)</h2>
           </div>
           <p className="text-xs text-slate-400 leading-relaxed">
-            Każdy gracz ma <strong className="text-white">45 s</strong>. Poprawna odpowiedź zatrzymuje Twój zegar i oddaje turę przeciwnikowi. <strong className="text-rose-400">PAS</strong> to 3 s kary na Twoim zegarze i kolejna karta dla Ciebie.
+            Każdy gracz ma <strong className="text-white">45 s</strong>. Wybierasz odpowiedź <strong className="text-white">A, B lub C</strong> — poprawna zatrzymuje Twój zegar i oddaje turę. Błędna odpowiedź lub <strong className="text-rose-400">PAS</strong> to 3 s kary na Twoim zegarze i kolejna karta dla Ciebie.
           </p>
         </div>
 
@@ -245,59 +247,6 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
           </div>
         </div>
 
-        {/* 3 Answer Modes */}
-        <div className="bg-slate-900 border border-slate-800 rounded-2xl p-3 flex flex-col gap-2">
-          <span className="text-[11px] font-black uppercase tracking-wider text-slate-400">
-            Sposób podawania odpowiedzi (3 opcje)
-          </span>
-          <div className="grid grid-cols-3 gap-2">
-            <button
-              type="button"
-              onClick={() => setAnswerMode('buttons')}
-              className={`p-2.5 rounded-xl border flex flex-col items-center justify-center gap-1 text-center transition-all cursor-pointer ${
-                answerMode === 'buttons'
-                  ? 'bg-amber-400/15 border-amber-400 text-amber-300'
-                  : 'bg-slate-950 border-slate-800 text-slate-400'
-              }`}
-            >
-              <Hand className="w-4 h-4" />
-              <span className="text-[11px] font-black">Przyciski</span>
-            </button>
-
-            <button
-              type="button"
-              disabled={!speechSupported}
-              onClick={() => setAnswerMode('voice')}
-              className={`p-2.5 rounded-xl border flex flex-col items-center justify-center gap-1 text-center transition-all cursor-pointer disabled:opacity-40 ${
-                answerMode === 'voice'
-                  ? 'bg-emerald-500/20 border-emerald-500 text-emerald-300'
-                  : 'bg-slate-950 border-slate-800 text-slate-400'
-              }`}
-            >
-              <Mic className="w-4 h-4" />
-              <span className="text-[11px] font-black">Głosowo</span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setAnswerMode('keyboard')}
-              className={`p-2.5 rounded-xl border flex flex-col items-center justify-center gap-1 text-center transition-all cursor-pointer ${
-                answerMode === 'keyboard'
-                  ? 'bg-indigo-600/25 border-indigo-400 text-indigo-300'
-                  : 'bg-slate-950 border-slate-800 text-slate-400'
-              }`}
-            >
-              <Keyboard className="w-4 h-4" />
-              <span className="text-[11px] font-black">Pisanie</span>
-            </button>
-          </div>
-          <p className="text-[11px] text-slate-400">
-            {answerMode === 'buttons' && 'Gracze mówią na głos, a przyciski ZALICZ / PAS sterują zegarem.'}
-            {answerMode === 'voice' && (speechSupported ? 'Mikrofon (pl-PL) rozpoznaje hasło lub „pas”; przyciski nadal działają.' : 'Przeglądarka nie wspiera mikrofonu.')}
-            {answerMode === 'keyboard' && 'Aktywny gracz wpisuje hasło na klawiaturze; poprawne zalicza się automatycznie.'}
-          </p>
-        </div>
-
         <button
           onClick={startDuel}
           className="w-full py-4 rounded-2xl bg-amber-400 hover:bg-amber-300 active:scale-95 text-slate-950 font-black text-lg tracking-wider shadow-lg flex items-center justify-center gap-2 cursor-pointer transition-all shrink-0"
@@ -330,12 +279,12 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
             <div className="bg-slate-950 border border-slate-800 rounded-2xl p-3">
               <div className="text-xs font-bold text-amber-400 truncate">{p1Name || 'Gracz 1'}</div>
               <div className="text-xl font-black text-white mt-1">{p1Score} pkt</div>
-              <div className="text-[11px] text-slate-400">Pas: {p1Passes}</div>
+              <div className="text-[11px] text-slate-400">Pas/błąd: {p1Passes}</div>
             </div>
             <div className="bg-slate-950 border border-slate-800 rounded-2xl p-3">
               <div className="text-xs font-bold text-indigo-400 truncate">{p2Name || 'Gracz 2'}</div>
               <div className="text-xl font-black text-white mt-1">{p2Score} pkt</div>
-              <div className="text-[11px] text-slate-400">Pas: {p2Passes}</div>
+              <div className="text-[11px] text-slate-400">Pas/błąd: {p2Passes}</div>
             </div>
           </div>
         </div>
@@ -359,14 +308,14 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
     );
   }
 
-  // PLAYING PHASE
+  // PLAYING PHASE (A / B / C)
   const isPassing = passRemaining > 0;
 
   return (
-    <div className="flex flex-col h-full min-h-0 justify-between pb-1 gap-2">
-      {/* Dual Clocks (like TV) */}
+    <div className="flex flex-col h-full min-h-0 justify-between pb-1 gap-1.5">
+      {/* Dual Clocks */}
       <div className="grid grid-cols-2 gap-2 px-1 shrink-0">
-        <div className={`rounded-2xl p-2.5 border transition-all ${
+        <div className={`rounded-2xl p-2 border transition-all ${
           activePlayer === 1
             ? 'bg-amber-400/15 border-amber-400 shadow-md'
             : 'bg-slate-900 border-slate-800 opacity-60'
@@ -375,12 +324,12 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
             <span className="text-[11px] font-black uppercase truncate text-amber-300">{p1Name || 'Gracz 1'}</span>
             <span className="text-[10px] font-mono text-slate-400">{p1Score} pkt</span>
           </div>
-          <div className={`text-2xl font-mono font-black mt-0.5 ${p1Time <= 10 && activePlayer === 1 ? 'text-rose-400' : 'text-white'}`}>
+          <div className={`text-xl font-mono font-black ${p1Time <= 10 && activePlayer === 1 ? 'text-rose-400' : 'text-white'}`}>
             {p1Time.toFixed(1)}s
           </div>
         </div>
 
-        <div className={`rounded-2xl p-2.5 border transition-all ${
+        <div className={`rounded-2xl p-2 border transition-all ${
           activePlayer === 2
             ? 'bg-indigo-600/25 border-indigo-400 shadow-md'
             : 'bg-slate-900 border-slate-800 opacity-60'
@@ -389,53 +338,34 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
             <span className="text-[11px] font-black uppercase truncate text-indigo-300">{p2Name || 'Gracz 2'}</span>
             <span className="text-[10px] font-mono text-slate-400">{p2Score} pkt</span>
           </div>
-          <div className={`text-2xl font-mono font-black mt-0.5 ${p2Time <= 10 && activePlayer === 2 ? 'text-rose-400' : 'text-white'}`}>
+          <div className={`text-xl font-mono font-black ${p2Time <= 10 && activePlayer === 2 ? 'text-rose-400' : 'text-white'}`}>
             {p2Time.toFixed(1)}s
           </div>
         </div>
       </div>
 
-      {/* Category + Judge peek + Mic status */}
+      {/* Category + Stop */}
       <div className="flex items-center justify-between gap-2 px-2 shrink-0">
         {currentItem?.categoryName ? (
-          <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-slate-900 border border-slate-800 text-[11px] font-bold text-slate-300 truncate min-w-0">
+          <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full bg-slate-900 border border-slate-800 text-[11px] font-bold text-slate-300 truncate min-w-0">
             <span>{currentItem.categoryEmoji}</span>
             <span className="truncate">{currentItem.categoryName}</span>
           </span>
         ) : <span />}
 
-        <div className="flex items-center gap-1.5 shrink-0">
-          {answerMode === 'voice' && (
-            <span className={`px-2 py-1 rounded-lg text-[10px] font-black border ${
-              isListening ? 'bg-emerald-500/20 border-emerald-500 text-emerald-300' : 'bg-slate-900 border-slate-800 text-slate-400'
-            }`}>
-              {isListening ? 'MIC ON' : 'MIC'}
-            </span>
-          )}
-          <button
-            type="button"
-            onClick={() => setJudgePeek(v => !v)}
-            className={`p-1.5 rounded-lg border text-xs ${
-              judgePeek ? 'bg-indigo-600 border-indigo-500 text-white' : 'bg-slate-900 border-slate-800 text-slate-400'
-            }`}
-            title="Podgląd hasła dla sędziego"
-          >
-            {judgePeek ? <Eye className="w-3.5 h-3.5" /> : <EyeOff className="w-3.5 h-3.5" />}
-          </button>
-          <button
-            type="button"
-            onClick={() => setPhase('setup')}
-            className="px-2 py-1 rounded-lg bg-slate-900 border border-slate-800 text-[10px] font-bold text-slate-400"
-          >
-            Stop
-          </button>
-        </div>
+        <button
+          type="button"
+          onClick={() => setPhase('setup')}
+          className="px-2.5 py-0.5 rounded-lg bg-slate-900 border border-slate-800 text-[10px] font-bold text-slate-400 shrink-0"
+        >
+          Stop
+        </button>
       </div>
 
-      {/* Card Image */}
+      {/* Card Image (compact enough so A/B/C + PAS fit comfortably on iPhone without scrolling) */}
       {currentItem && (
         <div className="flex-1 min-h-0 flex items-center justify-center px-2">
-          <div className={`relative w-[280px] h-[280px] sm:w-[310px] sm:h-[310px] shrink-0 p-1.5 rounded-3xl transition-all ${
+          <div className={`relative w-[240px] h-[240px] sm:w-[270px] sm:h-[270px] shrink-0 p-1 rounded-3xl transition-all ${
             isPassing ? 'ring-4 ring-rose-500' : activePlayer === 1 ? 'ring-4 ring-amber-400/80' : 'ring-4 ring-indigo-500'
           }`}>
             <SmartImage
@@ -448,79 +378,48 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
         </div>
       )}
 
-      {/* Status / Pass penalty / Judge Peek */}
-      <div className="mx-2 min-h-[54px] shrink-0 bg-slate-900 border border-slate-800 rounded-2xl px-3 py-1.5 flex flex-col items-center justify-center text-center">
-        {isPassing ? (
-          <>
-            <span className="text-[11px] font-black uppercase tracking-wider text-rose-400">
-              KARA PAS: {passRemaining.toFixed(1)}s
-            </span>
-            <span className="text-base font-black text-white leading-tight truncate max-w-full">
-              {currentItem?.name}
-            </span>
-          </>
-        ) : judgePeek && currentItem ? (
-          <span className="text-xs font-bold text-indigo-300 truncate max-w-full">
-            Sędzia: {currentItem.name}
-          </span>
-        ) : answerMode === 'voice' && transcript ? (
-          <span className="text-[11px] text-slate-400 truncate max-w-full">
-            Słyszę: „{transcript}”
-          </span>
-        ) : (
-          <span className="text-xs font-black uppercase tracking-wider text-slate-400">
-            Tura: {activePlayer === 1 ? (p1Name || 'Gracz 1') : (p2Name || 'Gracz 2')}
-          </span>
-        )}
-      </div>
+      {/* A / B / C Answer Buttons */}
+      <div className="flex flex-col gap-1.5 px-2 shrink-0">
+        {choices.map((opt, idx) => {
+          const isCorrectOpt = currentItem && opt.name.toLowerCase() === currentItem.name.toLowerCase();
+          const isPickedWrong = isPassing && pickedWrongId && (opt.id === pickedWrongId || opt.name === pickedWrongId);
 
-      {/* Keyboard input when answerMode === 'keyboard' */}
-      {answerMode === 'keyboard' && (
-        <div className="px-2 shrink-0">
-          <input
-            ref={inputRef}
-            type="text"
-            disabled={isPassing}
-            value={textInput}
-            onChange={(e) => {
-              const val = e.target.value;
-              setTextInput(val);
-              if (currentItem && checkAnswerMatch(val, currentItem)) {
-                handleCorrect();
-              }
-            }}
-            onKeyDown={(e) => {
-              if (e.key === 'Enter' && textInput.trim().toLowerCase() === 'pas') {
-                e.preventDefault();
-                handlePass();
-              }
-            }}
-            placeholder="Wpisz odpowiedź..."
-            className="w-full px-4 py-2.5 rounded-xl bg-slate-900 border-2 border-indigo-500 text-white text-center font-bold outline-none disabled:opacity-40"
-          />
-        </div>
-      )}
+          let btnStyle = 'bg-slate-900 border-slate-800 text-white hover:bg-slate-800';
+          if (isPassing) {
+            if (isCorrectOpt) {
+              btnStyle = 'bg-emerald-500/20 border-emerald-500 text-emerald-300';
+            } else if (isPickedWrong) {
+              btnStyle = 'bg-rose-500/20 border-rose-500 text-rose-300';
+            } else {
+              btnStyle = 'bg-slate-900 border-slate-800 text-slate-500 opacity-60';
+            }
+          }
 
-      {/* Action Buttons: ZALICZ / PAS */}
-      <div className="grid grid-cols-2 gap-2.5 px-2 shrink-0">
+          return (
+            <button
+              key={`${opt.id || opt.name}-${idx}`}
+              type="button"
+              disabled={isPassing}
+              onClick={() => handleSelectOption(opt)}
+              className={`w-full px-3 py-2.5 rounded-xl border text-left flex items-center gap-2.5 transition-all active:scale-[0.99] cursor-pointer ${btnStyle}`}
+            >
+              <span className="w-7 h-7 rounded-lg bg-slate-950 border border-slate-800 flex items-center justify-center text-xs font-black text-amber-400 shrink-0">
+                {OPTION_LABELS[idx]}
+              </span>
+              <span className="text-sm font-bold truncate">{opt.name}</span>
+            </button>
+          );
+        })}
+
+        {/* PAS (3s) button */}
         <button
           type="button"
           disabled={isPassing}
-          onClick={handlePass}
-          className="py-4 rounded-2xl bg-rose-600 hover:bg-rose-500 active:scale-95 disabled:opacity-40 text-white font-black text-base tracking-wider shadow-lg flex items-center justify-center gap-1.5 cursor-pointer transition-all"
+          onClick={() => triggerPenaltyPass(null)}
+          className="w-full py-2.5 rounded-xl bg-rose-600 hover:bg-rose-500 active:scale-95 disabled:opacity-60 text-white font-black text-sm tracking-wider shadow-md flex items-center justify-center gap-1.5 cursor-pointer transition-all"
         >
-          <SkipForward className="w-5 h-5" />
-          <span>{isPassing ? `${passRemaining.toFixed(1)}s` : 'PAS (3s)'}</span>
-        </button>
-
-        <button
-          type="button"
-          disabled={isPassing}
-          onClick={handleCorrect}
-          className="py-4 rounded-2xl bg-emerald-500 hover:bg-emerald-400 active:scale-95 disabled:opacity-40 text-slate-950 font-black text-base tracking-wider shadow-lg flex items-center justify-center gap-1.5 cursor-pointer transition-all"
-        >
-          <Check className="w-5 h-5 stroke-[3]" />
-          <span>ZALICZ</span>
+          <SkipForward className="w-4 h-4" />
+          <span>{isPassing ? `KARA PAS: ${passRemaining.toFixed(1)}s` : 'PAS (3s)'}</span>
         </button>
       </div>
     </div>
