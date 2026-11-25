@@ -1470,6 +1470,88 @@ export const DEFAULT_CATEGORIES = [
           "dog niemiecki"
         ],
         "imageUrl": "/media/3c73c7cb7c1b.jpg"
+      },
+      {
+        "id": "dog_-bd0e0afd",
+        "name": "Owczarek niemiecki",
+        "aliases": [
+          "owczarek"
+        ],
+        "imageUrl": "/media/5e57f7763002.jpg"
+      },
+      {
+        "id": "dog_-e799e2d4",
+        "name": "Alaskan Malamute",
+        "aliases": [
+          "malamute"
+        ],
+        "imageUrl": "/media/a4777756e489.jpg"
+      },
+      {
+        "id": "dog_-adcec106",
+        "name": "Pomeranian (Szpic miniaturowy)",
+        "aliases": [
+          "pomeranian",
+          "szpic"
+        ],
+        "imageUrl": "/media/71fe62259e69.jpg"
+      },
+      {
+        "id": "dog_-4ab02eb4",
+        "name": "Chihuahua",
+        "aliases": [],
+        "imageUrl": "/media/a3ef585933f6.jpg"
+      },
+      {
+        "id": "dog_-ca5229d3",
+        "name": "Basset Hound",
+        "aliases": [
+          "basset"
+        ],
+        "imageUrl": "/media/d79542774c79.jpg"
+      },
+      {
+        "id": "dog_-e88ae7f1",
+        "name": "Bichon Frise",
+        "aliases": [],
+        "imageUrl": "/media/e7e136d012af.jpg"
+      },
+      {
+        "id": "dog_-0c4ee25f",
+        "name": "Welsh Corgi Pembroke",
+        "aliases": [
+          "corgi"
+        ],
+        "imageUrl": "/media/82aa99e19bbe.jpg"
+      },
+      {
+        "id": "dog_-5ccea665",
+        "name": "Chart angielski (Greyhound)",
+        "aliases": [
+          "greyhound",
+          "chart"
+        ],
+        "imageUrl": "/media/93391c4b4740.jpg"
+      },
+      {
+        "id": "dog_-a0de6ece",
+        "name": "Mastif tybetański",
+        "aliases": [],
+        "imageUrl": "/media/9e05b024fbbe.jpg"
+      },
+      {
+        "id": "dog_-bc157795",
+        "name": "Cocker Spaniel angielski",
+        "aliases": [
+          "cocker spaniel"
+        ],
+        "imageUrl": "/media/906c55cf8dd8.jpg"
+      },
+      {
+        "id": "dog_-bf5ded75",
+        "name": "Basenji",
+        "aliases": [],
+        "imageUrl": "/media/0aa96e265ae9.jpg"
       }
     ]
   },
@@ -1634,6 +1716,134 @@ export const DEFAULT_CATEGORIES = [
           "orientalny"
         ],
         "imageUrl": "/media/44106b7255e8.jpg"
+      },
+      {
+        "id": "cat_-f51c2dfc",
+        "name": "Maine Coon",
+        "aliases": [],
+        "imageUrl": "/media/2cbc902749a1.jpg"
+      },
+      {
+        "id": "cat_-d5a3b404",
+        "name": "Kot birmański",
+        "aliases": [
+          "birman"
+        ],
+        "imageUrl": "/media/f7cf338bfde9.jpg"
+      },
+      {
+        "id": "cat_-b7a6dad5",
+        "name": "Kot burmski",
+        "aliases": [],
+        "imageUrl": "/media/dedf3491c89a.jpg"
+      },
+      {
+        "id": "cat_-f2fb311a",
+        "name": "Kot somalijski",
+        "aliases": [],
+        "imageUrl": "/media/2307406b9eb8.jpg"
+      },
+      {
+        "id": "cat_-d543efdb",
+        "name": "Kot tonkijski",
+        "aliases": [],
+        "imageUrl": "/media/1b4a672b533f.jpg"
+      },
+      {
+        "id": "cat_-0373b87c",
+        "name": "Kot balijski",
+        "aliases": [],
+        "imageUrl": "/media/b963ad494dce.png"
+      },
+      {
+        "id": "cat_-ec09e66b",
+        "name": "Kot egzotyczny krótkowłosy",
+        "aliases": [],
+        "imageUrl": "/media/3dcb1c260475.jpg"
+      },
+      {
+        "id": "cat_-22136a82",
+        "name": "Kot manx",
+        "aliases": [
+          "manx"
+        ],
+        "imageUrl": "/media/7c4632bb79ae.jpg"
+      },
+      {
+        "id": "cat_-f9039933",
+        "name": "Kot singapurski",
+        "aliases": [],
+        "imageUrl": "/media/ad3df053c718.jpg"
+      },
+      {
+        "id": "cat_-2bd1aaf8",
+        "name": "Ocicat",
+        "aliases": [],
+        "imageUrl": "/media/4c5d2cc5b758.jpg"
+      },
+      {
+        "id": "cat_-50613419",
+        "name": "Kot savannah",
+        "aliases": [
+          "savannah"
+        ],
+        "imageUrl": "/media/5bbbc72c213c.jpg"
+      },
+      {
+        "id": "cat_-c7e92699",
+        "name": "Chartreux (Kot kartuski)",
+        "aliases": [
+          "chartreux"
+        ],
+        "imageUrl": "/media/4d5038c6ff96.jpg"
+      },
+      {
+        "id": "cat_-05ebfd8b",
+        "name": "Japoński bobtail",
+        "aliases": [],
+        "imageUrl": "/media/8053253942de.jpg"
+      },
+      {
+        "id": "cat_-768535e4",
+        "name": "Selkirk Rex",
+        "aliases": [],
+        "imageUrl": "/media/442833e74b7a.jpg"
+      },
+      {
+        "id": "cat_-7f2828f3",
+        "name": "LaPerm",
+        "aliases": [],
+        "imageUrl": "/media/74aeece9444f.jpg"
+      },
+      {
+        "id": "cat_-3698ea19",
+        "name": "Kot amerykański krótkowłosy",
+        "aliases": [],
+        "imageUrl": "/media/dad1bbec60ed.jpg"
+      },
+      {
+        "id": "cat_-b9f344a5",
+        "name": "American Curl",
+        "aliases": [],
+        "imageUrl": "/media/8799d40a8f68.jpg"
+      },
+      {
+        "id": "cat_-b6454967",
+        "name": "Korat",
+        "aliases": [],
+        "imageUrl": "/media/2b140b96ec94.jpg"
+      },
+      {
+        "id": "cat_-b6650434",
+        "name": "Nebelung",
+        "aliases": [],
+        "imageUrl": "/media/f935ba955b82.jpg"
+      },
+      {
+        "id": "cat_-200678da",
+        "name": "Kot himalajski",
+        "aliases": [],
+        "imageUrl": "/media/462695ff0d5f.jpg"
       }
     ]
   },
@@ -1873,6 +2083,78 @@ export const DEFAULT_CATEGORIES = [
           "tamburyn"
         ],
         "imageUrl": "/media/90d5c5cd58fd.jpg"
+      },
+      {
+        "id": "musi-cf0fdb79",
+        "name": "Marimba",
+        "aliases": [],
+        "imageUrl": "/media/590cbf94c791.jpg"
+      },
+      {
+        "id": "musi-650702ad",
+        "name": "Wibrafon",
+        "aliases": [],
+        "imageUrl": "/media/0553ffb61c5b.jpg"
+      },
+      {
+        "id": "musi-fcde7614",
+        "name": "Djembe",
+        "aliases": [],
+        "imageUrl": "/media/dedef79f7fb0.jpg"
+      },
+      {
+        "id": "musi-d36ad994",
+        "name": "Bongosy",
+        "aliases": [],
+        "imageUrl": "/media/1b2731b99204.jpg"
+      },
+      {
+        "id": "musi-7f3d64be",
+        "name": "Kastaniety",
+        "aliases": [],
+        "imageUrl": "/media/9d38d061dec0.jpg"
+      },
+      {
+        "id": "musi-5c343772",
+        "name": "Trójkąt",
+        "aliases": [],
+        "imageUrl": "/media/3779954f3323.jpg"
+      },
+      {
+        "id": "musi-c76d331a",
+        "name": "Gong",
+        "aliases": [],
+        "imageUrl": "/media/06a96197c4aa.jpg"
+      },
+      {
+        "id": "musi-9dd88193",
+        "name": "Okaryna",
+        "aliases": [],
+        "imageUrl": "/media/379f0a62dae6.jpg"
+      },
+      {
+        "id": "musi-b924de77",
+        "name": "Bałałajka",
+        "aliases": [],
+        "imageUrl": "/media/571d1860affa.png"
+      },
+      {
+        "id": "musi-a3c86417",
+        "name": "Cymbały",
+        "aliases": [],
+        "imageUrl": "/media/9975e5b3c191.jpg"
+      },
+      {
+        "id": "musi-af1bb7b5",
+        "name": "Bandoneon",
+        "aliases": [],
+        "imageUrl": "/media/5795c74d7c75.jpg"
+      },
+      {
+        "id": "musi-9185b524",
+        "name": "Theremin",
+        "aliases": [],
+        "imageUrl": "/media/9138ea7c17e7.jpg"
       }
     ]
   },
@@ -2117,6 +2399,88 @@ export const DEFAULT_CATEGORIES = [
           "kiwi"
         ],
         "imageUrl": "/media/a74d91e19685.jpg"
+      },
+      {
+        "id": "bird-e4b1ca94",
+        "name": "Albatros",
+        "aliases": [],
+        "imageUrl": "/media/d78733967f94.jpg"
+      },
+      {
+        "id": "bird-ae03df5c",
+        "name": "Puchacz",
+        "aliases": [
+          "sowa"
+        ],
+        "imageUrl": "/media/8018b535e75a.jpg"
+      },
+      {
+        "id": "bird-3edd7c6a",
+        "name": "Płomykówka",
+        "aliases": [],
+        "imageUrl": "/media/9be40cee193f.jpg"
+      },
+      {
+        "id": "bird-019d5c81",
+        "name": "Sowa śnieżna",
+        "aliases": [],
+        "imageUrl": "/media/ad1096076da4.jpg"
+      },
+      {
+        "id": "bird-ddb161a5",
+        "name": "Gawron",
+        "aliases": [],
+        "imageUrl": "/media/6396d464e253.jpg"
+      },
+      {
+        "id": "bird-59fb7500",
+        "name": "Kawka",
+        "aliases": [],
+        "imageUrl": "/media/a02e4d35d267.jpg"
+      },
+      {
+        "id": "bird-9e8ad02e",
+        "name": "Szpak",
+        "aliases": [],
+        "imageUrl": "/media/d8d9032aab75.jpg"
+      },
+      {
+        "id": "bird-5c64dbd0",
+        "name": "Kos",
+        "aliases": [],
+        "imageUrl": "/media/b0b3f54a3a77.jpg"
+      },
+      {
+        "id": "bird-b7f2cedb",
+        "name": "Skowronek",
+        "aliases": [],
+        "imageUrl": "/media/fd93f91c64d9.jpg"
+      },
+      {
+        "id": "bird-93c4c1ad",
+        "name": "Dudek",
+        "aliases": [],
+        "imageUrl": "/media/8de0918eaa2d.jpg"
+      },
+      {
+        "id": "bird-7f564bfb",
+        "name": "Perkoz dwuczuby",
+        "aliases": [
+          "perkoz"
+        ],
+        "imageUrl": "/media/86f6bf36f818.jpg"
+      },
+      {
+        "id": "bird-a3f22e7f",
+        "name": "Szczygieł",
+        "aliases": [],
+        "imageUrl": "/media/9a386a2d6535.jpg"
+      },
+      {
+        "id": "bird-c13a0fc9",
+        "name": "Rudzik",
+        "aliases": [],
+        "imageUrl": "/media/7d43c46955a8.jpg"
       }
     ]
   },
@@ -2761,6 +3125,214 @@ export const DEFAULT_CATEGORIES = [
           "ribe"
         ],
         "imageUrl": "/media/b936180cd90b.jpg"
+      },
+      {
+        "id": "denm-045ab0f2",
+        "name": "LEGO",
+        "aliases": [
+          "lego"
+        ],
+        "imageUrl": "/media/8ea102877a75.png"
+      },
+      {
+        "id": "denm-b32bb80a",
+        "name": "Legoland Billund",
+        "aliases": [
+          "legoland"
+        ],
+        "imageUrl": "/media/45b6716e4ce5.jpg"
+      },
+      {
+        "id": "denm-2652fca2",
+        "name": "Carlsberg",
+        "aliases": [
+          "piwo carlsberg"
+        ],
+        "imageUrl": "/media/b00cf0fe8a11.png"
+      },
+      {
+        "id": "denm-66b50faa",
+        "name": "Grenlandia",
+        "aliases": [
+          "nuuk"
+        ],
+        "imageUrl": "/media/becbd0c3a37d.png"
+      },
+      {
+        "id": "denm-08bc18be",
+        "name": "Odense",
+        "aliases": [],
+        "imageUrl": "/media/daf32b0270d4.jpg"
+      },
+      {
+        "id": "denm-11326be3",
+        "name": "Aalborg",
+        "aliases": [],
+        "imageUrl": "/media/a5bb61af0ee2.jpg"
+      },
+      {
+        "id": "denm-2281265c",
+        "name": "Christiania (Kopenhaga)",
+        "aliases": [
+          "christiania"
+        ],
+        "imageUrl": "/media/f66f63e8a61d.jpg"
+      },
+      {
+        "id": "denm-81eb8c2a",
+        "name": "Pałac Amalienborg",
+        "aliases": [
+          "amalienborg"
+        ],
+        "imageUrl": "/media/fe09010184b1.jpg"
+      },
+      {
+        "id": "denm-fe55d409",
+        "name": "Zamek Rosenborg",
+        "aliases": [
+          "rosenborg"
+        ],
+        "imageUrl": "/media/52812d8f8049.jpg"
+      },
+      {
+        "id": "denm-bdc8f008",
+        "name": "Kultura rowerowa w Kopenhadze",
+        "aliases": [
+          "rowery kopenhaga"
+        ],
+        "imageUrl": "/media/b3e890f4b0d1.jpg"
+      },
+      {
+        "id": "denm-0b144aca",
+        "name": "Peter Schmeichel",
+        "aliases": [
+          "schmeichel"
+        ],
+        "imageUrl": "/media/e9abe9cc8076.jpg"
+      },
+      {
+        "id": "denm-c9da2827",
+        "name": "Kasper Schmeichel",
+        "aliases": [],
+        "imageUrl": "/media/e1a49aa343d8.jpg"
+      },
+      {
+        "id": "denm-ddee4ddc",
+        "name": "Nikolaj Coster-Waldau",
+        "aliases": [
+          "jaime lannister"
+        ],
+        "imageUrl": "/media/30de8d106586.jpg"
+      },
+      {
+        "id": "denm-6e4d06c0",
+        "name": "Thomas Vinterberg",
+        "aliases": [],
+        "imageUrl": "/media/fdf6672c82cc.jpg"
+      },
+      {
+        "id": "denm-063c4692",
+        "name": "Lukas Graham",
+        "aliases": [],
+        "imageUrl": "/media/e84500725995.jpg"
+      },
+      {
+        "id": "denm-65ccd361",
+        "name": "MØ",
+        "aliases": [
+          "mo"
+        ],
+        "imageUrl": "/media/ba49a8d31f22.jpg"
+      },
+      {
+        "id": "denm-7fe7ff8c",
+        "name": "Most nad Wielkim Bełtem",
+        "aliases": [
+          "storebaelt"
+        ],
+        "imageUrl": "/media/7334d97d2ffe.jpg"
+      },
+      {
+        "id": "denm-a2c1bea1",
+        "name": "Skagen (Grenen)",
+        "aliases": [
+          "grenen"
+        ],
+        "imageUrl": "/media/48e96961d17c.jpg"
+      },
+      {
+        "id": "denm-0d7dc92b",
+        "name": "Kamienie runiczne w Jelling",
+        "aliases": [
+          "jelling"
+        ],
+        "imageUrl": "/media/478ffdc8b3d1.jpg"
+      },
+      {
+        "id": "denm-c765f4c5",
+        "name": "Ole Kirk Christiansen",
+        "aliases": [],
+        "imageUrl": "/media/bfa16f262405.jpg"
+      },
+      {
+        "id": "denm-3f81cfa7",
+        "name": "Karen Blixen",
+        "aliases": [],
+        "imageUrl": "/media/be0613eaaa07.jpg"
+      },
+      {
+        "id": "denm-ce49cd17",
+        "name": "Holger Rune",
+        "aliases": [],
+        "imageUrl": "/media/810b08726318.jpg"
+      },
+      {
+        "id": "denm-4692f2c5",
+        "name": "Mikkel Hansen",
+        "aliases": [],
+        "imageUrl": "/media/e720cfb9779d.jpg"
+      },
+      {
+        "id": "denm-13d8a7b3",
+        "name": "Kevin Magnussen",
+        "aliases": [],
+        "imageUrl": "/media/a3d09ef4268f.jpg"
+      },
+      {
+        "id": "denm-bec05645",
+        "name": "Mette Frederiksen",
+        "aliases": [],
+        "imageUrl": "/media/e18864da8e03.jpg"
+      },
+      {
+        "id": "denm-e20593b3",
+        "name": "Hans Christian Ørsted",
+        "aliases": [
+          "orsted"
+        ],
+        "imageUrl": "/media/7f4baf5ebdba.jpg"
+      },
+      {
+        "id": "denm-2765804b",
+        "name": "Rundetårn (Okrągła Wieża)",
+        "aliases": [
+          "rundetarn"
+        ],
+        "imageUrl": "/media/221d161a7cb2.jpg"
+      },
+      {
+        "id": "denm-972d5dec",
+        "name": "Pałac Christiansborg",
+        "aliases": [
+          "christiansborg"
+        ],
+        "imageUrl": "/media/6ce361d75665.jpg"
+      },
+      {
+        "id": "denm-8161038d",
+        "name": "Opera w Kopenhadze",
+        "aliases": [],
+        "imageUrl": "/media/9c81c5f86dcc.jpg"
       }
     ]
   },
@@ -2982,6 +3554,110 @@ export const DEFAULT_CATEGORIES = [
           "tteokbokki"
         ],
         "imageUrl": "/media/9da860f556f3.jpg"
+      },
+      {
+        "id": "sout-3910b1e0",
+        "name": "Samsung",
+        "aliases": [],
+        "imageUrl": "/media/c64741aa7faa.jpg"
+      },
+      {
+        "id": "sout-fb1939d8",
+        "name": "Hyundai",
+        "aliases": [],
+        "imageUrl": "/media/c6855e5ee7f6.jpg"
+      },
+      {
+        "id": "sout-603b0796",
+        "name": "Kia",
+        "aliases": [],
+        "imageUrl": "/media/112082281b0e.png"
+      },
+      {
+        "id": "sout-3138b8e6",
+        "name": "LG",
+        "aliases": [],
+        "imageUrl": "/media/1078675fafd8.jpg"
+      },
+      {
+        "id": "sout-7afedf25",
+        "name": "Incheon",
+        "aliases": [
+          "lotnisko incheon"
+        ],
+        "imageUrl": "/media/1a43b132f900.jpg"
+      },
+      {
+        "id": "sout-545f9502",
+        "name": "Daegu",
+        "aliases": [],
+        "imageUrl": "/media/402f24d9937b.jpg"
+      },
+      {
+        "id": "sout-55cc83f8",
+        "name": "Lotte World Tower",
+        "aliases": [],
+        "imageUrl": "/media/3e7f1edf1838.jpg"
+      },
+      {
+        "id": "sout-2b7c0b69",
+        "name": "Błękitny Dom (Cheongwadae)",
+        "aliases": [
+          "cheongwadae"
+        ],
+        "imageUrl": "/media/fd4080f1ad9e.png"
+      },
+      {
+        "id": "sout-c83f262c",
+        "name": "Most Banpo",
+        "aliases": [],
+        "imageUrl": "/media/97e4630b8552.jpg"
+      },
+      {
+        "id": "sout-5b4ce7d0",
+        "name": "Jajangmyeon",
+        "aliases": [],
+        "imageUrl": "/media/e4c2f5bff4a4.jpg"
+      },
+      {
+        "id": "sout-d10f2c06",
+        "name": "Samgyeopsal",
+        "aliases": [],
+        "imageUrl": "/media/98ac280c096c.jpg"
+      },
+      {
+        "id": "sout-f6b647bf",
+        "name": "Makgeolli",
+        "aliases": [],
+        "imageUrl": "/media/0fefbb7d5f9a.jpg"
+      },
+      {
+        "id": "sout-c6b621b1",
+        "name": "Park Ji-sung",
+        "aliases": [],
+        "imageUrl": "/media/daf7860dc31d.jpg"
+      },
+      {
+        "id": "sout-199e8058",
+        "name": "Faker (e-sport)",
+        "aliases": [
+          "faker"
+        ],
+        "imageUrl": "/media/0c8be3169bc2.png"
+      },
+      {
+        "id": "sout-b036fff5",
+        "name": "IU (piosenkarka)",
+        "aliases": [
+          "iu"
+        ],
+        "imageUrl": "/media/88b8bd7e9128.png"
+      },
+      {
+        "id": "sout-d0a9f68b",
+        "name": "Twice",
+        "aliases": [],
+        "imageUrl": "/media/9cbc2e7f0775.jpg"
       }
     ]
   },
@@ -7932,6 +8608,122 @@ export const DEFAULT_CATEGORIES = [
           "droga 66"
         ],
         "imageUrl": "/media/98732c0b8d81.png"
+      },
+      {
+        "id": "usa_-6c7a4975",
+        "name": "George Washington",
+        "aliases": [
+          "washington"
+        ],
+        "imageUrl": "/media/f072a0aad7c8.jpg"
+      },
+      {
+        "id": "usa_-2f7cfa60",
+        "name": "Abraham Lincoln",
+        "aliases": [
+          "lincoln"
+        ],
+        "imageUrl": "/media/7d24ea6bd521.jpg"
+      },
+      {
+        "id": "usa_-d82ce596",
+        "name": "John F. Kennedy",
+        "aliases": [
+          "jfk",
+          "kennedy"
+        ],
+        "imageUrl": "/media/ae4042c1cca9.jpg"
+      },
+      {
+        "id": "usa_-5e342767",
+        "name": "Elvis Presley",
+        "aliases": [
+          "elvis"
+        ],
+        "imageUrl": "/media/06e28ec10c90.jpg"
+      },
+      {
+        "id": "usa_-60b70142",
+        "name": "Marilyn Monroe",
+        "aliases": [
+          "monroe"
+        ],
+        "imageUrl": "/media/5f92b53c04fc.jpg"
+      },
+      {
+        "id": "usa_-dfdddfa9",
+        "name": "One World Trade Center",
+        "aliases": [
+          "wtc"
+        ],
+        "imageUrl": "/media/9cb53261097f.png"
+      },
+      {
+        "id": "usa_-852adc19",
+        "name": "Willis Tower",
+        "aliases": [
+          "sears tower"
+        ],
+        "imageUrl": "/media/a282a7e836b2.jpg"
+      },
+      {
+        "id": "usa_-28b9cfa5",
+        "name": "Central Park",
+        "aliases": [],
+        "imageUrl": "/media/e35614aad21b.jpg"
+      },
+      {
+        "id": "usa_-d992ef7a",
+        "name": "Dolina Śmierci",
+        "aliases": [],
+        "imageUrl": "/media/dcbc706be96a.jpg"
+      },
+      {
+        "id": "usa_-c4135892",
+        "name": "Park Narodowy Yosemite",
+        "aliases": [
+          "yosemite"
+        ],
+        "imageUrl": "/media/30d3d69c5008.jpg"
+      },
+      {
+        "id": "usa_-0b630f26",
+        "name": "Wielkie Jeziora",
+        "aliases": [],
+        "imageUrl": "/media/a6213de7fe1f.jpg"
+      },
+      {
+        "id": "usa_-1e0df669",
+        "name": "Przylądek Canaveral (NASA)",
+        "aliases": [
+          "nasa",
+          "canaveral"
+        ],
+        "imageUrl": "/media/0fd053551687.png"
+      },
+      {
+        "id": "usa_-7fd09a67",
+        "name": "Pearl Harbor",
+        "aliases": [],
+        "imageUrl": "/media/1619bbb37d0b.jpg"
+      },
+      {
+        "id": "usa_-ea94a7ff",
+        "name": "Baseball",
+        "aliases": [],
+        "imageUrl": "/media/d583e37cf59b.jpg"
+      },
+      {
+        "id": "usa_-e1e9dc76",
+        "name": "Futbol amerykański",
+        "aliases": [],
+        "imageUrl": "/media/b158d43d2450.jpg"
+      },
+      {
+        "id": "usa_-b529ed76",
+        "name": "Mount St. Helens",
+        "aliases": [],
+        "imageUrl": "/media/373ffa3547aa.jpg"
       }
     ]
   },
@@ -8104,6 +8896,125 @@ export const DEFAULT_CATEGORIES = [
           "tasma"
         ],
         "imageUrl": "/media/7880ac149cf7.jpg"
+      },
+      {
+        "id": "firs-2f48c34d",
+        "name": "Defibrylator AED",
+        "aliases": [
+          "defibrylator",
+          "aed"
+        ],
+        "imageUrl": "/media/605045b2684b.jpg"
+      },
+      {
+        "id": "firs-a73d2e9f",
+        "name": "Kule ortopedyczne",
+        "aliases": [
+          "kule"
+        ],
+        "imageUrl": "/media/bd84e04e0e5d.jpg"
+      },
+      {
+        "id": "firs-d29e8388",
+        "name": "Kołnierz ortopedyczny",
+        "aliases": [],
+        "imageUrl": "/media/1e45e36f5b10.jpg"
+      },
+      {
+        "id": "firs-c54e983e",
+        "name": "Rękawiczki jednorazowe",
+        "aliases": [
+          "rękawiczki"
+        ],
+        "imageUrl": "/media/581826da1e30.jpg"
+      },
+      {
+        "id": "firs-d3e7eb9f",
+        "name": "Maseczka ochronna",
+        "aliases": [
+          "maseczka"
+        ],
+        "imageUrl": "/media/1be05fba58f8.jpg"
+      },
+      {
+        "id": "firs-09a80abf",
+        "name": "Skalpel",
+        "aliases": [],
+        "imageUrl": "/media/bc8be592a7d0.png"
+      },
+      {
+        "id": "firs-a0bf8961",
+        "name": "Klucz płaski",
+        "aliases": [
+          "klucz"
+        ],
+        "imageUrl": "/media/7e8cf3d006aa.jpg"
+      },
+      {
+        "id": "firs-d69b60f9",
+        "name": "Szlifierka kątowa",
+        "aliases": [
+          "szlifierka",
+          "flex"
+        ],
+        "imageUrl": "/media/aab6b2075534.jpg"
+      },
+      {
+        "id": "firs-342b2a5d",
+        "name": "Lutownica",
+        "aliases": [],
+        "imageUrl": "/media/944a93e78704.jpg"
+      },
+      {
+        "id": "firs-f76eca9c",
+        "name": "Wyrzynarka",
+        "aliases": [],
+        "imageUrl": "/media/028656490125.jpg"
+      },
+      {
+        "id": "firs-9c378dfb",
+        "name": "Strug (Hebel)",
+        "aliases": [
+          "hebel",
+          "strug"
+        ],
+        "imageUrl": "/media/776d902538de.jpg"
+      },
+      {
+        "id": "firs-a8754941",
+        "name": "Dłuto",
+        "aliases": [],
+        "imageUrl": "/media/ea20ac14149e.jpg"
+      },
+      {
+        "id": "firs-39996e37",
+        "name": "Siekiera",
+        "aliases": [],
+        "imageUrl": "/media/0d0e3e13c55f.jpg"
+      },
+      {
+        "id": "firs-6761237c",
+        "name": "Ścisk stolarski",
+        "aliases": [
+          "ścisk"
+        ],
+        "imageUrl": "/media/6df5467d0cc5.jpg"
+      },
+      {
+        "id": "firs-9ebfa2bb",
+        "name": "Okulary ochronne",
+        "aliases": [
+          "gogle"
+        ],
+        "imageUrl": "/media/9dc83f33186d.png"
+      },
+      {
+        "id": "firs-a3ba584c",
+        "name": "Kask budowlany",
+        "aliases": [
+          "kask"
+        ],
+        "imageUrl": "/media/4a6605d7f21a.jpg"
       }
     ]
   },
