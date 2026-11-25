@@ -18,10 +18,20 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
   const shufflePool = useCallback(() => {
     let pool = [];
     if (selectedCategory === 'all') {
-      categories.forEach(c => pool.push(...(c.items || [])));
+      categories.forEach(c => {
+        (c.items || []).forEach(it => {
+          pool.push({ ...it, categoryName: c.name, categoryEmoji: c.emoji });
+        });
+      });
     } else {
       const match = categories.find(c => c.id === selectedCategory);
-      if (match) pool = [...(match.items || [])];
+      if (match) {
+        pool = (match.items || []).map(it => ({
+          ...it,
+          categoryName: match.name,
+          categoryEmoji: match.emoji,
+        }));
+      }
     }
     const shuffled = [...pool].sort(() => Math.random() - 0.5);
     setItems(shuffled);
@@ -162,6 +172,16 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
             </div>
           </div>
 
+          {/* Category label for current card */}
+          {currentItem.categoryName && (
+            <div className="flex justify-center shrink-0 px-2">
+              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-slate-900 border border-slate-800 text-xs font-bold text-slate-300 max-w-full truncate">
+                <span>{currentItem.categoryEmoji}</span>
+                <span className="truncate">{currentItem.categoryName}</span>
+              </span>
+            </div>
+          )}
+
           {/* Card Image Frame (strictly bounded 1:1 square so it never overflows on iOS Safari) */}
           <div className="flex-1 min-h-0 flex items-center justify-center px-2">
             <div
@@ -181,7 +201,7 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
 
           {/* Answer Box BELOW the image frame */}
           <div className="mx-2 min-h-[68px] shrink-0 bg-slate-900 border border-slate-800 rounded-2xl px-4 py-2 flex flex-col items-center justify-center text-center shadow-lg">
-            {revealed ? (
+            {revealed && (
               <>
                 <span className="text-[10px] font-black uppercase tracking-widest text-amber-400 block mb-0.5">
                   Prawidłowa odpowiedź
@@ -190,10 +210,6 @@ export function MobilePlay({ categories, selectedCategory, onSelectCategory }) {
                   {currentItem.name}
                 </p>
               </>
-            ) : (
-              <span className="text-xs font-bold uppercase tracking-wider text-slate-500">
-                Kliknij ODPOWIEDŹ, aby zobaczyć hasło
-              </span>
             )}
           </div>
 
