@@ -4439,23 +4439,20 @@ export const DEFAULT_CATEGORIES = [
       },
       {
         "id": "moto-handlebars",
-        "name": "Kierownica / Manetki",
+        "name": "Skuter",
         "aliases": [
-          "manetki",
-          "kierownica",
-          "handlebars"
+          "skuter"
         ],
-        "imageUrl": "/media/9c9ce0742aef.jpg"
+        "imageUrl": "/media/3a198d788689.jpg"
       },
       {
         "id": "moto-exhaust",
-        "name": "Wydech / Tłumik",
+        "name": "Stacja benzynowa",
         "aliases": [
-          "wydech",
-          "tlumik",
-          "rura wydechowa"
+          "stacja paliw",
+          "benzyna"
         ],
-        "imageUrl": "/media/56a704f14370.jpg"
+        "imageUrl": "/media/57458c90bc91.jpg"
       },
       {
         "id": "moto-discbrake",
@@ -4477,13 +4474,12 @@ export const DEFAULT_CATEGORIES = [
       },
       {
         "id": "moto-fork",
-        "name": "Widelec / Amortyzator przedni",
+        "name": "Quad",
         "aliases": [
-          "widelec",
-          "amortyzator",
-          "lagi"
+          "quad",
+          "atv"
         ],
-        "imageUrl": "/media/a43efdfc465d.jpg"
+        "imageUrl": "/media/5c5968258ce6.jpg"
       },
       {
         "id": "moto-tire",
@@ -4552,22 +4548,19 @@ export const DEFAULT_CATEGORIES = [
       },
       {
         "id": "moto-fairing",
-        "name": "Owiewka motocyklowa",
+        "name": "Motocykl policyjny",
         "aliases": [
-          "owiewka"
+          "policja"
         ],
-        "imageUrl": "/media/4d2776c1e82f.jpg"
+        "imageUrl": "/media/ca75112f694c.jpg"
       },
       {
         "id": "moto-crashbar",
-        "name": "Gmole (Osłona silnika)",
+        "name": "Skuter śnieżny",
         "aliases": [
-          "gmole",
-          "gmol",
-          "oslona silnika",
-          "crash bar"
+          "skuter śnieżny"
         ],
-        "imageUrl": "/media/0be0be03a378.jpg"
+        "imageUrl": "/media/8792d5e7e55c.jpg"
       },
       {
         "id": "moto-headlight",
@@ -4606,19 +4599,20 @@ export const DEFAULT_CATEGORIES = [
       },
       {
         "id": "moto-clutch",
-        "name": "Sprzęgło",
+        "name": "Skuter wodny",
         "aliases": [
-          "sprzeglo"
+          "skuter wodny"
         ],
-        "imageUrl": "/media/e5550eee8f64.jpg"
+        "imageUrl": "/media/eaebf4a842af.jpg"
       },
       {
         "id": "moto-radiator",
-        "name": "Chłodnica",
+        "name": "Trójkołowiec (Trike)",
         "aliases": [
-          "chlodnica"
+          "trike",
+          "trójkołowiec"
         ],
-        "imageUrl": "/media/389c60f4fc0f.jpg"
+        "imageUrl": "/media/91ac7baa7081.jpg"
       },
       {
         "id": "moto-goggles",
