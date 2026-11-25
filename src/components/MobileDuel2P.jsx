@@ -3,6 +3,7 @@ import { Play, RotateCcw, SkipForward, Trophy, Swords } from 'lucide-react';
 import { SmartImage } from './SmartImage';
 import { sound } from '../utils/audio';
 import { resolveAssetUrl } from '../utils/assets';
+import { buildSmartChoices } from '../utils/choices';
 
 const INITIAL_TIME = 45.0;
 const PASS_PENALTY_SECONDS = 3.0;
@@ -75,17 +76,11 @@ export function MobileDuel2P({ categories, selectedCategory, onSelectCategory })
 
   const currentItem = items[cardIndex] || null;
 
-  // Build 3 choices (A, B, C) from the same category as currentItem
+  // Build 3 smart choices (A, B, C) tailored to the card & category
   const choices = useMemo(() => {
     if (!currentItem) return [];
     const sameCat = categories.find(c => c.id === currentItem.categoryId)?.items || [];
-    const pool = sameCat.length >= 3 ? sameCat : items;
-    const distractors = pool
-      .filter(it => it.name.toLowerCase() !== currentItem.name.toLowerCase())
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 2);
-
-    return [currentItem, ...distractors].sort(() => Math.random() - 0.5);
+    return buildSmartChoices(currentItem, sameCat, items);
   }, [currentItem, categories, items]);
 
   // Preload next 2 cards
