@@ -400,6 +400,514 @@ export const DEFAULT_CATEGORIES = [
           "pitbull"
         ],
         "imageUrl": "/media/44f274d694e2.jpg"
+      },
+      {
+        "id": "pop-24b9298a",
+        "name": "Justin Bieber",
+        "aliases": [
+          "bieber"
+        ],
+        "imageUrl": "/media/3c62cff23be5.jpg"
+      },
+      {
+        "id": "pop-1406a071",
+        "name": "Miley Cyrus",
+        "aliases": [
+          "cyrus"
+        ],
+        "imageUrl": "/media/df71d6dc3eb4.png"
+      },
+      {
+        "id": "pop-1629c2fd",
+        "name": "Justin Timberlake",
+        "aliases": [
+          "timberlake"
+        ],
+        "imageUrl": "/media/c67aa91dcc02.jpg"
+      },
+      {
+        "id": "pop-cccf551f",
+        "name": "Britney Spears",
+        "aliases": [
+          "britney"
+        ],
+        "imageUrl": "/media/5312b6454b4b.jpg"
+      },
+      {
+        "id": "pop-ca9ef370",
+        "name": "Christina Aguilera",
+        "aliases": [
+          "aguilera"
+        ],
+        "imageUrl": "/media/f39871aeaa2e.jpg"
+      },
+      {
+        "id": "pop-8dc5344b",
+        "name": "Pink",
+        "aliases": [
+          "p!nk"
+        ],
+        "imageUrl": "/media/aca58c1bdbde.jpg"
+      },
+      {
+        "id": "pop-7dc4e258",
+        "name": "Madonna",
+        "aliases": [],
+        "imageUrl": "/media/ca1374507709.jpg"
+      },
+      {
+        "id": "pop-b1d113e1",
+        "name": "Michael Jackson",
+        "aliases": [
+          "mj"
+        ],
+        "imageUrl": "/media/820f27706b38.jpg"
+      },
+      {
+        "id": "pop-0de86b3e",
+        "name": "Elton John",
+        "aliases": [],
+        "imageUrl": "/media/261ffffd9c5f.jpg"
+      },
+      {
+        "id": "pop-ca96fa7c",
+        "name": "Freddie Mercury",
+        "aliases": [
+          "mercury",
+          "queen"
+        ],
+        "imageUrl": "/media/1fc5c944c677.jpg"
+      },
+      {
+        "id": "pop-7369ca55",
+        "name": "Whitney Houston",
+        "aliases": [],
+        "imageUrl": "/media/2c6f76259af5.jpg"
+      },
+      {
+        "id": "pop-cffd871a",
+        "name": "Mariah Carey",
+        "aliases": [],
+        "imageUrl": "/media/543c6b3122d1.png"
+      },
+      {
+        "id": "pop-ea4f9c82",
+        "name": "Celine Dion",
+        "aliases": [
+          "celine"
+        ],
+        "imageUrl": "/media/dff242859555.jpg"
+      },
+      {
+        "id": "pop-e41c2d43",
+        "name": "Jennifer Lopez",
+        "aliases": [
+          "jlo",
+          "j-lo"
+        ],
+        "imageUrl": "/media/16fac936d859.jpg"
+      },
+      {
+        "id": "pop-78f90d7c",
+        "name": "Enrique Iglesias",
+        "aliases": [],
+        "imageUrl": "/media/593c154c6919.jpg"
+      },
+      {
+        "id": "pop-818ef62d",
+        "name": "Ricky Martin",
+        "aliases": [],
+        "imageUrl": "/media/aea3eb2711d3.jpg"
+      },
+      {
+        "id": "pop-a187f27e",
+        "name": "Robbie Williams",
+        "aliases": [],
+        "imageUrl": "/media/7f6c05f318c7.jpg"
+      },
+      {
+        "id": "pop-ce15694c",
+        "name": "Kylie Minogue",
+        "aliases": [],
+        "imageUrl": "/media/34fafc463dbd.jpg"
+      },
+      {
+        "id": "pop-cc1e3a4a",
+        "name": "Lana Del Rey",
+        "aliases": [],
+        "imageUrl": "/media/d3a145d26935.jpg"
+      },
+      {
+        "id": "pop-4cda7705",
+        "name": "Camila Cabello",
+        "aliases": [],
+        "imageUrl": "/media/d41404e2b90c.jpg"
+      },
+      {
+        "id": "pop-5909241f",
+        "name": "Charlie Puth",
+        "aliases": [],
+        "imageUrl": "/media/99425d8b18bb.jpg"
+      },
+      {
+        "id": "pop-9c512979",
+        "name": "Ellie Goulding",
+        "aliases": [],
+        "imageUrl": "/media/ab0838349235.jpg"
+      },
+      {
+        "id": "pop-c2b12b93",
+        "name": "Zara Larsson",
+        "aliases": [],
+        "imageUrl": "/media/c70e2bb9ed92.jpg"
+      },
+      {
+        "id": "pop-b08b705c",
+        "name": "Ava Max",
+        "aliases": [],
+        "imageUrl": "/media/c8606d6303f3.jpg"
+      },
+      {
+        "id": "pop-e4fc89ef",
+        "name": "Rita Ora",
+        "aliases": [],
+        "imageUrl": "/media/3159b7b6f696.jpg"
+      },
+      {
+        "id": "pop-3de460ff",
+        "name": "Lewis Capaldi",
+        "aliases": [],
+        "imageUrl": "/media/8a68df34bd84.jpg"
+      },
+      {
+        "id": "pop-730b1376",
+        "name": "Alicia Keys",
+        "aliases": [],
+        "imageUrl": "/media/13e3c2760993.jpg"
+      },
+      {
+        "id": "pop-1a6d0973",
+        "name": "John Legend",
+        "aliases": [],
+        "imageUrl": "/media/3da55bfe5170.jpg"
+      },
+      {
+        "id": "pop-02e6b906",
+        "name": "Usher",
+        "aliases": [],
+        "imageUrl": "/media/8e7be2823df6.jpg"
+      },
+      {
+        "id": "pop-23a2193a",
+        "name": "Pharrell Williams",
+        "aliases": [
+          "pharrell"
+        ],
+        "imageUrl": "/media/a0e894b466b4.jpg"
+      },
+      {
+        "id": "pop-f6e22a07",
+        "name": "George Michael",
+        "aliases": [],
+        "imageUrl": "/media/cbea355167dd.jpg"
+      },
+      {
+        "id": "pop-c22fc4a7",
+        "name": "Stevie Wonder",
+        "aliases": [],
+        "imageUrl": "/media/91e9a3348f4f.jpg"
+      },
+      {
+        "id": "pop-97c8f692",
+        "name": "Prince",
+        "aliases": [],
+        "imageUrl": "/media/71db56e05ba4.png"
+      },
+      {
+        "id": "pop-e7646f69",
+        "name": "Bob Marley",
+        "aliases": [],
+        "imageUrl": "/media/38981f21a2ff.jpg"
+      },
+      {
+        "id": "pop-a79381eb",
+        "name": "Amy Winehouse",
+        "aliases": [],
+        "imageUrl": "/media/55fe725ad859.jpg"
+      },
+      {
+        "id": "pop-d1059f2a",
+        "name": "David Bowie",
+        "aliases": [],
+        "imageUrl": "/media/9808b0fac8c4.jpg"
+      },
+      {
+        "id": "pop-3ccca65d",
+        "name": "Sting",
+        "aliases": [],
+        "imageUrl": "/media/d11368d0656b.jpg"
+      },
+      {
+        "id": "pop-c5c62b81",
+        "name": "Bono",
+        "aliases": [
+          "u2"
+        ],
+        "imageUrl": "/media/1ce061905600.jpg"
+      },
+      {
+        "id": "pop-b6f1ec29",
+        "name": "Mick Jagger",
+        "aliases": [
+          "rolling stones"
+        ],
+        "imageUrl": "/media/a65b29dfb9b1.jpg"
+      },
+      {
+        "id": "pop-21c862bb",
+        "name": "Kurt Cobain",
+        "aliases": [
+          "nirvana"
+        ],
+        "imageUrl": "/media/81483ecdc935.jpg"
+      }
+    ]
+  },
+  {
+    "id": "foreign_rappers",
+    "name": "Zagraniczni raperzy i hip-hop",
+    "emoji": "🎤",
+    "description": "Najpopularniejsi zagraniczni raperzy i ikony hip-hopu",
+    "items": [
+      {
+        "id": "rap-729b332d",
+        "name": "Kanye West",
+        "aliases": [
+          "ye",
+          "kanye"
+        ],
+        "imageUrl": "/media/cd7d18af2d69.jpg"
+      },
+      {
+        "id": "rap-fefbf3f8",
+        "name": "Jay-Z",
+        "aliases": [
+          "jay z"
+        ],
+        "imageUrl": "/media/42d1f15dc8a3.jpg"
+      },
+      {
+        "id": "rap-faba8d4a",
+        "name": "50 Cent",
+        "aliases": [
+          "fifty cent"
+        ],
+        "imageUrl": "/media/cf3ee721088f.jpg"
+      },
+      {
+        "id": "rap-9b6f11d8",
+        "name": "Tupac Shakur",
+        "aliases": [
+          "2pac",
+          "tupac"
+        ],
+        "imageUrl": "/media/7fac4e16e528.jpg"
+      },
+      {
+        "id": "rap-d5fd1f47",
+        "name": "Dr. Dre",
+        "aliases": [
+          "dr dre"
+        ],
+        "imageUrl": "/media/ecabe66ad8d3.png"
+      },
+      {
+        "id": "rap-9be60565",
+        "name": "Ice Cube",
+        "aliases": [],
+        "imageUrl": "/media/0245baf8eac9.png"
+      },
+      {
+        "id": "rap-62ecce73",
+        "name": "Lil Wayne",
+        "aliases": [],
+        "imageUrl": "/media/8b209f6267cc.jpg"
+      },
+      {
+        "id": "rap-3fcede0b",
+        "name": "Wiz Khalifa",
+        "aliases": [],
+        "imageUrl": "/media/fabf7e34c73e.jpg"
+      },
+      {
+        "id": "rap-4a2977e1",
+        "name": "ASAP Rocky",
+        "aliases": [
+          "a$ap rocky"
+        ],
+        "imageUrl": "/media/525f577c0c45.jpg"
+      },
+      {
+        "id": "rap-29fa30b5",
+        "name": "Tyler, the Creator",
+        "aliases": [
+          "tyler the creator"
+        ],
+        "imageUrl": "/media/1e50785ff1ab.jpg"
+      },
+      {
+        "id": "rap-b03cc90c",
+        "name": "J. Cole",
+        "aliases": [
+          "j cole"
+        ],
+        "imageUrl": "/media/6dc27aacd0f9.jpg"
+      },
+      {
+        "id": "rap-adff8551",
+        "name": "Future",
+        "aliases": [],
+        "imageUrl": "/media/a67042c6b29d.jpg"
+      },
+      {
+        "id": "rap-dd928ff6",
+        "name": "21 Savage",
+        "aliases": [],
+        "imageUrl": "/media/39dc8886d577.jpg"
+      },
+      {
+        "id": "rap-369a62db",
+        "name": "Lil Nas X",
+        "aliases": [],
+        "imageUrl": "/media/51390c9fbfa8.jpg"
+      },
+      {
+        "id": "rap-b75e6a3a",
+        "name": "Megan Thee Stallion",
+        "aliases": [],
+        "imageUrl": "/media/8dca069e787f.jpg"
+      },
+      {
+        "id": "rap-67959b3c",
+        "name": "Ice Spice",
+        "aliases": [],
+        "imageUrl": "/media/12cb844523ed.jpg"
+      },
+      {
+        "id": "rap-269806e9",
+        "name": "Central Cee",
+        "aliases": [],
+        "imageUrl": "/media/27885beb2689.jpg"
+      },
+      {
+        "id": "rap-5916e565",
+        "name": "Stormzy",
+        "aliases": [],
+        "imageUrl": "/media/3847d6063816.jpg"
+      },
+      {
+        "id": "rap-fcb1b610",
+        "name": "Mac Miller",
+        "aliases": [],
+        "imageUrl": "/media/f4a48231f5c9.jpg"
+      },
+      {
+        "id": "rap-e2db598f",
+        "name": "Juice WRLD",
+        "aliases": [
+          "juice wrld"
+        ],
+        "imageUrl": "/media/bdba0e3c568b.jpg"
+      },
+      {
+        "id": "rap-8cac3eeb",
+        "name": "XXXTentacion",
+        "aliases": [],
+        "imageUrl": "/media/9fa576cd6baf.jpg"
+      },
+      {
+        "id": "rap-ddd930cf",
+        "name": "Pop Smoke",
+        "aliases": [],
+        "imageUrl": "/media/b56dd64a4901.jpg"
+      },
+      {
+        "id": "rap-79030867",
+        "name": "Playboi Carti",
+        "aliases": [],
+        "imageUrl": "/media/160fe045ac6d.jpg"
+      },
+      {
+        "id": "rap-0afe1226",
+        "name": "Lil Uzi Vert",
+        "aliases": [],
+        "imageUrl": "/media/878a24f68691.png"
+      },
+      {
+        "id": "rap-5c8c3d2d",
+        "name": "Young Thug",
+        "aliases": [],
+        "imageUrl": "/media/53a203a3eb0a.jpg"
+      },
+      {
+        "id": "rap-2b8ccb2f",
+        "name": "Kid Cudi",
+        "aliases": [],
+        "imageUrl": "/media/8eb344f59a62.jpg"
+      },
+      {
+        "id": "rap-21b93a1e",
+        "name": "Busta Rhymes",
+        "aliases": [],
+        "imageUrl": "/media/c72d24077bdf.jpg"
+      },
+      {
+        "id": "rap-b9ed85d7",
+        "name": "Missy Elliott",
+        "aliases": [],
+        "imageUrl": "/media/37049b39c7f6.jpg"
+      },
+      {
+        "id": "rap-72938408",
+        "name": "Lauryn Hill",
+        "aliases": [],
+        "imageUrl": "/media/a58de4834e44.jpg"
+      },
+      {
+        "id": "rap-b05c0173",
+        "name": "Nas",
+        "aliases": [],
+        "imageUrl": "/media/42bdd409776f.jpg"
+      },
+      {
+        "id": "rap-1ecd6f60",
+        "name": "Macklemore",
+        "aliases": [],
+        "imageUrl": "/media/65c9e0f3ab36.jpg"
+      },
+      {
+        "id": "rap-84a39d64",
+        "name": "Flo Rida",
+        "aliases": [],
+        "imageUrl": "/media/dfe172833443.jpg"
+      },
+      {
+        "id": "rap-fa06c627",
+        "name": "Akon",
+        "aliases": [],
+        "imageUrl": "/media/30e5688a6af2.jpg"
+      },
+      {
+        "id": "rap-b9fbeb7e",
+        "name": "Sean Paul",
+        "aliases": [],
+        "imageUrl": "/media/7f284704e85d.jpg"
+      },
+      {
+        "id": "rap-ed73022e",
+        "name": "Daddy Yankee",
+        "aliases": [],
+        "imageUrl": "/media/f5e8aadcb98c.jpg"
       }
     ]
   },
