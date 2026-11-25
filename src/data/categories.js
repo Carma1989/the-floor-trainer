@@ -3680,6 +3680,105 @@ export const DEFAULT_CATEGORIES = [
         "name": "Opera w Kopenhadze",
         "aliases": [],
         "imageUrl": "/media/9c81c5f86dcc.jpg"
+      },
+      {
+        "id": "dk-ef4469cc",
+        "name": "Lars Ulrich",
+        "aliases": [
+          "ulrich",
+          "metallica"
+        ],
+        "imageUrl": "/media/276813ca6733.jpg"
+      },
+      {
+        "id": "dk-a2579de7",
+        "name": "Medina",
+        "aliases": [
+          "andrea fuentealba"
+        ],
+        "imageUrl": "/media/1a609e5a74d4.jpg"
+      },
+      {
+        "id": "dk-6ec72e4b",
+        "name": "Michael Poulsen (Volbeat)",
+        "aliases": [
+          "volbeat"
+        ],
+        "imageUrl": "/media/4671e20ec33e.jpg"
+      },
+      {
+        "id": "dk-60f021d5",
+        "name": "King Diamond",
+        "aliases": [],
+        "imageUrl": "/media/4a568c7ac7ed.jpg"
+      },
+      {
+        "id": "dk-2a9546ec",
+        "name": "Mike Tramp",
+        "aliases": [
+          "white lion"
+        ],
+        "imageUrl": "/media/d2049b17dfae.jpg"
+      },
+      {
+        "id": "dk-b61735ad",
+        "name": "Rasmus Seebach",
+        "aliases": [],
+        "imageUrl": "/media/a44dca1ee549.jpg"
+      },
+      {
+        "id": "dk-8e41e388",
+        "name": "Christopher (piosenkarz)",
+        "aliases": [
+          "christopher"
+        ],
+        "imageUrl": "/media/7383aafc555e.jpg"
+      },
+      {
+        "id": "dk-fdfcc278",
+        "name": "Agnes Obel",
+        "aliases": [],
+        "imageUrl": "/media/6becb55b9715.jpg"
+      },
+      {
+        "id": "dk-99b8bc67",
+        "name": "Connie Nielsen",
+        "aliases": [],
+        "imageUrl": "/media/6ecbf3d54213.jpg"
+      },
+      {
+        "id": "dk-7e837477",
+        "name": "Brigitte Nielsen",
+        "aliases": [],
+        "imageUrl": "/media/e0457f45e305.jpg"
+      },
+      {
+        "id": "dk-f973e390",
+        "name": "Michael Laudrup",
+        "aliases": [
+          "laudrup"
+        ],
+        "imageUrl": "/media/0b142b903ea4.jpg"
+      },
+      {
+        "id": "dk-adeeadc1",
+        "name": "Rasmus Højlund",
+        "aliases": [
+          "hojlund"
+        ],
+        "imageUrl": "/media/f635c5184295.jpg"
+      },
+      {
+        "id": "dk-67a3425d",
+        "name": "Viktor Axelsen",
+        "aliases": [],
+        "imageUrl": "/media/93375514c58d.jpg"
+      },
+      {
+        "id": "dk-71cb4db3",
+        "name": "Susanne Bier",
+        "aliases": [],
+        "imageUrl": "/media/55b92545da37.jpg"
       }
     ]
   },
