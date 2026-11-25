@@ -16171,493 +16171,350 @@ export const DEFAULT_CATEGORIES = [
     "emoji": "🔫",
     "items": [
       {
-        "id": "cs-awp",
+        "id": "cs2-769f2789",
         "name": "AWP",
         "aliases": [
-          "awp",
-          "awuka",
-          "snajperka awp",
-          "arctic warfare police"
+          "awp"
         ],
-        "prompt": "Zielony karabin snajperski one-shot",
-        "sub": "Cena: $4750 • Broń snajperska",
-        "imageUrl": "/media/95256cf4e20d.jpg"
+        "imageUrl": "/media/ac6560d07efb.png"
       },
       {
-        "id": "cs-ak47",
+        "id": "cs2-b9b496de",
         "name": "AK-47",
         "aliases": [
-          "ak 47",
           "ak47",
-          "kalach",
-          "kałach"
+          "kalach"
         ],
-        "prompt": "Podstawowy karabin Terrorystów",
-        "sub": "Cena: $2700 • One-tap w głowę",
-        "imageUrl": "/media/82eddef7c851.png"
+        "imageUrl": "/media/79e1fd9d032b.png"
       },
       {
-        "id": "cs-m4a4",
+        "id": "cs2-84a6b59a",
         "name": "M4A4",
         "aliases": [
-          "m4a4",
-          "emka",
           "m4"
         ],
-        "prompt": "Karabin szturmowy CT (30 naboi bez tłumika)",
-        "sub": "Cena: $3100 • Antyterroryści",
-        "imageUrl": "/media/7176723cc406.png"
+        "imageUrl": "/media/093e56788329.png"
       },
       {
-        "id": "cs-m4a1s",
+        "id": "cs2-e53a4ffb",
         "name": "M4A1-S",
         "aliases": [
-          "m4a1s",
-          "m4a1-s",
-          "emka z tlumikiem"
+          "m4a1"
         ],
-        "prompt": "Karabin CT z tłumikiem (20 naboi)",
-        "sub": "Cena: $2900 • Antyterroryści",
-        "imageUrl": "/media/68fcf253b302.jpg"
+        "imageUrl": "/media/1f0e70a9189a.png"
       },
       {
-        "id": "cs-deagle",
+        "id": "cs2-8d1994c3",
         "name": "Desert Eagle",
-        "aliases": [
-          "desert eagle",
-          "deagle",
-          "digl"
-        ],
-        "prompt": "Ciężki pistolet ($700) na kaliber .50",
-        "sub": "Pistolet • One-deag",
-        "imageUrl": "/media/e2b6cce1eed9.jpg"
-      },
-      {
-        "id": "cs-usp",
-        "name": "USP-S",
-        "aliases": [
-          "usp",
-          "usp-s",
-          "usps"
-        ],
-        "prompt": "Startowy pistolet CT z tłumikiem",
-        "sub": "12 naboi w magazynku",
-        "imageUrl": "/media/8389bde8f31c.png"
-      },
-      {
-        "id": "cs-glock",
-        "name": "Glock-18",
-        "aliases": [
-          "glock",
-          "glock 18",
-          "glok"
-        ],
-        "prompt": "Startowy pistolet Terrorystów (tryb burst)",
-        "sub": "20 naboi w magazynku",
-        "imageUrl": "/media/8fdc4c6a2c5b.jpg"
-      },
-      {
-        "id": "cs-famas",
-        "name": "FAMAS",
-        "aliases": [
-          "famas"
-        ],
-        "prompt": "Tani karabin szturmowy CT ($2050)",
-        "sub": "Tryb serii 3-strzałowej",
-        "imageUrl": "/media/74aea1a9200b.jpg"
-      },
-      {
-        "id": "cs-galil",
-        "name": "Galil AR",
-        "aliases": [
-          "galil",
-          "galil ar"
-        ],
-        "prompt": "Tani karabin szturmowy Terrorystów ($1800)",
-        "sub": "35 naboi w magazynku",
-        "imageUrl": "/media/6efcd0aa637e.jpg"
-      },
-      {
-        "id": "cs-p90",
-        "name": "P90",
-        "aliases": [
-          "p90",
-          "pe dziewiecdziesiat"
-        ],
-        "prompt": "Pistolet maszynowy z 50 nabojami (\"Rush B\")",
-        "sub": "SMG • $2350",
-        "imageUrl": "/media/17f6f6670eb5.png"
-      },
-      {
-        "id": "cs-mac10",
-        "name": "MAC-10",
-        "aliases": [
-          "mac 10",
-          "mac10",
-          "mak 10"
-        ],
-        "prompt": "Tani pistolet maszynowy Terrorystów ($1050)",
-        "sub": "SMG • Wysoka szybkostrzelność",
-        "imageUrl": "/media/9ea29e2ffd59.jpg"
-      },
-      {
-        "id": "cs-mp9",
-        "name": "MP9",
-        "aliases": [
-          "mp9",
-          "empe dziewiec"
-        ],
-        "prompt": "Pistolet maszynowy CT ($1250)",
-        "sub": "SMG • Antyterroryści",
-        "imageUrl": "/media/a713999ca6ac.jpg"
-      },
-      {
-        "id": "cs-ssg08",
-        "name": "SSG 08 (Scout)",
-        "aliases": [
-          "ssg 08",
-          "scout",
-          "skaut",
-          "ssg08"
-        ],
-        "prompt": "Lekki karabin snajperski ($1700)",
-        "sub": "Snajperka • Szybki bieg",
-        "imageUrl": "/media/f20b61fb37a4.jpg"
-      },
-      {
-        "id": "cs-negev",
-        "name": "Negev",
-        "aliases": [
-          "negev",
-          "negew"
-        ],
-        "prompt": "Karabin maszynowy z laserowym ogniem zaporowym",
-        "sub": "150 naboi • $1700",
-        "imageUrl": "/media/9a7362fc2032.jpg"
-      },
-      {
-        "id": "cs-zeus",
-        "name": "Zeus x27",
-        "aliases": [
-          "zeus",
-          "zeus x27",
-          "paralizator"
-        ],
-        "prompt": "Paralizator elektryczny na 1 strzał",
-        "sub": "Sprzęt • Zabija z bliska",
-        "imageUrl": "/media/8e459a9b0c94.jpg"
-      },
-      {
-        "id": "cs-molotov",
-        "name": "Koktajl Mołotowa",
-        "aliases": [
-          "molotov",
-          "koktajl molotowa",
-          "molotow",
-          "palak"
-        ],
-        "prompt": "Granat zapalający po stronie Terrorystów",
-        "sub": "Koszt: $400 • Podpala obszar",
-        "imageUrl": "/media/ff5656985ef6.jpg"
-      },
-      {
-        "id": "cs-flash",
-        "name": "Granat błyskowy (Flashbang)",
-        "aliases": [
-          "flashbang",
-          "flash",
-          "flesz",
-          "granat blyskowy"
-        ],
-        "prompt": "Granat oślepiający przeciwników",
-        "sub": "Koszt: $200 • Ekwipunek",
-        "imageUrl": "/media/826ddb7632ae.jpg"
-      },
-      {
-        "id": "cs-smoke",
-        "name": "Granat dymny (Smoke)",
-        "aliases": [
-          "smoke",
-          "smok",
-          "granat dymny"
-        ],
-        "prompt": "Granat tworzący zasłonę dymną (18 sekund)",
-        "sub": "Koszt: $300 • Ekwipunek",
-        "imageUrl": "/media/f84b7282ce1b.jpg"
-      },
-      {
-        "id": "cs-he",
-        "name": "Granat zaczepny (HE)",
-        "aliases": [
-          "he",
-          "granat wybuchowy",
-          "granat zaczepny",
-          "granat"
-        ],
-        "prompt": "Granat odłamkowy zadający obrażenia obszarowe",
-        "sub": "Koszt: $300 • Ekwipunek",
-        "imageUrl": "/media/627256ef2693.jpg"
-      },
-      {
-        "id": "cs-defuse",
-        "name": "Zestaw do rozbrajania (Defuse Kit)",
-        "aliases": [
-          "defuse kit",
-          "defuse",
-          "zestaw do rozbrajania",
-          "nozyczki"
-        ],
-        "prompt": "Skraca czas rozbrajania bomby z 10s do 5s",
-        "sub": "Koszt: $400 • Tylko CT",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3ESkraca%20czas%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Erozbrajania%20bomby%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Ez%2010s%20do%205s%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKoszt%3A%20%24400%20%E2%80%A2%20Tylko%20CT%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-c4",
-        "name": "7355608",
-        "aliases": [
-          "7355608",
-          "kod do bomby",
-          "c4"
-        ],
-        "prompt": "Kod wpisywany na ładunku C4 podczas podkładania",
-        "sub": "Ciekawostka CS:GO",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EKod%20wpisywany%20na%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E%C5%82adunku%20C4%20podczas%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Epodk%C5%82adania%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ECiekawostka%20CS%3AGO%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-mirage",
-        "name": "Mirage",
-        "aliases": [
-          "mirage",
-          "miraż",
-          "de_mirage"
-        ],
-        "prompt": "Mapa: Pałac, Apartamenty, Okno, Dżungla, Konektor",
-        "sub": "Najpopularniejsza mapa turniejowa",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EMapa%3A%20Pa%C5%82ac%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EApartamenty%2C%20Okno%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3ED%C5%BCungla%2C%20Konektor%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ENajpopularniejsza%20mapa%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22543%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3Eturniejowa%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-dust2",
-        "name": "Dust II",
-        "aliases": [
-          "dust 2",
-          "dust ii",
-          "dust",
-          "de_dust2"
-        ],
-        "prompt": "Mapa: Długa (Long), Gale (Short), Ciemnia (Tunnels)",
-        "sub": "Klasyczna mapa pustynna",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22277%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EMapa%3A%20D%C5%82uga%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22331%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E(Long)%2C%20Gale%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22385%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E(Short)%2C%20Ciemnia%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22438%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E(Tunnels)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22532%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKlasyczna%20mapa%20pustynna%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-inferno",
-        "name": "Inferno",
-        "aliases": [
-          "inferno",
-          "de_inferno"
-        ],
-        "prompt": "Mapa: Banan, Apartamenty, Kościół (Ruiny), Dywan",
-        "sub": "Włoskie miasteczko",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22277%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EMapa%3A%20Banan%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22331%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EApartamenty%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22385%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EKo%C5%9Bci%C3%B3%C5%82%20(Ruiny)%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22438%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EDywan%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22532%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EW%C5%82oskie%20miasteczko%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-nuke",
-        "name": "Nuke",
-        "aliases": [
-          "nuke",
-          "niuk",
-          "de_nuke"
-        ],
-        "prompt": "Mapa w elektrowni jądrowej (2 piętra BS-ów: A i B)",
-        "sub": "Kurnik, Silos, Rampa, Sekret",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EMapa%20w%20elektrowni%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Ej%C4%85drowej%20(2%20pi%C4%99tra%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EBS-%C3%B3w%3A%20A%20i%20B)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EKurnik%2C%20Silos%2C%20Rampa%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22543%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ESekret%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-overpass",
-        "name": "Overpass",
-        "aliases": [
-          "overpass",
-          "owerpas",
-          "de_overpass"
-        ],
-        "prompt": "Mapa w Berlinie: Toalety, Balony, Monster, Kanały",
-        "sub": "Mapa turniejowa",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EMapa%20w%20Berlinie%3A%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EToalety%2C%20Balony%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EMonster%2C%20Kana%C5%82y%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EMapa%20turniejowa%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-ancient",
-        "name": "Ancient",
-        "aliases": [
-          "ancient",
-          "de_ancient"
-        ],
-        "prompt": "Mapa w ruinach Azteków: Donut (Pączek), Jaskinia",
-        "sub": "Zielona dżungla",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EMapa%20w%20ruinach%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EAztek%C3%B3w%3A%20Donut%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E(P%C4%85czek)%2C%20Jaskinia%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EZielona%20d%C5%BCungla%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-anubis",
-        "name": "Anubis",
-        "aliases": [
-          "anubis",
-          "de_anubis"
-        ],
-        "prompt": "Mapa egipska z kanałem wodnym na środku",
-        "sub": "Pula turniejowa",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EMapa%20egipska%20z%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Ekana%C5%82em%20wodnym%20na%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E%C5%9Brodku%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EPula%20turniejowa%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-global",
-        "name": "Global Elite",
-        "aliases": [
-          "global elite",
-          "global",
-          "elita swiatowa"
-        ],
-        "prompt": "Najwyższa ranga w klasycznym systemie CS:GO",
-        "sub": "18. ranga (nad Supreme)",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3ENajwy%C5%BCsza%20ranga%20w%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Eklasycznym%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Esystemie%20CS%3AGO%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3E18.%20ranga%20(nad%20Supreme)%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-silver",
-        "name": "Silver I",
-        "aliases": [
-          "silver",
-          "silver 1",
-          "srebro"
-        ],
-        "prompt": "Najniższa ranga w klasycznym systemie CS:GO",
-        "sub": "1. ranga startowa",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3ENajni%C5%BCsza%20ranga%20w%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Eklasycznym%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Esystemie%20CS%3AGO%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3E1.%20ranga%20startowa%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-ace",
-        "name": "Ace",
-        "aliases": [
-          "ace",
-          "ejs"
-        ],
-        "prompt": "Zabicie wszystkich 5 przeciwników w jednej rundzie",
-        "sub": "Terminologia graczy",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EZabicie%20wszystkich%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3E5%20przeciwnik%C3%B3w%20w%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Ejednej%20rundzie%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ETerminologia%20graczy%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-clutch",
-        "name": "Clutch",
-        "aliases": [
-          "clutch",
-          "klacz"
-        ],
-        "prompt": "Wygranie rundy zostając samemu (1 vs X)",
-        "sub": "Terminologia graczy",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22304%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3EWygranie%20rundy%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Ezostaj%C4%85c%20samemu%20(1%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22412%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Evs%20X)%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22505%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3ETerminologia%20graczy%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-eco",
-        "name": "Runda Eco",
-        "aliases": [
-          "eco",
-          "eko",
-          "runda eco"
-        ],
-        "prompt": "Runda bez kupowania broni w celu oszczędzania pieniędzy",
-        "sub": "Ekonomia meczu",
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2222%22%20letter-spacing%3D%222%22%3ECS%3AGO%20%2F%20CS2%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22277%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3ERunda%20bez%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22331%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Ekupowania%20broni%20w%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22385%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Ecelu%20oszcz%C4%99dzania%3C%2Ftext%3E%0A%3Ctext%20x%3D%22400%22%20y%3D%22438%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2242%22%3Epieni%C4%99dzy%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22532%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2230%22%3EEkonomia%20meczu%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
-      },
-      {
-        "id": "cs-karambit",
-        "name": "Karambit",
-        "aliases": [
-          "karambit"
-        ],
-        "prompt": "Kultowy zakrzywiony nóż z pierścieniem na palec",
-        "sub": "Rzadki skin noża",
-        "imageUrl": "/media/3774d2825ddc.png"
-      },
-      {
-        "id": "csgo-6efe847d",
-        "name": "Kamizelka kuloodporna",
-        "aliases": [
-          "kevlar"
-        ],
-        "imageUrl": "/media/89f4d2df061e.jpg"
-      },
-      {
-        "id": "csgo-5952d160",
-        "name": "Nóż motylkowy",
-        "aliases": [],
-        "imageUrl": "/media/fffd4792b4da.jpg"
-      },
-      {
-        "id": "csgo-24fc3e0c",
-        "name": "Nóż karambit",
-        "aliases": [
-          "karambit"
-        ],
-        "imageUrl": "/media/de176639874f.png"
-      },
-      {
-        "id": "csgo-c58b7ae6",
-        "name": "Pistolet Desert Eagle",
         "aliases": [
           "deagle"
         ],
-        "imageUrl": "/media/dc05015ba0d2.jpg"
+        "imageUrl": "/media/32998ad6ae65.png"
       },
       {
-        "id": "csgo-af0df0ad",
-        "name": "Karabin M4A4 / M4",
+        "id": "cs2-11204389",
+        "name": "USP-S",
         "aliases": [
-          "m4"
+          "usp"
         ],
-        "imageUrl": "/media/6ea992c6aefa.png"
+        "imageUrl": "/media/5c888aabbf4a.png"
       },
       {
-        "id": "csgo-0c4716ec",
-        "name": "Karabin AK-47",
-        "aliases": [
-          "ak47"
-        ],
-        "imageUrl": "/media/0e514d49d91f.png"
-      },
-      {
-        "id": "csgo-2e1827c7",
-        "name": "Pistolet maszynowy P90",
-        "aliases": [
-          "p90"
-        ],
-        "imageUrl": "/media/811cd29eade7.png"
-      },
-      {
-        "id": "csgo-45101503",
-        "name": "Pistolet Glock-18",
+        "id": "cs2-69b9ede9",
+        "name": "Glock-18",
         "aliases": [
           "glock"
         ],
-        "imageUrl": "/media/688a19b45ad5.jpg"
+        "imageUrl": "/media/9334e01fb2b7.png"
       },
       {
-        "id": "csgo-98d5b1b5",
-        "name": "Karabin AUG",
-        "aliases": [
-          "aug"
-        ],
-        "imageUrl": "/media/c07e93400671.jpg"
+        "id": "cs2-2ecdfc88",
+        "name": "P250",
+        "aliases": [],
+        "imageUrl": "/media/668acccca6e3.png"
       },
       {
-        "id": "csgo-dfa2ecdc",
-        "name": "Pistolet Five-SeveN",
+        "id": "cs2-9375d171",
+        "name": "Tec-9",
         "aliases": [
-          "five-seven"
+          "tec9"
         ],
-        "imageUrl": "/media/3cfe583fb099.jpg"
+        "imageUrl": "/media/058aec26684b.png"
       },
       {
-        "id": "csgo-7b312a96",
-        "name": "Karabin maszynowy M249",
+        "id": "cs2-af23fd86",
+        "name": "Five-SeveN",
         "aliases": [
-          "m249"
+          "five seven"
         ],
-        "imageUrl": "/media/06b16d635288.jpg"
+        "imageUrl": "/media/4f624404bfdf.png"
+      },
+      {
+        "id": "cs2-d37d9ff8",
+        "name": "CZ75-Auto",
+        "aliases": [
+          "cz75"
+        ],
+        "imageUrl": "/media/291d163b09b8.png"
+      },
+      {
+        "id": "cs2-dc54e52b",
+        "name": "FAMAS",
+        "aliases": [],
+        "imageUrl": "/media/300c3dd798dd.png"
+      },
+      {
+        "id": "cs2-365f5d76",
+        "name": "Galil AR",
+        "aliases": [
+          "galil"
+        ],
+        "imageUrl": "/media/162776d9f69f.png"
+      },
+      {
+        "id": "cs2-b84c7af9",
+        "name": "AUG",
+        "aliases": [],
+        "imageUrl": "/media/5d192029197f.png"
+      },
+      {
+        "id": "cs2-651c2b22",
+        "name": "SG 553",
+        "aliases": [
+          "sg553"
+        ],
+        "imageUrl": "/media/09d5c6c11be9.png"
+      },
+      {
+        "id": "cs2-e4432eb8",
+        "name": "SSG 08 (Scout)",
+        "aliases": [
+          "scout",
+          "ssg08"
+        ],
+        "imageUrl": "/media/8713ad048837.png"
+      },
+      {
+        "id": "cs2-3cc5d3d1",
+        "name": "SCAR-20",
+        "aliases": [
+          "scar"
+        ],
+        "imageUrl": "/media/d15ed5afae9b.png"
+      },
+      {
+        "id": "cs2-94d84f61",
+        "name": "P90",
+        "aliases": [],
+        "imageUrl": "/media/4f26b3663356.png"
+      },
+      {
+        "id": "cs2-a28f0c10",
+        "name": "MAC-10",
+        "aliases": [
+          "mac10"
+        ],
+        "imageUrl": "/media/32af19edbc43.png"
+      },
+      {
+        "id": "cs2-07ca2055",
+        "name": "MP9",
+        "aliases": [],
+        "imageUrl": "/media/c0d6d5234ee3.png"
+      },
+      {
+        "id": "cs2-8064065c",
+        "name": "UMP-45",
+        "aliases": [
+          "ump"
+        ],
+        "imageUrl": "/media/679aba635f27.png"
+      },
+      {
+        "id": "cs2-6e747c49",
+        "name": "Nova",
+        "aliases": [],
+        "imageUrl": "/media/8a7089eeddbc.png"
+      },
+      {
+        "id": "cs2-2626a8bb",
+        "name": "XM1014",
+        "aliases": [],
+        "imageUrl": "/media/8732269294f1.png"
+      },
+      {
+        "id": "cs2-a135711c",
+        "name": "MAG-7",
+        "aliases": [
+          "mag7"
+        ],
+        "imageUrl": "/media/6edd211d4f10.png"
+      },
+      {
+        "id": "cs2-bfed6c03",
+        "name": "Negev",
+        "aliases": [],
+        "imageUrl": "/media/fff2319d3bba.png"
+      },
+      {
+        "id": "cs2-ed2da77a",
+        "name": "M249",
+        "aliases": [],
+        "imageUrl": "/media/96d073e91fa3.png"
+      },
+      {
+        "id": "cs2-0833906b",
+        "name": "Zeus x27",
+        "aliases": [
+          "zeus"
+        ],
+        "imageUrl": "/media/7dd910f88d38.png"
+      },
+      {
+        "id": "cs2-9eed9e07",
+        "name": "Koktajl Mołotowa",
+        "aliases": [
+          "molotov"
+        ],
+        "imageUrl": "/media/8def1fde47d5.png"
+      },
+      {
+        "id": "cs2-21e944af",
+        "name": "Granat błyskowy (Flashbang)",
+        "aliases": [
+          "flashbang",
+          "flash"
+        ],
+        "imageUrl": "/media/f86dd02e0318.png"
+      },
+      {
+        "id": "cs2-69e24c70",
+        "name": "Granat dymny (Smoke)",
+        "aliases": [
+          "smoke"
+        ],
+        "imageUrl": "/media/98b094da5837.png"
+      },
+      {
+        "id": "cs2-77b5f7d2",
+        "name": "Granat zaczepny (HE)",
+        "aliases": [
+          "he grenade",
+          "granat"
+        ],
+        "imageUrl": "/media/25b51e6463ab.png"
+      },
+      {
+        "id": "cs2-e78e1574",
+        "name": "Granat wabik (Decoy)",
+        "aliases": [
+          "decoy"
+        ],
+        "imageUrl": "/media/3780ba25af21.png"
+      },
+      {
+        "id": "cs2-01fdad81",
+        "name": "Zestaw do rozbrajania (Defuse Kit)",
+        "aliases": [
+          "defuse kit",
+          "defuser"
+        ],
+        "imageUrl": "/media/7a638d1d2807.png"
+      },
+      {
+        "id": "cs2-0720c275",
+        "name": "Bomba C4",
+        "aliases": [
+          "c4",
+          "paka"
+        ],
+        "imageUrl": "/media/d930279a7f76.png"
+      },
+      {
+        "id": "cs2-73efdf9e",
+        "name": "Kamizelka i hełm (Kevlar)",
+        "aliases": [
+          "kevlar"
+        ],
+        "imageUrl": "/media/575e439dbca3.png"
+      },
+      {
+        "id": "cs2-8bd573ab",
+        "name": "Karambit",
+        "aliases": [],
+        "imageUrl": "/media/667657d6a258.png"
+      },
+      {
+        "id": "cs2-14b0059f",
+        "name": "Nóż motylkowy (Butterfly Knife)",
+        "aliases": [
+          "butterfly"
+        ],
+        "imageUrl": "/media/303d820a4683.png"
+      },
+      {
+        "id": "cs2-1838c835",
+        "name": "Mirage",
+        "aliases": [],
+        "imageUrl": "/media/fc7059ddf214.png"
+      },
+      {
+        "id": "cs2-f2242c30",
+        "name": "Dust II",
+        "aliases": [
+          "dust2"
+        ],
+        "imageUrl": "/media/bcab24ce71c8.png"
+      },
+      {
+        "id": "cs2-8bb279f7",
+        "name": "Inferno",
+        "aliases": [],
+        "imageUrl": "/media/1ed3f43c7877.png"
+      },
+      {
+        "id": "cs2-3de95e23",
+        "name": "Nuke",
+        "aliases": [],
+        "imageUrl": "/media/8ccca956ec88.png"
+      },
+      {
+        "id": "cs2-e9a675ac",
+        "name": "Overpass",
+        "aliases": [],
+        "imageUrl": "/media/867e172d7c15.png"
+      },
+      {
+        "id": "cs2-bdf1893b",
+        "name": "Ancient",
+        "aliases": [],
+        "imageUrl": "/media/e6495d860762.png"
+      },
+      {
+        "id": "cs2-449b4d75",
+        "name": "Anubis",
+        "aliases": [],
+        "imageUrl": "/media/7e519ea6515a.png"
+      },
+      {
+        "id": "cs2-3ef72673",
+        "name": "Vertigo",
+        "aliases": [],
+        "imageUrl": "/media/21321d8f6fb2.jpg"
+      },
+      {
+        "id": "cs2-e41273f4",
+        "name": "Train",
+        "aliases": [],
+        "imageUrl": "/media/615ee1f0cdf4.png"
+      },
+      {
+        "id": "cs2-1a9b2afb",
+        "name": "Cobblestone",
+        "aliases": [
+          "cbble"
+        ],
+        "imageUrl": "/media/09d8e8dd1517.png"
       }
     ]
   },
