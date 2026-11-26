@@ -7614,7 +7614,7 @@ export const DEFAULT_CATEGORIES = [
           "piece of cake",
           "bulka z maslem"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EA%20piece%20of%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2249%22%3EZnaczenie%3A%20Bu%C5%82ka%20z%20mas%C5%82em%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EA%20piece%20of%20...%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-2",
@@ -7624,7 +7624,7 @@ export const DEFAULT_CATEGORIES = [
           "break a leg",
           "polamania nog"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBreak%20a%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E%C5%BByczenie%20szcz%C4%99%C5%9Bcia%20przed%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3Ewyst%C4%99pem%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBreak%20a%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-3",
@@ -7633,7 +7633,7 @@ export const DEFAULT_CATEGORIES = [
           "never",
           "better late than never"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2275%22%3EBetter%20late%20than%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EZnaczenie%3A%20Lepiej%20p%C3%B3%C5%BAno%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2275%22%3EBetter%20late%20than%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-4",
@@ -7642,7 +7642,7 @@ export const DEFAULT_CATEGORIES = [
           "cover",
           "book by its cover"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EDon't%20judge%20a%20book%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eby%20its%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EZnaczenie%3A%20Nie%20oceniaj%20po%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EDon%27t%20judge%20a%20book%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eby%20its%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-5",
@@ -7652,7 +7652,7 @@ export const DEFAULT_CATEGORIES = [
           "blue moon",
           "raz na ruski rok"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EOnce%20in%20a%20blue%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3EZnaczenie%3A%20Niezwykle%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3Erzadko%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EOnce%20in%20a%20blue%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-6",
@@ -7661,7 +7661,7 @@ export const DEFAULT_CATEGORIES = [
           "pigs",
           "when pigs fly"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EWhen%20...%20fly%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3EPolski%20odpowiednik%3A%20Jak%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3E%C5%9Bwinie%20zaczn%C4%85%20lata%C4%87%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EWhen%20...%20fly%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-7",
@@ -7670,7 +7670,7 @@ export const DEFAULT_CATEGORIES = [
           "stone",
           "two birds with one stone"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EKill%20two%20birds%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ewith%20one%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EDwie%20pieczenie%20na%20jednym%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EKill%20two%20birds%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ewith%20one%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-8",
@@ -7679,7 +7679,7 @@ export const DEFAULT_CATEGORIES = [
           "worm",
           "early bird"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20early%20bird%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ecatches%20the%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EKto%20rano%20wstaje%2C%20temu%20Pan%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20early%20bird%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ecatches%20the%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-9",
@@ -7688,7 +7688,7 @@ export const DEFAULT_CATEGORIES = [
           "bullet",
           "bite the bullet"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBite%20the%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3EZnaczenie%3A%20Prze%C5%82kn%C4%85%C4%87%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3Egorzk%C4%85%20pigu%C5%82k%C4%99%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBite%20the%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-10",
@@ -7697,7 +7697,7 @@ export const DEFAULT_CATEGORIES = [
           "nail",
           "hit the nail"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EHit%20the%20...%20on%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ehead%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EZnaczenie%3A%20Trafi%C4%87%20w%20sedno%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EHit%20the%20...%20on%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ehead%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-11",
@@ -7706,7 +7706,7 @@ export const DEFAULT_CATEGORIES = [
           "weather",
           "under the weather"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EUnder%20the%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3EZnaczenie%3A%20Czu%C4%87%20si%C4%99%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3Enieswojo%20%2F%20chorowa%C4%87%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EUnder%20the%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-12",
@@ -7715,7 +7715,7 @@ export const DEFAULT_CATEGORIES = [
           "beans",
           "spill the beans"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ESpill%20the%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2248%22%3EZnaczenie%3A%20Zdradzi%C4%87%20sekret%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ESpill%20the%20...%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-13",
@@ -7724,7 +7724,7 @@ export const DEFAULT_CATEGORIES = [
           "bag",
           "cat out of the bag"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3ELet%20the%20cat%20out%20of%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ethe%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EZnaczenie%3A%20Ujawni%C4%87%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3ELet%20the%20cat%20out%20of%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ethe%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-14",
@@ -7733,7 +7733,7 @@ export const DEFAULT_CATEGORIES = [
           "disguise",
           "blessing in disguise"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EA%20blessing%20in%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3ENie%20ma%20tego%20z%C5%82ego%2C%20co%20by%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3Ena%20dobre%20nie%20wysz%C5%82o%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EA%20blessing%20in%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-15",
@@ -7742,7 +7742,7 @@ export const DEFAULT_CATEGORIES = [
           "oil",
           "midnight oil"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EBurn%20the%20midnight%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EZnaczenie%3A%20Pracowa%C4%87%20do%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EBurn%20the%20midnight%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-16",
@@ -7751,7 +7751,7 @@ export const DEFAULT_CATEGORIES = [
           "cat",
           "curiosity killed the cat"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2275%22%3ECuriosity%20killed%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ethe%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EZbyt%20du%C5%BCa%20ciekawo%C5%9B%C4%87%20bywa%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2275%22%3ECuriosity%20killed%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ethe%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-17",
@@ -7760,7 +7760,7 @@ export const DEFAULT_CATEGORIES = [
           "lining",
           "silver lining"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EEvery%20cloud%20has%20a%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Esilver%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EW%20ka%C5%BCdym%20nieszcz%C4%99%C5%9Bciu%20jest%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EEvery%20cloud%20has%20a%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Esilver%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-18",
@@ -7769,7 +7769,7 @@ export const DEFAULT_CATEGORIES = [
           "gain",
           "no pain no gain"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ENo%20pain%2C%20no%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2248%22%3EBez%20wysi%C5%82ku%20nie%20ma%20efekt%C3%B3w%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ENo%20pain%2C%20no%20...%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-19",
@@ -7778,7 +7778,7 @@ export const DEFAULT_CATEGORIES = [
           "perfect",
           "practice makes perfect"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EPractice%20makes%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E%C4%86wiczenie%20czyni%20mistrza%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EPractice%20makes%20...%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-20",
@@ -7787,7 +7787,7 @@ export const DEFAULT_CATEGORIES = [
           "flies",
           "time flies"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ETime%20...%20when%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eyou%E2%80%99re%20having%20fun%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ECzas%20szybko%20p%C5%82ynie%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ETime%20...%20when%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eyou%E2%80%99re%20having%20fun%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-21",
@@ -7796,7 +7796,7 @@ export const DEFAULT_CATEGORIES = [
           "tree",
           "wrong tree"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBarking%20up%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ewrong%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ESzuka%C4%87%20winy%20nie%20tam%2C%20gdzie%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBarking%20up%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ewrong%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-22",
@@ -7805,7 +7805,7 @@ export const DEFAULT_CATEGORIES = [
           "dogs",
           "cats and dogs"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EIt's%20raining%20cats%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eand%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EPolski%20odpowiednik%3A%20Leje%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EIt%27s%20raining%20cats%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eand%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-23",
@@ -7814,7 +7814,7 @@ export const DEFAULT_CATEGORIES = [
           "words",
           "actions speak louder"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EActions%20speak%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Elouder%20than%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ECzyny%20s%C4%85%20wa%C5%BCniejsze%20od%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EActions%20speak%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Elouder%20than%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-24",
@@ -7823,7 +7823,7 @@ export const DEFAULT_CATEGORIES = [
           "ice",
           "break the ice"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBreak%20the%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3EZnaczenie%3A%20Prze%C5%82ama%C4%87%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3Epierwsze%20lody%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBreak%20the%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-25",
@@ -7832,7 +7832,7 @@ export const DEFAULT_CATEGORIES = [
           "elephant",
           "elephant in the room"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20...%20in%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eroom%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EOczywisty%20problem%2C%20o%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20...%20in%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eroom%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-26",
@@ -7841,7 +7841,7 @@ export const DEFAULT_CATEGORIES = [
           "boat",
           "same boat"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EWe%20are%20all%20in%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Esame%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EBy%C4%87%20w%20tej%20samej%20sytuacji%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EWe%20are%20all%20in%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Esame%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-27",
@@ -7850,7 +7850,7 @@ export const DEFAULT_CATEGORIES = [
           "storm",
           "calm before the storm"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20calm%20before%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ethe%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ECisza%20przed%20burz%C4%85%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20calm%20before%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ethe%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-28",
@@ -7859,7 +7859,7 @@ export const DEFAULT_CATEGORIES = [
           "mind",
           "out of sight out of mind"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EOut%20of%20sight%2C%20out%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eof%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ECo%20z%20oczu%2C%20to%20z%20serca%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EOut%20of%20sight%2C%20out%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eof%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-29",
@@ -7868,7 +7868,7 @@ export const DEFAULT_CATEGORIES = [
           "rome",
           "all roads lead to rome"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EAll%20roads%20lead%20to%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EWszystkie%20drogi%20prowadz%C4%85%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EAll%20roads%20lead%20to%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-30",
@@ -7877,7 +7877,7 @@ export const DEFAULT_CATEGORIES = [
           "day",
           "rome wasnt built in a day"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3ERome%20wasn't%20built%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ein%20a%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ENie%20od%20razu%20Krak%C3%B3w%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3ERome%20wasn%27t%20built%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ein%20a%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-31",
@@ -7886,7 +7886,7 @@ export const DEFAULT_CATEGORIES = [
           "choosers",
           "beggars cant be choosers"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2275%22%3EBeggars%20can't%20be%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EJak%20si%C4%99%20nie%20ma%2C%20co%20si%C4%99%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2275%22%3EBeggars%20can%27t%20be%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-32",
@@ -7895,7 +7895,7 @@ export const DEFAULT_CATEGORIES = [
           "feather",
           "birds of a feather"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBirds%20of%20a%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eflock%20together%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ECi%C4%85gnie%20sw%C3%B3j%20do%20swego%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EBirds%20of%20a%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eflock%20together%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-33",
@@ -7904,7 +7904,7 @@ export const DEFAULT_CATEGORIES = [
           "business",
           "mind your own business"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EMind%20your%20own%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3EPilnuj%20swojego%20nosa%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EMind%20your%20own%20...%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-34",
@@ -7913,7 +7913,7 @@ export const DEFAULT_CATEGORIES = [
           "milk",
           "spilt milk"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EDon't%20cry%20over%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Espilt%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ENie%20p%C5%82acz%20nad%20rozlanym%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EDon%27t%20cry%20over%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Espilt%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-35",
@@ -7922,7 +7922,7 @@ export const DEFAULT_CATEGORIES = [
           "basket",
           "eggs in one basket"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EDon't%20put%20all%20your%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eeggs%20in%20one%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ENie%20stawiaj%20wszystkiego%20na%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EDon%27t%20put%20all%20your%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eeggs%20in%20one%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-36",
@@ -7931,7 +7931,7 @@ export const DEFAULT_CATEGORIES = [
           "greener",
           "grass is always greener"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20grass%20is%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ealways%20...%20on%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3Eother%20side%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20grass%20is%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ealways%20...%20on%20the%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-37",
@@ -7940,7 +7940,7 @@ export const DEFAULT_CATEGORIES = [
           "doctor",
           "apple a day"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EAn%20apple%20a%20day%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ekeeps%20the%20...%20away%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EJedno%20jab%C5%82ko%20dziennie...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EAn%20apple%20a%20day%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ekeeps%20the%20...%20away%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-38",
@@ -7949,7 +7949,7 @@ export const DEFAULT_CATEGORIES = [
           "sword",
           "pen is mightier"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20pen%20is%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Emightier%20than%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3E...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EThe%20pen%20is%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Emightier%20than%20the%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-39",
@@ -7958,7 +7958,7 @@ export const DEFAULT_CATEGORIES = [
           "words",
           "thousand words"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EA%20picture%20is%20worth%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ea%20thousand%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EObraz%20wart%20tysi%C4%85ca%20s%C5%82%C3%B3w%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EA%20picture%20is%20worth%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ea%20thousand%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-40",
@@ -7967,7 +7967,7 @@ export const DEFAULT_CATEGORIES = [
           "tango",
           "takes two to tango"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EIt%20takes%20two%20to%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EDo%20tanga%20trzeba%20dwojga%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EIt%20takes%20two%20to%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-41",
@@ -7976,7 +7976,7 @@ export const DEFAULT_CATEGORIES = [
           "gold",
           "glitters is not gold"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EAll%20that%20glitters%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eis%20not%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3ENie%20wszystko%20z%C5%82oto%2C%20co%20si%C4%99%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22358%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2258%22%3EAll%20that%20glitters%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22452%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Eis%20not%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-42",
@@ -7985,7 +7985,7 @@ export const DEFAULT_CATEGORIES = [
           "waste",
           "haste makes waste"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EHaste%20makes%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3ECo%20nagle%2C%20to%20po%20diable%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EHaste%20makes%20...%3C%2Ftext%3E%0A%20%20%20%20%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-43",
@@ -7994,7 +7994,7 @@ export const DEFAULT_CATEGORIES = [
           "policy",
           "honesty is the best policy"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EHonesty%20is%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ebest%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EUczciwo%C5%9B%C4%87%20to%20najlepsza%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3EHonesty%20is%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ebest%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-44",
@@ -8003,7 +8003,7 @@ export const DEFAULT_CATEGORIES = [
           "medicine",
           "laughter is the best medicine"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ELaughter%20is%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ebest%20...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3E%C5%9Amiech%20to%20najlepsze%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ELaughter%20is%20the%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3Ebest%20...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       },
       {
         "id": "ep-45",
@@ -8012,7 +8012,7 @@ export const DEFAULT_CATEGORIES = [
           "leap",
           "look before you leap"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url(%23bg)%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ELook%20before%20you%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22690%22%20text-anchor%3D%22middle%22%20fill%3D%22%2394a3b8%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2234%22%3EZastan%C3%B3w%20si%C4%99%20przed%20skokiem%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
+        "imageUrl": "data:image/svg+xml;utf8,data%3Aimage%2Fsvg%2Bxml%3Butf8%2Cdata%3Aimage%2Fsvg%2Bxml%3Butf8%2C%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%0A%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%3CradialGradient%20id%3D%22bg%22%20cx%3D%2250%25%22%20cy%3D%2250%25%22%20r%3D%2270%25%22%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23172554%22%2F%3E%0A%20%20%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23090f24%22%2F%3E%0A%20%20%20%20%20%20%3C%2FradialGradient%3E%0A%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22url%28%23bg%29%22%2F%3E%0A%20%20%20%20%3Crect%20x%3D%2260%22%20y%3D%2265%22%20width%3D%22680%22%20height%3D%2258%22%20rx%3D%2229%22%20fill%3D%22%231e3a8a%22%20stroke%3D%22%2338bdf8%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%222%22%2F%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22102%22%20text-anchor%3D%22middle%22%20fill%3D%22%237dd3fc%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2228%22%20letter-spacing%3D%222%22%3EANGIELSKIE%20PRZYS%C5%81OWIE%20%2F%20IDIOM%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22354%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22900%22%20font-size%3D%2277%22%3ELook%20before%20you%3C%2Ftext%3E%0A%20%20%20%20%3Ctext%20x%3D%22400%22%20y%3D%22466%22%20text-anchor%3D%22middle%22%20fill%3D%22%23facc15%22%20font-family%3D%22system-ui%2C%20sans-serif%22%20font-weight%3D%22800%22%20font-size%3D%2250%22%3E...%3C%2Ftext%3E%0A%20%20%3C%2Fsvg%3E"
       }
     ]
   },
@@ -10271,7 +10271,7 @@ export const DEFAULT_CATEGORIES = [
           "canva",
           "kanwa"
         ],
-        "imageUrl": "/logos/cont-canva.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22cg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2300c4cc%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%237d2ae8%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Ccircle%20cx%3D%22200%22%20cy%3D%22200%22%20r%3D%22130%22%20fill%3D%22url%28%23cg%29%22%2F%3E%3Cpath%20d%3D%22M245%2C155%20C215%2C125%20155%2C140%20145%2C195%20C135%2C250%20185%2C275%20235%2C245%22%20fill%3D%22none%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%2228%22%20stroke-linecap%3D%22round%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "sca-a48d9345",
@@ -10792,7 +10792,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "nutella"
         ],
-        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20800%22%20width%3D%22800%22%20height%3D%22800%22%3E%3Crect%20width%3D%22800%22%20height%3D%22800%22%20fill%3D%22%23ffffff%22%2F%3E%3Crect%20x%3D%22275%22%20y%3D%22150%22%20width%3D%22250%22%20height%3D%2275%22%20rx%3D%2214%22%20fill%3D%22%23e2e8f0%22%20stroke%3D%22%2394a3b8%22%20stroke-width%3D%226%22%2F%3E%3Crect%20x%3D%22230%22%20y%3D%22225%22%20width%3D%22340%22%20height%3D%22410%22%20rx%3D%2245%22%20fill%3D%22%23451a03%22%2F%3E%3Crect%20x%3D%22250%22%20y%3D%22320%22%20width%3D%22300%22%20height%3D%22220%22%20rx%3D%2216%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fsvg%3E"
+        "imageUrl": "/media/nutella-real.jpg"
       },
       {
         "id": "food-c67ebc63",
@@ -14858,7 +14858,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "prada"
         ],
-        "imageUrl": "/logos/fash-prada.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%3E%3Cpolygon%20points%3D%22-130%2C-80%20130%2C-80%200%2C115%22%20fill%3D%22%23111111%22%2F%3E%3Cpolygon%20points%3D%22-108%2C-66%20108%2C-66%200%2C92%22%20fill%3D%22none%22%20stroke%3D%22%23d4af37%22%20stroke-width%3D%226%22%2F%3E%3Cline%20x1%3D%22-55%22%20y1%3D%22-30%22%20x2%3D%2255%22%20y2%3D%22-30%22%20stroke%3D%22%23d4af37%22%20stroke-width%3D%228%22%2F%3E%3Ccircle%20cx%3D%220%22%20cy%3D%2210%22%20r%3D%2214%22%20fill%3D%22%23d4af37%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-balenciaga",
@@ -14867,7 +14867,7 @@ export const DEFAULT_CATEGORIES = [
           "balenciaga",
           "balensjaga"
         ],
-        "imageUrl": "/logos/fash-balenciaga.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23111111%22%20stroke-width%3D%2220%22%3E%3Cpath%20d%3D%22M-20%2C-75%20H-85%20V75%20H-20%20C15%2C75%2015%2C0%20-20%2C0%20C15%2C0%2015%2C-75%20-20%2C-75%20Z%22%2F%3E%3Cpath%20d%3D%22M20%2C-75%20H85%20V75%20H20%20C-15%2C75%20-15%2C0%2020%2C0%20C-15%2C0%20-15%2C-75%2020%2C-75%20Z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-ysl",
@@ -14878,7 +14878,7 @@ export const DEFAULT_CATEGORIES = [
           "yves saint laurent",
           "sen loran"
         ],
-        "imageUrl": "/logos/fash-ysl.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23111111%22%20stroke-width%3D%2218%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%3E%3Cpath%20d%3D%22M-55%2C-105%20L0%2C-15%20L55%2C-105%20M0%2C-15%20V105%22%2F%3E%3Cpath%20d%3D%22M35%2C-65%20C-35%2C-75%20-45%2C-15%200%2C0%20C45%2C15%2035%2C75%20-35%2C65%22%2F%3E%3Cpath%20d%3D%22M-25%2C-95%20V95%20H45%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-chanel",
@@ -14887,7 +14887,7 @@ export const DEFAULT_CATEGORIES = [
           "chanel",
           "szanel"
         ],
-        "imageUrl": "/logos/fash-chanel.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23111111%22%20stroke-width%3D%2224%22%20stroke-linecap%3D%22round%22%3E%3Cpath%20d%3D%22M15%2C-72%20A78%2C78%200%201%2C0%2015%2C72%22%2F%3E%3Cpath%20d%3D%22M-15%2C-72%20A78%2C78%200%201%2C1%20-15%2C72%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-hermes",
@@ -14915,7 +14915,7 @@ export const DEFAULT_CATEGORIES = [
           "versace",
           "wersacze"
         ],
-        "imageUrl": "/logos/fash-versace.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23b45309%22%20stroke-width%3D%2214%22%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%22120%22%2F%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2288%22%2F%3E%3Cpath%20d%3D%22M-55%2C-20%20H55%20M-55%2C20%20H55%20M-20%2C-55%20V55%20M20%2C-55%20V55%22%20stroke-width%3D%2210%22%2F%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2232%22%20fill%3D%22%23fef3c7%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-fendi",
@@ -14942,7 +14942,7 @@ export const DEFAULT_CATEGORIES = [
           "burberry",
           "barberi"
         ],
-        "imageUrl": "/logos/fash-burberry.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%3E%3Crect%20x%3D%2240%22%20y%3D%2240%22%20width%3D%22320%22%20height%3D%22320%22%20fill%3D%22%23d6c3a5%22%2F%3E%3Crect%20x%3D%2240%22%20y%3D%22110%22%20width%3D%22320%22%20height%3D%2245%22%20fill%3D%22%23111111%22%20fill-opacity%3D%220.85%22%2F%3E%3Crect%20x%3D%2240%22%20y%3D%22245%22%20width%3D%22320%22%20height%3D%2245%22%20fill%3D%22%23111111%22%20fill-opacity%3D%220.85%22%2F%3E%3Crect%20x%3D%22110%22%20y%3D%2240%22%20width%3D%2245%22%20height%3D%22320%22%20fill%3D%22%23111111%22%20fill-opacity%3D%220.85%22%2F%3E%3Crect%20x%3D%22245%22%20y%3D%2240%22%20width%3D%2245%22%20height%3D%22320%22%20fill%3D%22%23111111%22%20fill-opacity%3D%220.85%22%2F%3E%3Crect%20x%3D%2240%22%20y%3D%22192%22%20width%3D%22320%22%20height%3D%2216%22%20fill%3D%22%23b91c1c%22%2F%3E%3Crect%20x%3D%22192%22%20y%3D%2240%22%20width%3D%2216%22%20height%3D%22320%22%20fill%3D%22%23b91c1c%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-bottega",
@@ -14951,7 +14951,7 @@ export const DEFAULT_CATEGORIES = [
           "bottega veneta",
           "bottega"
         ],
-        "imageUrl": "/logos/fash-bottega.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%2860%2C60%29%22%3E%3Crect%20width%3D%22280%22%20height%3D%22280%22%20rx%3D%2224%22%20fill%3D%22%2314532d%22%2F%3E%3Cg%20stroke%3D%22%2322c55e%22%20stroke-opacity%3D%220.45%22%20stroke-width%3D%2222%22%3E%3Cline%20x1%3D%22-40%22%20y1%3D%2260%22%20x2%3D%22220%22%20y2%3D%22320%22%2F%3E%3Cline%20x1%3D%2220%22%20y1%3D%22-20%22%20x2%3D%22300%22%20y2%3D%22260%22%2F%3E%3Cline%20x1%3D%22100%22%20y1%3D%22-40%22%20x2%3D%22340%22%20y2%3D%22200%22%2F%3E%3Cline%20x1%3D%2260%22%20y1%3D%22320%22%20x2%3D%22320%22%20y2%3D%2260%22%2F%3E%3Cline%20x1%3D%22-20%22%20y1%3D%22260%22%20x2%3D%22260%22%20y2%3D%22-20%22%2F%3E%3Cline%20x1%3D%22-40%22%20y1%3D%22180%22%20x2%3D%22180%22%20y2%3D%22-40%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-jacquemus",
@@ -14960,7 +14960,7 @@ export const DEFAULT_CATEGORIES = [
           "jacquemus",
           "żakmus"
         ],
-        "imageUrl": "/logos/fash-jacquemus.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C210%29%22%3E%3Cpath%20d%3D%22M-45%2C-40%20C-45%2C-115%2045%2C-115%2045%2C-40%22%20fill%3D%22none%22%20stroke%3D%22%23ec4899%22%20stroke-width%3D%2216%22%2F%3E%3Cpolygon%20points%3D%22-85%2C-40%2085%2C-40%20100%2C85%20-100%2C85%22%20fill%3D%22%23ec4899%22%20rx%3D%2212%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-loewe",
@@ -14968,7 +14968,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "loewe"
         ],
-        "imageUrl": "/logos/fash-loewe.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23111111%22%20stroke-width%3D%2214%22%3E%3Ccircle%20cx%3D%22-50%22%20cy%3D%22-50%22%20r%3D%2242%22%2F%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%22-50%22%20r%3D%2242%22%2F%3E%3Ccircle%20cx%3D%22-50%22%20cy%3D%2250%22%20r%3D%2242%22%2F%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2242%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-celine",
@@ -14977,7 +14977,7 @@ export const DEFAULT_CATEGORIES = [
           "celine",
           "selin"
         ],
-        "imageUrl": "/logos/fash-celine.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23b45309%22%20stroke-width%3D%2218%22%3E%3Cpath%20d%3D%22M-15%2C-70%20C-85%2C-70%20-105%2C-25%20-105%2C0%20C-105%2C25%20-85%2C70%20-15%2C70%20Z%22%2F%3E%3Cpath%20d%3D%22M15%2C-70%20C85%2C-70%20105%2C-25%20105%2C0%20C105%2C25%2085%2C70%2015%2C70%20Z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-valentino",
@@ -14985,7 +14985,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "valentino"
         ],
-        "imageUrl": "/logos/fash-valentino.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23b91c1c%22%20stroke-width%3D%2220%22%3E%3Cellipse%20cx%3D%220%22%20cy%3D%220%22%20rx%3D%22115%22%20ry%3D%2278%22%2F%3E%3Cpolyline%20points%3D%22-52%2C-42%200%2C52%2052%2C-42%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-givenchy",
@@ -15003,7 +15003,7 @@ export const DEFAULT_CATEGORIES = [
           "balmain",
           "balmę"
         ],
-        "imageUrl": "/logos/fash-balmain.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23111111%22%20stroke-width%3D%2218%22%3E%3Crect%20x%3D%22-85%22%20y%3D%22-105%22%20width%3D%22170%22%20height%3D%22210%22%2F%3E%3Cpath%20d%3D%22M-85%2C0%20H45%20C75%2C0%2075%2C-55%2030%2C-55%20H-45%20V55%20H30%20C75%2C55%2075%2C0%2045%2C0%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-margiela",
@@ -15033,7 +15033,7 @@ export const DEFAULT_CATEGORIES = [
           "alexander mcqueen",
           "mcqueen"
         ],
-        "imageUrl": "/logos/fash-mcqueen.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%3E%3Cpath%20d%3D%22M0%2C-105%20C-70%2C-105%20-95%2C-55%20-95%2C0%20C-95%2C40%20-65%2C65%20-45%2C75%20V105%20H45%20V75%20C65%2C65%2095%2C40%2095%2C0%20C95%2C-55%2070%2C-105%200%2C-105%20Z%22%20fill%3D%22%23111111%22%2F%3E%3Ccircle%20cx%3D%22-35%22%20cy%3D%22-10%22%20r%3D%2220%22%20fill%3D%22%23ffffff%22%2F%3E%3Ccircle%20cx%3D%2235%22%20cy%3D%22-10%22%20r%3D%2220%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpolygon%20points%3D%220%2C15%20-14%2C42%2014%2C42%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-vivienne",
@@ -15042,7 +15042,7 @@ export const DEFAULT_CATEGORIES = [
           "vivienne westwood",
           "westwood"
         ],
-        "imageUrl": "/logos/fash-vivienne.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C210%29%22%20fill%3D%22none%22%20stroke%3D%22%23111111%22%20stroke-width%3D%2214%22%3E%3Ccircle%20cx%3D%220%22%20cy%3D%2210%22%20r%3D%2268%22%2F%3E%3Cellipse%20cx%3D%220%22%20cy%3D%2210%22%20rx%3D%22135%22%20ry%3D%2234%22%20transform%3D%22rotate%28-18%29%22%2F%3E%3Cline%20x1%3D%220%22%20y1%3D%22-58%22%20x2%3D%220%22%20y2%3D%22-115%22%2F%3E%3Cline%20x1%3D%22-28%22%20y1%3D%22-92%22%20x2%3D%2228%22%20y2%3D%22-92%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-miumiu",
@@ -15050,7 +15050,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "miu miu"
         ],
-        "imageUrl": "/logos/fash-miumiu.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C205%29%22%3E%3Crect%20x%3D%22-115%22%20y%3D%22-65%22%20width%3D%22230%22%20height%3D%22150%22%20rx%3D%2226%22%20fill%3D%22%23fbcfe8%22%20stroke%3D%22%23be185d%22%20stroke-width%3D%2210%22%2F%3E%3Cpath%20d%3D%22M-115%2C-20%20Q-60%2C20%200%2C-20%20T115%2C-20%20M-115%2C35%20Q-60%2C75%200%2C35%20T115%2C35%22%20fill%3D%22none%22%20stroke%3D%22%23be185d%22%20stroke-width%3D%227%22%2F%3E%3Cpath%20d%3D%22M-45%2C-65%20C-45%2C-120%2045%2C-120%2045%2C-65%22%20fill%3D%22none%22%20stroke%3D%22%23be185d%22%20stroke-width%3D%2212%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-schiaparelli",
@@ -15059,7 +15059,7 @@ export const DEFAULT_CATEGORIES = [
           "schiaparelli",
           "skiaparelli"
         ],
-        "imageUrl": "/logos/fash-schiaparelli.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23111111%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22%23d4af37%22%3E%3Ccircle%20cx%3D%220%22%20cy%3D%22-35%22%20r%3D%2252%22%2F%3E%3Cpolygon%20points%3D%22-24%2C0%2024%2C0%2042%2C105%20-42%2C105%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-offwhite",
@@ -15068,7 +15068,7 @@ export const DEFAULT_CATEGORIES = [
           "off white",
           "off-white"
         ],
-        "imageUrl": "/logos/fash-offwhite.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20stroke%3D%22%23111111%22%20stroke-width%3D%2226%22%20stroke-linecap%3D%22square%22%3E%3Cline%20x1%3D%22-95%22%20y1%3D%22-95%22%20x2%3D%2295%22%20y2%3D%2295%22%2F%3E%3Cline%20x1%3D%2295%22%20y1%3D%22-95%22%20x2%3D%22-95%22%20y2%3D%2295%22%2F%3E%3Cpolyline%20points%3D%2245%2C-95%2095%2C-95%2095%2C-45%22%20fill%3D%22none%22%2F%3E%3Cpolyline%20points%3D%22-45%2C95%20-95%2C95%20-95%2C45%22%20fill%3D%22none%22%2F%3E%3Cpolyline%20points%3D%22-95%2C-45%20-95%2C-95%20-45%2C-95%22%20fill%3D%22none%22%2F%3E%3Cpolyline%20points%3D%2295%2C45%2095%2C95%2045%2C95%22%20fill%3D%22none%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-moncler",
@@ -15077,7 +15077,7 @@ export const DEFAULT_CATEGORIES = [
           "moncler",
           "monkler"
         ],
-        "imageUrl": "/logos/fash-moncler.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%3E%3Cpolygon%20points%3D%220%2C-125%20105%2C-55%2085%2C85%200%2C125%20-85%2C85%20-105%2C-55%22%20fill%3D%22%231e3a8a%22%2F%3E%3Cpolygon%20points%3D%220%2C-105%2088%2C-45%2070%2C72%200%2C105%20-70%2C72%20-88%2C-45%22%20fill%3D%22%23ffffff%22%2F%3E%3Cpath%20d%3D%22M-45%2C45%20L-45%2C-35%20L0%2C10%20L45%2C-35%20L45%2C45%22%20fill%3D%22none%22%20stroke%3D%22%23dc2626%22%20stroke-width%3D%2220%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-rimowa",
@@ -15085,7 +15085,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "rimowa"
         ],
-        "imageUrl": "/logos/fash-rimowa.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%3E%3Crect%20x%3D%22-95%22%20y%3D%22-115%22%20width%3D%22190%22%20height%3D%22230%22%20rx%3D%2222%22%20fill%3D%22%23cbd5e1%22%20stroke%3D%22%23475569%22%20stroke-width%3D%2210%22%2F%3E%3Cline%20x1%3D%22-60%22%20y1%3D%22-100%22%20x2%3D%22-60%22%20y2%3D%22100%22%20stroke%3D%22%2364748b%22%20stroke-width%3D%228%22%2F%3E%3Cline%20x1%3D%22-30%22%20y1%3D%22-100%22%20x2%3D%22-30%22%20y2%3D%22100%22%20stroke%3D%22%2364748b%22%20stroke-width%3D%228%22%2F%3E%3Cline%20x1%3D%220%22%20y1%3D%22-100%22%20x2%3D%220%22%20y2%3D%22100%22%20stroke%3D%22%2364748b%22%20stroke-width%3D%228%22%2F%3E%3Cline%20x1%3D%2230%22%20y1%3D%22-100%22%20x2%3D%2230%22%20y2%3D%22100%22%20stroke%3D%22%2364748b%22%20stroke-width%3D%228%22%2F%3E%3Cline%20x1%3D%2260%22%20y1%3D%22-100%22%20x2%3D%2260%22%20y2%3D%22100%22%20stroke%3D%22%2364748b%22%20stroke-width%3D%228%22%2F%3E%3Crect%20x%3D%22-35%22%20y%3D%22-140%22%20width%3D%2270%22%20height%3D%2225%22%20rx%3D%226%22%20fill%3D%22none%22%20stroke%3D%22%23334155%22%20stroke-width%3D%2210%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-louboutin",
@@ -15103,7 +15103,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "loro piana"
         ],
-        "imageUrl": "/logos/fash-loropiana.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%2378350f%22%20stroke-width%3D%2214%22%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%22105%22%20fill%3D%22%23fef3c7%22%2F%3E%3Cpath%20d%3D%22M-65%2C-40%20C-20%2C-80%2020%2C0%2065%2C-40%20M-75%2C0%20C-25%2C-40%2025%2C40%2075%2C0%20M-65%2C40%20C-20%2C0%2020%2C80%2065%2C40%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-goyard",
@@ -15112,7 +15112,7 @@ export const DEFAULT_CATEGORIES = [
           "goyard",
           "gojar"
         ],
-        "imageUrl": "/logos/fash-goyard.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%2860%2C60%29%22%3E%3Crect%20width%3D%22280%22%20height%3D%22280%22%20rx%3D%2218%22%20fill%3D%22%23111827%22%2F%3E%3Cg%20stroke%3D%22%23f59e0b%22%20stroke-width%3D%2214%22%20stroke-linecap%3D%22round%22%20fill%3D%22none%22%3E%3Cpolyline%20points%3D%2240%2C40%2090%2C90%20140%2C40%22%2F%3E%3Cline%20x1%3D%2290%22%20y1%3D%2290%22%20x2%3D%2290%22%20y2%3D%22150%22%2F%3E%3Cpolyline%20points%3D%22140%2C40%20190%2C90%20240%2C40%22%2F%3E%3Cline%20x1%3D%22190%22%20y1%3D%2290%22%20x2%3D%22190%22%20y2%3D%22150%22%2F%3E%3Cpolyline%20points%3D%2240%2C150%2090%2C200%20140%2C150%22%2F%3E%3Cline%20x1%3D%2290%22%20y1%3D%22200%22%20x2%3D%2290%22%20y2%3D%22260%22%2F%3E%3Cpolyline%20points%3D%22140%2C150%20190%2C200%20240%2C150%22%2F%3E%3Cline%20x1%3D%22190%22%20y1%3D%22200%22%20x2%3D%22190%22%20y2%3D%22260%22%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-cdg",
@@ -15122,7 +15122,7 @@ export const DEFAULT_CATEGORIES = [
           "cdg",
           "kom de garsą"
         ],
-        "imageUrl": "/logos/fash-cdg.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C215%29%22%3E%3Cpath%20d%3D%22M0%2C105%20C-120%2C25%20-135%2C-85%20-55%2C-105%20C-15%2C-115%200%2C-75%200%2C-75%20C0%2C-75%2015%2C-115%2055%2C-105%20C135%2C-85%20120%2C25%200%2C105%20Z%22%20fill%3D%22%23dc2626%22%2F%3E%3Cellipse%20cx%3D%22-38%22%20cy%3D%22-35%22%20rx%3D%2222%22%20ry%3D%2228%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%23111111%22%20stroke-width%3D%225%22%2F%3E%3Cellipse%20cx%3D%2238%22%20cy%3D%22-35%22%20rx%3D%2222%22%20ry%3D%2228%22%20fill%3D%22%23ffffff%22%20stroke%3D%22%23111111%22%20stroke-width%3D%225%22%2F%3E%3Ccircle%20cx%3D%22-35%22%20cy%3D%22-32%22%20r%3D%2210%22%20fill%3D%22%23111111%22%2F%3E%3Ccircle%20cx%3D%2241%22%20cy%3D%22-32%22%20r%3D%2210%22%20fill%3D%22%23111111%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-cartier",
@@ -15131,7 +15131,7 @@ export const DEFAULT_CATEGORIES = [
           "cartier",
           "kartie"
         ],
-        "imageUrl": "/logos/fash-cartier.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%23d4af37%22%20stroke-width%3D%2218%22%3E%3Cellipse%20cx%3D%220%22%20cy%3D%220%22%20rx%3D%22125%22%20ry%3D%2290%22%2F%3E%3Ccircle%20cx%3D%22-75%22%20cy%3D%220%22%20r%3D%2214%22%20fill%3D%22%23d4af37%22%20stroke%3D%22none%22%2F%3E%3Ccircle%20cx%3D%2275%22%20cy%3D%220%22%20r%3D%2214%22%20fill%3D%22%23d4af37%22%20stroke%3D%22none%22%2F%3E%3Ccircle%20cx%3D%220%22%20cy%3D%22-60%22%20r%3D%2214%22%20fill%3D%22%23d4af37%22%20stroke%3D%22none%22%2F%3E%3Ccircle%20cx%3D%220%22%20cy%3D%2260%22%20r%3D%2214%22%20fill%3D%22%23d4af37%22%20stroke%3D%22none%22%2F%3E%3Cline%20x1%3D%22-84%22%20y1%3D%220%22%20x2%3D%22-66%22%20y2%3D%220%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%224%22%2F%3E%3Cline%20x1%3D%2266%22%20y1%3D%220%22%20x2%3D%2284%22%20y2%3D%220%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%224%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "fash-calvinklein",
@@ -15249,7 +15249,7 @@ export const DEFAULT_CATEGORIES = [
           "anthropic",
           "klod"
         ],
-        "imageUrl": "/logos/ai-claude.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%2880%2C80%29%20scale%2810%29%22%3E%3Cpath%20d%3D%22M17.3041%203.541h-3.6718l6.696%2016.918H24Zm-10.6082%200L0%2020.459h3.7442l1.3693-3.5527h7.0052l1.3693%203.5528h3.7442L10.5363%203.5409Zm-.3712%2010.2232%202.2914-5.9456%202.2914%205.9456Z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-midjourney",
@@ -15267,7 +15267,7 @@ export const DEFAULT_CATEGORIES = [
           "perplexity",
           "perplexity ai"
         ],
-        "imageUrl": "/logos/ai-perplexity.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%2880%2C80%29%20scale%2810%29%22%3E%3Cpath%20d%3D%22M22.3977%207.0896h-2.3106V.0676l-7.5094%206.3542V.1577h-1.1554v6.1966L4.4904%200v7.0896H1.6023v10.3976h2.8882V24l6.932-6.3591v6.2005h1.1554v-6.0469l6.9318%206.1807v-6.4879h2.8882V7.0896zm-3.4657-4.531v4.531h-5.355l5.355-4.531zm-13.2862.0676%204.8691%204.4634H5.6458V2.6262zM2.7576%2016.332V8.245h7.8476l-6.1149%206.1147v1.9723H2.7576zm2.8882%205.0404v-3.8852h.0001v-2.6488l5.7763-5.7764v7.0111l-5.7764%205.2993zm12.7086.0248-5.7766-5.1509V9.0618l5.7766%205.7766v6.5588zm2.8882-5.0652h-1.733v-1.9723L13.3948%208.245h7.8478v8.087z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-gemini",
@@ -15277,7 +15277,7 @@ export const DEFAULT_CATEGORIES = [
           "google gemini",
           "dżemini"
         ],
-        "imageUrl": "/logos/ai-gemini.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%2880%2C80%29%20scale%2810%29%22%3E%3Cpath%20d%3D%22M11.04%2019.32Q12%2021.51%2012%2024q0-2.49.93-4.68.96-2.19%202.58-3.81t3.81-2.55Q21.51%2012%2024%2012q-2.49%200-4.68-.93a12.3%2012.3%200%200%201-3.81-2.58%2012.3%2012.3%200%200%201-2.58-3.81Q12%202.49%2012%200q0%202.49-.96%204.68-.93%202.19-2.55%203.81a12.3%2012.3%200%200%201-3.81%202.58Q2.49%2012%200%2012q2.49%200%204.68.96%202.19.93%203.81%202.55t2.55%203.81%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-copilot",
@@ -15287,7 +15287,7 @@ export const DEFAULT_CATEGORIES = [
           "github copilot",
           "kopilot"
         ],
-        "imageUrl": "/logos/ai-copilot.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%2880%2C80%29%20scale%2810%29%22%3E%3Cpath%20d%3D%22M23.922%2016.997C23.061%2018.492%2018.063%2022.02%2012%2022.02%205.937%2022.02.939%2018.492.078%2016.997A.641.641%200%200%201%200%2016.741v-2.869a.883.883%200%200%201%20.053-.22c.372-.935%201.347-2.292%202.605-2.656.167-.429.414-1.055.644-1.517a10.098%2010.098%200%200%201-.052-1.086c0-1.331.282-2.499%201.132-3.368.397-.406.89-.717%201.474-.952C7.255%202.937%209.248%201.98%2011.978%201.98c2.731%200%204.767.957%206.166%202.093.584.235%201.077.546%201.474.952.85.869%201.132%202.037%201.132%203.368%200%20.368-.014.733-.052%201.086.23.462.477%201.088.644%201.517%201.258.364%202.233%201.721%202.605%202.656a.841.841%200%200%201%20.053.22v2.869a.641.641%200%200%201-.078.256Zm-11.75-5.992h-.344a4.359%204.359%200%200%201-.355.508c-.77.947-1.918%201.492-3.508%201.492-1.725%200-2.989-.359-3.782-1.259a2.137%202.137%200%200%201-.085-.104L4%2011.746v6.585c1.435.779%204.514%202.179%208%202.179%203.486%200%206.565-1.4%208-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057%201.259-3.782%201.259-1.59%200-2.738-.545-3.508-1.492a4.359%204.359%200%200%201-.355-.508Zm2.328%203.25c.549%200%201%20.451%201%201v2c0%20.549-.451%201-1%201-.549%200-1-.451-1-1v-2c0-.549.451-1%201-1Zm-5%200c.549%200%201%20.451%201%201v2c0%20.549-.451%201-1%201-.549%200-1-.451-1-1v-2c0-.549.451-1%201-1Zm3.313-6.185c.136%201.057.403%201.913.878%202.497.442.544%201.134.938%202.344.938%201.573%200%202.292-.337%202.657-.751.384-.435.558-1.15.558-2.361%200-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438%201.578v.021c0%20.265.021.562.063.893Zm-1.626%200c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824%201.025-.462.472-.705%201.179-.705%202.319%200%201.211.175%201.926.558%202.361.365.414%201.084.751%202.657.751%201.21%200%201.902-.394%202.344-.938.475-.584.742-1.44.878-2.497Z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-runway",
@@ -15296,7 +15296,7 @@ export const DEFAULT_CATEGORIES = [
           "runway",
           "runway ml"
         ],
-        "imageUrl": "/logos/ai-runway.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%230f172a%22%2F%3E%3Cg%20fill%3D%22%23ffffff%22%3E%3Crect%20x%3D%2285%22%20y%3D%22105%22%20width%3D%22230%22%20height%3D%2254%22%20rx%3D%2227%22%2F%3E%3Crect%20x%3D%2285%22%20y%3D%22175%22%20width%3D%22165%22%20height%3D%2254%22%20rx%3D%2227%22%2F%3E%3Crect%20x%3D%2285%22%20y%3D%22245%22%20width%3D%22105%22%20height%3D%2254%22%20rx%3D%2227%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-elevenlabs",
@@ -15306,7 +15306,7 @@ export const DEFAULT_CATEGORIES = [
           "eleven labs",
           "ilewen labs"
         ],
-        "imageUrl": "/logos/ai-elevenlabs.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%2880%2C80%29%20scale%2810%29%22%3E%3Cpath%20d%3D%22M4.6035%200v24h4.9317V0zm9.8613%200v24h4.9317V0z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-notion",
@@ -15325,7 +15325,7 @@ export const DEFAULT_CATEGORIES = [
           "deep seek",
           "dipsik"
         ],
-        "imageUrl": "/logos/ai-deepseek.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C205%29%22%20fill%3D%22%232563eb%22%3E%3Cpath%20d%3D%22M-95%2C15%20C-95%2C-55%20-30%2C-95%2045%2C-75%20C95%2C-62%20115%2C-10%2095%2C35%20C78%2C72%2030%2C90%20-25%2C82%20C-68%2C76%20-95%2C48%20-95%2C15%20Z%22%2F%3E%3Cpath%20d%3D%22M65%2C-55%20C95%2C-95%20125%2C-90%20118%2C-55%20C112%2C-35%2088%2C-28%2065%2C-55%20Z%22%20fill%3D%22%2338bdf8%22%2F%3E%3Ccircle%20cx%3D%22-35%22%20cy%3D%22-10%22%20r%3D%2211%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-mistral",
@@ -15351,7 +15351,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "udio"
         ],
-        "imageUrl": "/logos/ai-udio.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%22120%22%20fill%3D%22%23ef4444%22%2F%3E%3Cpath%20d%3D%22M-45%2C-55%20V18%20A45%2C45%200%200%2C0%2045%2C18%20V-55%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%2224%22%20stroke-linecap%3D%22round%22%20fill%3D%22none%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-stablediffusion",
@@ -15378,7 +15378,7 @@ export const DEFAULT_CATEGORIES = [
           "grok",
           "xai"
         ],
-        "imageUrl": "/logos/ai-grok.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%2309090b%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%2224%22%20stroke-linecap%3D%22round%22%20fill%3D%22none%22%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%2295%22%20stroke-dasharray%3D%22470%20130%22%20transform%3D%22rotate%28-35%29%22%2F%3E%3Cline%20x1%3D%22-85%22%20y1%3D%2285%22%20x2%3D%2295%22%20y2%3D%22-95%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-sora",
@@ -15386,7 +15386,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "sora"
         ],
-        "imageUrl": "/logos/ai-sora.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%20fill%3D%22none%22%20stroke%3D%22%2310a37f%22%20stroke-width%3D%2218%22%3E%3Ccircle%20cx%3D%220%22%20cy%3D%220%22%20r%3D%22105%22%2F%3E%3Cpolygon%20points%3D%22-28%2C-48%2056%2C0%20-28%2C48%22%20fill%3D%22%2310a37f%22%20stroke%3D%22none%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-cohere",
@@ -15403,7 +15403,7 @@ export const DEFAULT_CATEGORIES = [
           "synthesia",
           "syntezja"
         ],
-        "imageUrl": "/logos/ai-synthesia.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%3E%3Crect%20x%3D%22-110%22%20y%3D%22-110%22%20width%3D%22220%22%20height%3D%22220%22%20rx%3D%2248%22%20fill%3D%22%234f46e5%22%2F%3E%3Cpolygon%20points%3D%22-32%2C-52%2062%2C0%20-32%2C52%22%20fill%3D%22%23ffffff%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-replit",
@@ -15420,7 +15420,7 @@ export const DEFAULT_CATEGORIES = [
           "character ai",
           "character.ai"
         ],
-        "imageUrl": "/logos/ai-characterai.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C200%29%22%3E%3Ccircle%20cx%3D%22-35%22%20cy%3D%22-15%22%20r%3D%2278%22%20fill%3D%22%2318181b%22%2F%3E%3Ccircle%20cx%3D%2265%22%20cy%3D%2245%22%20r%3D%2246%22%20fill%3D%22%233b82f6%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "ai-cursor",
@@ -15602,7 +15602,7 @@ export const DEFAULT_CATEGORIES = [
           "canva",
           "kanwa"
         ],
-        "imageUrl": "/logos/cont-canva.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22cg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2300c4cc%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%237d2ae8%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Ccircle%20cx%3D%22200%22%20cy%3D%22200%22%20r%3D%22130%22%20fill%3D%22url%28%23cg%29%22%2F%3E%3Cpath%20d%3D%22M245%2C155%20C215%2C125%20155%2C140%20145%2C195%20C135%2C250%20185%2C275%20235%2C245%22%20fill%3D%22none%22%20stroke%3D%22%23ffffff%22%20stroke-width%3D%2228%22%20stroke-linecap%3D%22round%22%2F%3E%3C%2Fsvg%3E"
       },
       {
         "id": "cont-premiere",
@@ -15732,7 +15732,7 @@ export const DEFAULT_CATEGORIES = [
           "ableton",
           "ableton live"
         ],
-        "imageUrl": "/logos/cont-ableton.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20fill%3D%22%23111111%22%3E%3Crect%20x%3D%2270%22%20y%3D%22130%22%20width%3D%2218%22%20height%3D%22140%22%20rx%3D%223%22%2F%3E%3Crect%20x%3D%22102%22%20y%3D%22130%22%20width%3D%2218%22%20height%3D%22140%22%20rx%3D%223%22%2F%3E%3Crect%20x%3D%22134%22%20y%3D%22130%22%20width%3D%2218%22%20height%3D%22140%22%20rx%3D%223%22%2F%3E%3Crect%20x%3D%22166%22%20y%3D%22130%22%20width%3D%2218%22%20height%3D%22140%22%20rx%3D%223%22%2F%3E%3Crect%20x%3D%22206%22%20y%3D%22130%22%20width%3D%22124%22%20height%3D%2218%22%20rx%3D%223%22%2F%3E%3Crect%20x%3D%22206%22%20y%3D%22171%22%20width%3D%22124%22%20height%3D%2218%22%20rx%3D%223%22%2F%3E%3Crect%20x%3D%22206%22%20y%3D%22212%22%20width%3D%22124%22%20height%3D%2218%22%20rx%3D%223%22%2F%3E%3Crect%20x%3D%22206%22%20y%3D%22252%22%20width%3D%22124%22%20height%3D%2218%22%20rx%3D%223%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "cont-flstudio",
@@ -15741,7 +15741,7 @@ export const DEFAULT_CATEGORIES = [
           "fl studio",
           "fruity loops"
         ],
-        "imageUrl": "/logos/cont-flstudio.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%28200%2C210%29%22%3E%3Cpath%20d%3D%22M-12%2C-110%20C10%2C-130%2045%2C-120%2035%2C-90%20C15%2C-95%20-5%2C-95%20-12%2C-110%20Z%22%20fill%3D%22%2322c55e%22%2F%3E%3Cpath%20d%3D%22M-45%2C-65%20C-80%2C-20%20-70%2C65%20-20%2C105%20C10%2C125%2055%2C105%2068%2C55%20C82%2C5%2055%2C-65%2010%2C-75%20C-15%2C-80%20-32%2C-78%20-45%2C-65%20Z%22%20fill%3D%22%23f97316%22%2F%3E%3Cpath%20d%3D%22M-25%2C-45%20C-45%2C-10%20-38%2C50%20-5%2C80%22%20stroke%3D%22%23fdba74%22%20stroke-width%3D%2210%22%20stroke-linecap%3D%22round%22%20fill%3D%22none%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "cont-cinema4d",
@@ -15767,7 +15767,7 @@ export const DEFAULT_CATEGORIES = [
         "aliases": [
           "unity"
         ],
-        "imageUrl": "/logos/cont-unity.png"
+        "imageUrl": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20400%20400%22%20width%3D%22400%22%20height%3D%22400%22%3E%3Crect%20width%3D%22400%22%20height%3D%22400%22%20fill%3D%22%23ffffff%22%2F%3E%3Cg%20transform%3D%22translate%2880%2C80%29%20scale%2810%29%22%3E%3Cpath%20d%3D%22m12.9288%204.2939%203.7997%202.1929c.1366.077.1415.2905%200%20.3675l-4.515%202.6076a.4192.4192%200%200%201-.4246%200L7.274%206.8543c-.139-.0745-.1415-.293%200-.3675l3.7972-2.193V0L1.3758%205.5977V16.793l3.7177-2.1456v-4.3858c-.0025-.1565.1813-.2682.318-.1838l4.5148%202.6076a.4252.4252%200%200%201%20.2136.3676v5.2127c.0025.1565-.1813.2682-.3179.1838l-3.7996-2.1929-3.7178%202.1457L12%2024l9.6954-5.5977-3.7178-2.1457-3.7996%202.1929c-.1341.082-.3229-.0248-.3179-.1838V13.053c0-.1565.087-.2956.2136-.3676l4.5149-2.6076c.134-.082.3228.0224.3179.1838v4.3858l3.7177%202.1456V5.5977L12.9288%200Z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E"
       },
       {
         "id": "cont-loom",
@@ -17114,146 +17114,146 @@ export const DEFAULT_CATEGORIES = [
       {
         "id": "bridg_ext_1",
         "name": "Benedict Bridgerton",
-        "image": "/media/b774f7940df0.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/b774f7940df0.jpg"
       },
       {
         "id": "bridg_ext_2",
         "name": "Colin Bridgerton",
-        "image": "/media/8c34f00545ff.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/8c34f00545ff.jpg"
       },
       {
         "id": "bridg_ext_3",
         "name": "Gregory Bridgerton",
-        "image": "/media/1dc6f06d3e5f.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/1dc6f06d3e5f.jpg"
       },
       {
         "id": "bridg_ext_4",
         "name": "Edwina Sharma",
-        "image": "/media/d7e9a412ce4b.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/d7e9a412ce4b.jpg"
       },
       {
         "id": "bridg_ext_5",
         "name": "Portia Featherington",
-        "image": "/media/126d420d90d3.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/126d420d90d3.jpg"
       },
       {
         "id": "bridg_ext_6",
         "name": "Philippa Featherington",
-        "image": "/media/51477cf76cc7.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/51477cf76cc7.jpg"
       },
       {
         "id": "bridg_ext_7",
         "name": "Archibald Featherington",
-        "image": "/media/7d8a5316606f.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/7d8a5316606f.jpg"
       },
       {
         "id": "bridg_ext_8",
         "name": "Jack Featherington",
-        "image": "/media/779ce556227d.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/779ce556227d.jpg"
       },
       {
         "id": "bridg_ext_9",
         "name": "Brimsley",
-        "image": "/media/128b8988a556.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/128b8988a556.jpg"
       },
       {
         "id": "bridg_ext_10",
         "name": "Will Mondrich",
-        "image": "/media/07df5d30fec0.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/07df5d30fec0.jpg"
       },
       {
         "id": "bridg_ext_11",
         "name": "Alice Mondrich",
-        "image": "/media/3d685d899b4f.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/3d685d899b4f.jpg"
       },
       {
         "id": "bridg_ext_12",
         "name": "John Stirling (Kilmartin)",
-        "image": "/media/30d319e787a8.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/30d319e787a8.jpg"
       },
       {
         "id": "bridg_ext_13",
         "name": "Theo Sharpe",
-        "image": "/media/c16d458ce46d.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/c16d458ce46d.jpg"
       },
       {
         "id": "bridg_ext_14",
         "name": "Młody Król Jerzy III",
-        "image": "/media/cf3175e416be.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/cf3175e416be.jpg"
       },
       {
         "id": "bridg_ext_15",
         "name": "Młoda Lady Agatha Danbury",
-        "image": "/media/bf6ff3465814.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/bf6ff3465814.jpg"
       },
       {
         "id": "bridg_ext_16",
         "name": "Księżna Augusta",
-        "image": "/media/d61f96b05f8e.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/d61f96b05f8e.jpg"
       },
       {
         "id": "bridg_ext_17",
         "name": "Reynolds",
-        "image": "/media/bf6acb8449a8.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/bf6acb8449a8.jpg"
       },
       {
         "id": "bridg_ext_18",
         "name": "Pióro gęsie (Atrament)",
-        "image": "/media/9e7d473cb0f8.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/9e7d473cb0f8.jpg"
       },
       {
         "id": "bridg_ext_19",
         "name": "Lornetka teatralna",
-        "image": "/media/d71ab10e1671.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/d71ab10e1671.jpg"
       },
       {
         "id": "bridg_ext_20",
         "name": "Oranżeria",
-        "image": "/media/48894afc1121.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/48894afc1121.jpg"
       },
       {
         "id": "bridg_ext_21",
         "name": "Ogród angielski",
-        "image": "/media/d678039200f3.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/d678039200f3.jpg"
       },
       {
         "id": "bridg_ext_22",
         "name": "Peruka dworska",
-        "image": "/media/35ff8d8b13c3.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/35ff8d8b13c3.jpg"
       },
       {
         "id": "bridg_ext_23",
         "name": "Kieliszek szampana",
-        "image": "/media/b310ad867c6a.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/b310ad867c6a.jpg"
       },
       {
         "id": "bridg_ext_24",
         "name": "Złoty pierścień zaręczynowy",
-        "image": "/media/a2a8f96fb28f.jpg",
-        "categoryId": "bridgerton"
+        "categoryId": "bridgerton",
+        "imageUrl": "/media/a2a8f96fb28f.jpg"
       }
     ]
   },
@@ -19614,314 +19614,314 @@ export const DEFAULT_CATEGORIES = [
       {
         "id": "anat_1",
         "name": "Serce",
-        "image": "/media/d5f0a7eeeb72.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/d5f0a7eeeb72.jpg"
       },
       {
         "id": "anat_2",
         "name": "Płuca",
-        "image": "/media/64d689f106c3.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/64d689f106c3.jpg"
       },
       {
         "id": "anat_3",
         "name": "Mózg",
-        "image": "/media/349b8fe3faf4.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/349b8fe3faf4.jpg"
       },
       {
         "id": "anat_4",
         "name": "Wątroba",
-        "image": "/media/9c56bd020048.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/9c56bd020048.jpg"
       },
       {
         "id": "anat_5",
         "name": "Żołądek",
-        "image": "/media/903153421616.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/903153421616.jpg"
       },
       {
         "id": "anat_6",
         "name": "Nerki",
-        "image": "/media/5b0af28d1ffe.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/5b0af28d1ffe.jpg"
       },
       {
         "id": "anat_7",
         "name": "Jelito grube",
-        "image": "/media/89bc4c2b8c9d.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/89bc4c2b8c9d.jpg"
       },
       {
         "id": "anat_8",
         "name": "Jelito cienkie",
-        "image": "/media/254a64e8a5ce.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/254a64e8a5ce.jpg"
       },
       {
         "id": "anat_9",
         "name": "Trzustka",
-        "image": "/media/3abde97f5083.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/3abde97f5083.jpg"
       },
       {
         "id": "anat_10",
         "name": "Śledziona",
-        "image": "/media/0dad614583c4.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/0dad614583c4.jpg"
       },
       {
         "id": "anat_11",
         "name": "Pęcherzyk żółciowy",
-        "image": "/media/7de7f8f54f60.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/7de7f8f54f60.jpg"
       },
       {
         "id": "anat_12",
         "name": "Tarczyca",
-        "image": "/media/e60eaf01f727.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/e60eaf01f727.jpg"
       },
       {
         "id": "anat_13",
         "name": "Przełyk",
-        "image": "/media/dc80429506d6.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/dc80429506d6.jpg"
       },
       {
         "id": "anat_14",
         "name": "Tchawica",
-        "image": "/media/95186cc41057.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/95186cc41057.jpg"
       },
       {
         "id": "anat_15",
         "name": "Przepona",
-        "image": "/media/d75fc53e4331.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/d75fc53e4331.jpg"
       },
       {
         "id": "anat_16",
         "name": "Pęcherz moczowy",
-        "image": "/media/236329d9d21f.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/236329d9d21f.jpg"
       },
       {
         "id": "anat_17",
         "name": "Rdzeń kręgowy",
-        "image": "/media/1038f629f674.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/1038f629f674.jpg"
       },
       {
         "id": "anat_18",
         "name": "Móżdżek",
-        "image": "/media/bfdc7596928e.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/bfdc7596928e.jpg"
       },
       {
         "id": "anat_19",
         "name": "Czaszka",
-        "image": "/media/a86b517bb9a8.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/a86b517bb9a8.jpg"
       },
       {
         "id": "anat_20",
         "name": "Żuchwa",
-        "image": "/media/83b91c81338e.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/83b91c81338e.jpg"
       },
       {
         "id": "anat_21",
         "name": "Kręgosłup",
-        "image": "/media/d6996275863e.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/d6996275863e.jpg"
       },
       {
         "id": "anat_22",
         "name": "Obojczyk",
-        "image": "/media/a6b5f0d869dc.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/a6b5f0d869dc.jpg"
       },
       {
         "id": "anat_23",
         "name": "Łopatka",
-        "image": "/media/8718c1de0794.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/8718c1de0794.jpg"
       },
       {
         "id": "anat_24",
         "name": "Mostek",
-        "image": "/media/5980b9b8dff4.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/5980b9b8dff4.jpg"
       },
       {
         "id": "anat_25",
         "name": "Żebra (Klatka piersiowa)",
-        "image": "/media/ea32d6629d7d.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/ea32d6629d7d.jpg"
       },
       {
         "id": "anat_26",
         "name": "Kość ramienna",
-        "image": "/media/42213b3adbd0.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/42213b3adbd0.jpg"
       },
       {
         "id": "anat_27",
         "name": "Kość promieniowa",
-        "image": "/media/8ab23a751959.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/8ab23a751959.jpg"
       },
       {
         "id": "anat_28",
         "name": "Kość łokciowa",
-        "image": "/media/e6a3a263acf8.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/e6a3a263acf8.jpg"
       },
       {
         "id": "anat_29",
         "name": "Miednica",
-        "image": "/media/a572ee993b43.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/a572ee993b43.jpg"
       },
       {
         "id": "anat_30",
         "name": "Kość udowa",
-        "image": "/media/70efc0b9ab0a.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/70efc0b9ab0a.jpg"
       },
       {
         "id": "anat_31",
         "name": "Rzepka",
-        "image": "/media/7a5f3a0bd680.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/7a5f3a0bd680.jpg"
       },
       {
         "id": "anat_32",
         "name": "Kość piszczelowa",
-        "image": "/media/0822f17ab7d3.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/0822f17ab7d3.jpg"
       },
       {
         "id": "anat_33",
         "name": "Kość strzałkowa",
-        "image": "/media/d69cb51dcbb6.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/d69cb51dcbb6.jpg"
       },
       {
         "id": "anat_34",
         "name": "Kość krzyżowa",
-        "image": "/media/d5d34a521073.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/d5d34a521073.jpg"
       },
       {
         "id": "anat_35",
         "name": "Kości śródręcza",
-        "image": "/media/78ac375bff89.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/78ac375bff89.jpg"
       },
       {
         "id": "anat_36",
         "name": "Kość piętowa",
-        "image": "/media/1ad3be81c36b.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/1ad3be81c36b.jpg"
       },
       {
         "id": "anat_37",
         "name": "Biceps (Mięsień dwugłowy ramienia)",
-        "image": "/media/c758ee713674.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/c758ee713674.jpg"
       },
       {
         "id": "anat_38",
         "name": "Triceps (Mięsień trójgłowy ramienia)",
-        "image": "/media/a7fa6dd4a184.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/a7fa6dd4a184.jpg"
       },
       {
         "id": "anat_39",
         "name": "Mięsień naramienny",
-        "image": "/media/7a901aabdde8.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/7a901aabdde8.jpg"
       },
       {
         "id": "anat_40",
         "name": "Mięsień piersiowy większy",
-        "image": "/media/800ea813a7ca.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/800ea813a7ca.jpg"
       },
       {
         "id": "anat_41",
         "name": "Mięsień najszerszy grzbietu",
-        "image": "/media/b8a31a03a8fd.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/b8a31a03a8fd.jpg"
       },
       {
         "id": "anat_42",
         "name": "Mięsień czworoboczny (Kaptur)",
-        "image": "/media/3c4bb42257b3.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/3c4bb42257b3.jpg"
       },
       {
         "id": "anat_43",
         "name": "Mięsień prosty brzucha",
-        "image": "/media/21e86b95fafc.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/21e86b95fafc.jpg"
       },
       {
         "id": "anat_44",
         "name": "Mięśnie skośne brzucha",
-        "image": "/media/4bab749d149e.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/4bab749d149e.jpg"
       },
       {
         "id": "anat_45",
         "name": "Mięsień pośladkowy wielki",
-        "image": "/media/96622802338d.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/96622802338d.jpg"
       },
       {
         "id": "anat_46",
         "name": "Mięsień czworogłowy uda",
-        "image": "/media/767a76fc05b5.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/767a76fc05b5.jpg"
       },
       {
         "id": "anat_47",
         "name": "Mięsień dwugłowy uda",
-        "image": "/media/ec0ad69db417.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/ec0ad69db417.jpg"
       },
       {
         "id": "anat_48",
         "name": "Mięsień brzuchaty łydki",
-        "image": "/media/2ce01a34a8c3.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/2ce01a34a8c3.jpg"
       },
       {
         "id": "anat_49",
         "name": "Ścięgno Achillesa",
-        "image": "/media/da1768981847.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/da1768981847.jpg"
       },
       {
         "id": "anat_50",
         "name": "Mięsień krawiecki",
-        "image": "/media/0d9467e2aa4d.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/0d9467e2aa4d.jpg"
       },
       {
         "id": "anat_51",
         "name": "Mięsień mostkowo-obojczykowo-sutkowy",
-        "image": "/media/801de379a0f9.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/801de379a0f9.jpg"
       },
       {
         "id": "anat_52",
         "name": "Oko",
-        "image": "/media/2dd978cf994f.jpg",
-        "categoryId": "anatomy"
+        "categoryId": "anatomy",
+        "imageUrl": "/media/2dd978cf994f.jpg"
       }
     ]
   },
@@ -19933,314 +19933,314 @@ export const DEFAULT_CATEGORIES = [
       {
         "id": "sport_1",
         "name": "Piłka nożna",
-        "image": "/media/8900085f69c5.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/8900085f69c5.jpg"
       },
       {
         "id": "sport_2",
         "name": "Koszykówka",
-        "image": "/media/ddb82ee683c7.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/ddb82ee683c7.jpg"
       },
       {
         "id": "sport_3",
         "name": "Siatkówka",
-        "image": "/media/85810063aa64.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/85810063aa64.jpg"
       },
       {
         "id": "sport_4",
         "name": "Tenis ziemny",
-        "image": "/media/1f9ee4e423ba.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/1f9ee4e423ba.jpg"
       },
       {
         "id": "sport_5",
         "name": "Tenis stołowy (Ping-pong)",
-        "image": "/media/76aa54f66525.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/76aa54f66525.jpg"
       },
       {
         "id": "sport_6",
         "name": "Piłka ręczna",
-        "image": "/media/5b55836c9308.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/5b55836c9308.jpg"
       },
       {
         "id": "sport_7",
         "name": "Hokej na lodzie",
-        "image": "/media/3629349f77ba.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/3629349f77ba.jpg"
       },
       {
         "id": "sport_8",
         "name": "Hokej na trawie",
-        "image": "/media/bfeb2a020a40.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/bfeb2a020a40.jpg"
       },
       {
         "id": "sport_9",
         "name": "Rugby",
-        "image": "/media/1368ca13d45c.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/1368ca13d45c.jpg"
       },
       {
         "id": "sport_10",
         "name": "Futbol amerykański",
-        "image": "/media/e150db65a18e.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/e150db65a18e.jpg"
       },
       {
         "id": "sport_11",
         "name": "Baseball",
-        "image": "/media/76197916288a.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/76197916288a.jpg"
       },
       {
         "id": "sport_12",
         "name": "Krykiet",
-        "image": "/media/c5c42a2a3845.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/c5c42a2a3845.jpg"
       },
       {
         "id": "sport_13",
         "name": "Golf",
-        "image": "/media/3161c1bc47c7.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/3161c1bc47c7.jpg"
       },
       {
         "id": "sport_14",
         "name": "Badminton",
-        "image": "/media/ec3223f1b937.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/ec3223f1b937.jpg"
       },
       {
         "id": "sport_15",
         "name": "Squash",
-        "image": "/media/bca2696d31e1.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/bca2696d31e1.jpg"
       },
       {
         "id": "sport_16",
         "name": "Lekkoatletyka (Biegi)",
-        "image": "/media/4dee7ac9193d.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/4dee7ac9193d.jpg"
       },
       {
         "id": "sport_17",
         "name": "Skok o tyczce",
-        "image": "/media/4a848ceeac25.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/4a848ceeac25.jpg"
       },
       {
         "id": "sport_18",
         "name": "Skok wzwyż",
-        "image": "/media/2653f201920c.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/2653f201920c.jpg"
       },
       {
         "id": "sport_19",
         "name": "Skok w dal",
-        "image": "/media/54c83e45e116.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/54c83e45e116.jpg"
       },
       {
         "id": "sport_20",
         "name": "Rzut oszczepem",
-        "image": "/media/459bd5be71f2.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/459bd5be71f2.jpg"
       },
       {
         "id": "sport_21",
         "name": "Pchnięcie kulą",
-        "image": "/media/bdab17930566.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/bdab17930566.jpg"
       },
       {
         "id": "sport_22",
         "name": "Pływanie",
-        "image": "/media/9459d631dfbc.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/9459d631dfbc.jpg"
       },
       {
         "id": "sport_23",
         "name": "Piłka wodna",
-        "image": "/media/388724a57aa9.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/388724a57aa9.jpg"
       },
       {
         "id": "sport_24",
         "name": "Skoki do wody",
-        "image": "/media/f1cca4bbfc4d.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/f1cca4bbfc4d.jpg"
       },
       {
         "id": "sport_25",
         "name": "Wioślarstwo",
-        "image": "/media/96fd18035f06.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/96fd18035f06.jpg"
       },
       {
         "id": "sport_26",
         "name": "Kajakarstwo",
-        "image": "/media/74495698f6ba.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/74495698f6ba.jpg"
       },
       {
         "id": "sport_27",
         "name": "Żeglarstwo",
-        "image": "/media/880ff5bd9e4a.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/880ff5bd9e4a.jpg"
       },
       {
         "id": "sport_28",
         "name": "Surfing",
-        "image": "/media/d48156417a7d.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/d48156417a7d.jpg"
       },
       {
         "id": "sport_29",
         "name": "Kolarstwo szosowe",
-        "image": "/media/2bb73c01ec81.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/2bb73c01ec81.jpg"
       },
       {
         "id": "sport_30",
         "name": "Kolarstwo górskie (MTB)",
-        "image": "/media/ae612030f6a8.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/ae612030f6a8.jpg"
       },
       {
         "id": "sport_31",
         "name": "BMX",
-        "image": "/media/7e3323180ecd.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/7e3323180ecd.jpg"
       },
       {
         "id": "sport_32",
         "name": "Boks",
-        "image": "/media/ac088f513646.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/ac088f513646.jpg"
       },
       {
         "id": "sport_33",
         "name": "Zapasy",
-        "image": "/media/bbf26a75bacc.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/bbf26a75bacc.jpg"
       },
       {
         "id": "sport_34",
         "name": "Judo",
-        "image": "/media/cf21d1cbb622.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/cf21d1cbb622.jpg"
       },
       {
         "id": "sport_35",
         "name": "Karate",
-        "image": "/media/b0441a3683f1.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/b0441a3683f1.jpg"
       },
       {
         "id": "sport_36",
         "name": "Taekwondo",
-        "image": "/media/9b9cdcf4f5eb.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/9b9cdcf4f5eb.jpg"
       },
       {
         "id": "sport_37",
         "name": "Szermierka",
-        "image": "/media/45bd1eb3fe20.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/45bd1eb3fe20.jpg"
       },
       {
         "id": "sport_38",
         "name": "Łucznictwo",
-        "image": "/media/27d0b86d37bf.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/27d0b86d37bf.jpg"
       },
       {
         "id": "sport_39",
         "name": "Strzelectwo sportowe",
-        "image": "/media/ba8977672bad.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/ba8977672bad.jpg"
       },
       {
         "id": "sport_40",
         "name": "Podnoszenie ciężarów",
-        "image": "/media/8ca715c4280c.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/8ca715c4280c.jpg"
       },
       {
         "id": "sport_41",
         "name": "Gimnastyka sportowa",
-        "image": "/media/22dbeb695545.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/22dbeb695545.jpg"
       },
       {
         "id": "sport_42",
         "name": "Łyżwiarstwo figurowe",
-        "image": "/media/6cb823d7178b.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/6cb823d7178b.jpg"
       },
       {
         "id": "sport_43",
         "name": "Łyżwiarstwo szybkie",
-        "image": "/media/6a1381cb1556.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/6a1381cb1556.jpg"
       },
       {
         "id": "sport_44",
         "name": "Narciarstwo alpejskie",
-        "image": "/media/ebae17971c93.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/ebae17971c93.jpg"
       },
       {
         "id": "sport_45",
         "name": "Skoki narciarskie",
-        "image": "/media/7e5f7a048348.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/7e5f7a048348.jpg"
       },
       {
         "id": "sport_46",
         "name": "Biegi narciarskie",
-        "image": "/media/6fbda2645116.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/6fbda2645116.jpg"
       },
       {
         "id": "sport_47",
         "name": "Biathlon",
-        "image": "/media/1b916939a0cc.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/1b916939a0cc.jpg"
       },
       {
         "id": "sport_48",
         "name": "Snowboarding",
-        "image": "/media/86ec79f46e74.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/86ec79f46e74.jpg"
       },
       {
         "id": "sport_49",
         "name": "Curling",
-        "image": "/media/2263edce8eb6.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/2263edce8eb6.jpg"
       },
       {
         "id": "sport_50",
         "name": "Bobsleje",
-        "image": "/media/c1b091664412.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/c1b091664412.jpg"
       },
       {
         "id": "sport_51",
         "name": "Saneczkarstwo",
-        "image": "/media/55d30abeb1d5.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/55d30abeb1d5.jpg"
       },
       {
         "id": "sport_52",
         "name": "Jeździectwo",
-        "image": "/media/29b7142b5f5e.jpg",
-        "categoryId": "sports"
+        "categoryId": "sports",
+        "imageUrl": "/media/29b7142b5f5e.jpg"
       }
     ]
   },
@@ -20252,330 +20252,329 @@ export const DEFAULT_CATEGORIES = [
       {
         "id": "flwr_1",
         "name": "Róża",
-        "image": "/media/aa01f923b3eb.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/aa01f923b3eb.jpg"
       },
       {
         "id": "flwr_2",
         "name": "Tulipan",
-        "image": "/media/8897d4cdf137.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/8897d4cdf137.jpg"
       },
       {
         "id": "flwr_3",
         "name": "Słonecznik",
-        "image": "/media/a3fe23a3cbfd.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/a3fe23a3cbfd.jpg"
       },
       {
         "id": "flwr_4",
         "name": "Lawenda",
-        "image": "/media/4a7091307c7e.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/4a7091307c7e.jpg"
       },
       {
         "id": "flwr_5",
         "name": "Storczyk (Orchidea)",
-        "image": "/media/a5fa984eefdb.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/a5fa984eefdb.jpg"
       },
       {
         "id": "flwr_6",
         "name": "Konwalia majowa",
-        "image": "/media/99ddf87a29fd.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/99ddf87a29fd.jpg"
       },
       {
         "id": "flwr_7",
         "name": "Mak polny",
-        "image": "/media/89eee519b0a8.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/89eee519b0a8.jpg"
       },
       {
         "id": "flwr_8",
         "name": "Chaber bławatek",
-        "image": "/media/d486a939b476.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/d486a939b476.jpg"
       },
       {
         "id": "flwr_9",
         "name": "Stokrotka",
-        "image": "/media/f1b839703ae5.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/f1b839703ae5.jpg"
       },
       {
         "id": "flwr_10",
         "name": "Mniszek lekarski (Dmuchawiec)",
-        "image": "/media/277310d8b9ac.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/277310d8b9ac.jpg"
       },
       {
         "id": "flwr_11",
         "name": "Bez (Lilak)",
-        "image": "/media/86d6dab4237a.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/86d6dab4237a.jpg"
       },
       {
         "id": "flwr_12",
         "name": "Piwonia",
-        "image": "/media/0f33f9040884.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/0f33f9040884.jpg"
       },
       {
         "id": "flwr_13",
         "name": "Hortensja",
-        "image": "/media/13acf8fc7396.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/13acf8fc7396.jpg"
       },
       {
         "id": "flwr_14",
         "name": "Magnolia",
-        "image": "/media/e2cfde77f9a7.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/e2cfde77f9a7.jpg"
       },
       {
         "id": "flwr_15",
         "name": "Krokus",
-        "image": "/media/130becbce739.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/130becbce739.jpg"
       },
       {
         "id": "flwr_16",
         "name": "Narcyz (Żonkil)",
-        "image": "/media/e283ef0d0244.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/e283ef0d0244.jpg"
       },
       {
         "id": "flwr_17",
         "name": "Przebiśnieg",
-        "image": "/media/716a0aefba6f.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/716a0aefba6f.jpg"
       },
       {
         "id": "flwr_18",
         "name": "Goździk",
-        "image": "/media/c57cf3d826b2.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/c57cf3d826b2.jpg"
       },
       {
         "id": "flwr_19",
         "name": "Chryzantema",
-        "image": "/media/041610fee6cd.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/041610fee6cd.jpg"
       },
       {
         "id": "flwr_20",
         "name": "Irys (Kosaciec)",
-        "image": "/media/a9e0ad1db94d.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/a9e0ad1db94d.jpg"
       },
       {
         "id": "flwr_21",
         "name": "Lilia",
-        "image": "/media/2528b9392fc5.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/2528b9392fc5.jpg"
       },
       {
         "id": "flwr_22",
         "name": "Lotos",
-        "image": "/media/19d4e5bcbd58.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/19d4e5bcbd58.jpg"
       },
       {
         "id": "flwr_23",
         "name": "Dalia",
-        "image": "/media/23d753d11ad1.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/23d753d11ad1.jpg"
       },
       {
         "id": "flwr_24",
         "name": "Fiołek",
-        "image": "/media/6879e9e90b6b.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/6879e9e90b6b.jpg"
       },
       {
         "id": "flwr_25",
         "name": "Niezapominajka",
-        "image": "/media/3e4b3de9cad8.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/3e4b3de9cad8.jpg"
       },
       {
         "id": "flwr_26",
         "name": "Kaktus",
-        "image": "/media/c78d6ffa15fd.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/c78d6ffa15fd.jpg"
       },
       {
         "id": "flwr_27",
         "name": "Monstera",
-        "image": "/media/da01dcfd139f.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/da01dcfd139f.jpg"
       },
       {
         "id": "flwr_28",
         "name": "Paproć",
-        "image": "/media/4cf0c0f3456a.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/4cf0c0f3456a.jpg"
       },
       {
         "id": "flwr_29",
         "name": "Aloes",
-        "image": "/media/19d52ddbbd9e.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/19d52ddbbd9e.jpg"
       },
       {
         "id": "flwr_30",
         "name": "Fikus",
-        "image": "/media/0977f1b5ffb6.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/0977f1b5ffb6.jpg"
       },
       {
         "id": "flwr_31",
         "name": "Palma",
-        "image": "/media/c11cc24e9cc7.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/c11cc24e9cc7.jpg"
       },
       {
         "id": "flwr_32",
         "name": "Bambus",
-        "image": "/media/7e954bbb51d5.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/7e954bbb51d5.jpg"
       },
       {
         "id": "flwr_33",
         "name": "Bonsai",
-        "image": "/media/8070b4eb3890.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/8070b4eb3890.jpg"
       },
       {
         "id": "flwr_34",
         "name": "Bluszcz pospolity",
-        "image": "/media/b0860fd23949.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/b0860fd23949.jpg"
       },
       {
         "id": "flwr_35",
         "name": "Eukaliptus",
-        "image": "/media/14a6f0337b65.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/14a6f0337b65.jpg"
       },
       {
         "id": "flwr_36",
         "name": "Muchołówka amerykańska",
-        "image": "/media/cf2d9c6da3ed.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/cf2d9c6da3ed.jpg"
       },
       {
         "id": "flwr_37",
         "name": "Rosiczka",
-        "image": "/media/55b7f42f8d8e.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/55b7f42f8d8e.jpg"
       },
       {
         "id": "flwr_38",
         "name": "Dąb",
-        "image": "/media/88663bc2277f.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/88663bc2277f.jpg"
       },
       {
         "id": "flwr_39",
         "name": "Brzoza",
-        "image": "/media/8b4337b0789e.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/8b4337b0789e.jpg"
       },
       {
         "id": "flwr_40",
         "name": "Sosna",
-        "image": "/media/0841ab2b49d5.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/0841ab2b49d5.jpg"
       },
       {
         "id": "flwr_41",
         "name": "Klon",
-        "image": "/media/071465bcf248.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/071465bcf248.jpg"
       },
       {
         "id": "flwr_42",
         "name": "Wierzba płacząca",
-        "image": "/media/f6c79d682f5e.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/f6c79d682f5e.jpg"
       },
       {
         "id": "flwr_43",
         "name": "Kasztanowiec",
-        "image": "/media/69878ba9d7c5.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/69878ba9d7c5.jpg"
       },
       {
         "id": "flwr_44",
         "name": "Lipa",
-        "image": "/media/bbccc2d6546e.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/bbccc2d6546e.jpg"
       },
       {
         "id": "flwr_45",
         "name": "Jarzębina",
-        "image": "/media/8b016db1486c.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/8b016db1486c.jpg"
       },
       {
         "id": "flwr_46",
         "name": "Wiśnia japońska (Sakura)",
-        "image": "/media/fe4eca91f123.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/fe4eca91f123.jpg"
       },
       {
         "id": "flwr_47",
         "name": "Drzewo oliwne",
-        "image": "/media/a2ef01a4a411.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/a2ef01a4a411.jpg"
       },
       {
         "id": "flwr_48",
         "name": "Winorośl",
-        "image": "/media/c033570f18ad.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/c033570f18ad.jpg"
       },
       {
         "id": "flwr_49",
         "name": "Koniczyna",
-        "image": "/media/8e5f9a0fdc34.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/8e5f9a0fdc34.jpg"
       },
       {
         "id": "flwr_50",
         "name": "Pokrzywa",
-        "image": "/media/75d7d582b67c.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/75d7d582b67c.jpg"
       },
       {
         "id": "flwr_51",
         "name": "Wrzos",
-        "image": "/media/959c24a455a7.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/959c24a455a7.jpg"
       },
       {
         "id": "flwr_52",
         "name": "Gerbera",
-        "image": "/media/478e8e152e96.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/478e8e152e96.jpg"
       },
       {
         "id": "flwr_53",
         "name": "Begonia",
-        "image": "/media/8db4f506334e.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/8db4f506334e.jpg"
       },
       {
         "id": "flwr_54",
         "name": "Pelargonia",
-        "image": "/media/0a674e12c45d.jpg",
-        "categoryId": "flowers_plants"
+        "categoryId": "flowers_plants",
+        "imageUrl": "/media/0a674e12c45d.jpg"
       }
     ]
   }
-
 ];
 
 export function normalizeAnswer(str) {
